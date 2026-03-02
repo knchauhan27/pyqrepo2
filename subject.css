@@ -85,6 +85,7 @@ body {
   color: var(--text-primary);
   line-height: 1.6;
   min-height: 100vh;
+  overflow-x: hidden; /* prevent any horizontal scroll on the page */
   display: flex;
   flex-direction: column;
 }
@@ -272,12 +273,17 @@ body {
 .page-body {
   flex: 1;
   padding-bottom: 64px;
+  overflow-x: hidden;
 }
 
 .container {
   max-width: 960px;
   margin: 0 auto;
   padding: 0 22px;
+  /* Hard-stop any child overflow from escaping the viewport */
+  overflow-x: hidden;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 /* ============================================================
@@ -400,12 +406,16 @@ body {
   border: 1.5px solid var(--border);
   border-radius: var(--r-lg);
   box-shadow: var(--shadow-sm);
-  /* overflow:hidden removed — it clips horizontal chip scrolling.
-     Height collapse is handled by max-height + pointer-events. */
-  overflow: visible;
+  /* Clip the panel to its own box so chips don't escape the screen.
+     The chip-scroll-wrap inside handles its own overflow-x:auto. */
+  overflow: hidden;
   max-height: 0;
   opacity: 0;
   pointer-events: none;
+  /* Use width constraints so the panel never exceeds its parent */
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
   transition:
     max-height var(--tx-slow),
     opacity var(--tx-base),
@@ -424,6 +434,10 @@ body {
   grid-template-columns: repeat(3, 1fr);
   gap: 18px 20px;
   padding: 22px 24px;
+  /* Prevent grid from overflowing its panel container */
+  min-width: 0;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .filter-group {
@@ -949,14 +963,18 @@ body {
 /* Full-width filter group rows */
 .filter-group--full {
   grid-column: 1 / -1;
+  min-width: 0; /* critical: prevents grid blowout on chip scroll rows */
+  max-width: 100%;
+  overflow: hidden; /* clip at the group boundary before chip-scroll-wrap takes over */
 }
 
 /* Scrollable horizontal chip strip */
 .chip-scroll-wrap {
   overflow-x: auto;
-  overflow-y: visible;
+  overflow-y: hidden;
   -webkit-overflow-scrolling: touch; /* smooth momentum scroll on iOS */
   width: 100%;
+  max-width: 100%; /* never exceed the grid cell */
   min-width: 0; /* prevent flex child from overflowing parent */
   padding-bottom: 6px;
   scrollbar-width: thin;
