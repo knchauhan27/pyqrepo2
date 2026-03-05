@@ -937,24 +937,24 @@ body {
     margin: 16px 16px 0;
     padding: 8px 10px 8px 16px;
   }
-  
+
   .nav-center {
     gap: 16px;
   }
-  
+
   .nav-link {
     font-size: 13px;
   }
-  
+
   .auth-menu {
     gap: 6px;
   }
-  
+
   .user-email {
     font-size: 12px;
     padding: 6px 10px;
   }
-  
+
   .hero-title {
     font-size: clamp(48px, 12vw, 70px);
     letter-spacing: -2px;
@@ -985,35 +985,35 @@ body {
   .footer {
     padding: 16px 18px;
   }
-  
+
   .nav-pill {
     margin: 12px 12px 0;
     padding: 8px 8px;
     flex-wrap: wrap;
     gap: 12px;
   }
-  
+
   .nav-brand {
     font-size: 13px;
     flex: 0 0 100%;
   }
-  
+
   .nav-center {
     gap: 12px;
     flex: 0 0 100%;
     justify-content: center;
   }
-  
+
   .nav-link {
     font-size: 12px;
   }
-  
+
   .nav-actions {
     flex: 0 0 100%;
     justify-content: center;
     gap: 6px;
   }
-  
+
   .btn-ghost span:not(.filter-badge) {
     display: none;
   } /* hide text, keep icon */

@@ -469,26 +469,26 @@
     <script src="auth.js"></script>
     <!-- Authentication Protection -->
     <script src="auth-protect.js"></script>
-    
+
     <!-- About Us Modal Handler for Subject Page -->
     <script>
-      document.addEventListener("DOMContentLoaded", function() {
+      document.addEventListener("DOMContentLoaded", function () {
         const aboutBtn = document.getElementById("about-btn-subject");
         const aboutModal = document.getElementById("about-modal");
         const closeAboutBtn = document.getElementById("close-about-modal");
-        
+
         if (aboutBtn && aboutModal) {
-          aboutBtn.addEventListener("click", function() {
+          aboutBtn.addEventListener("click", function () {
             aboutModal.classList.add("active");
           });
         }
-        
+
         if (closeAboutBtn && aboutModal) {
-          closeAboutBtn.addEventListener("click", function() {
+          closeAboutBtn.addEventListener("click", function () {
             aboutModal.classList.remove("active");
           });
-          
-          aboutModal.addEventListener("click", function(e) {
+
+          aboutModal.addEventListener("click", function (e) {
             if (e.target === aboutModal) {
               aboutModal.classList.remove("active");
             }
@@ -496,7 +496,7 @@
         }
       });
     </script>
-    
+
     <!-- Subject Page Script -->
     <script src="subject.js"></script>
   </body>
