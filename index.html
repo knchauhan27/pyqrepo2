@@ -17,7 +17,13 @@
           <span class="nav-brand">PYQ Repository</span>
           <div class="nav-actions">
             <a href="#subjects" class="btn-dark">Select Subject</a>
-            <button id="sign-in-btn" class="btn-dark">Sign In</button>
+            <div class="auth-menu">
+              <button id="sign-in-btn" class="btn-dark">Sign In</button>
+              <div id="user-menu" class="user-menu hidden">
+                <div class="user-email" id="user-email"></div>
+                <button id="logout-btn" class="logout-link">Sign Out</button>
+              </div>
+            </div>
           </div>
         </nav>
 

@@ -606,6 +606,53 @@ body {
   text-decoration: underline;
 }
 
+/* ===========================
+   USER MENU
+   =========================== */
+
+.auth-menu {
+  position: relative;
+}
+
+.user-menu {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.user-menu.hidden {
+  display: none;
+}
+
+.user-email {
+  color: var(--white);
+  font-size: 13px;
+  font-weight: 500;
+  padding: 0 12px;
+  white-space: nowrap;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 8px 12px;
+  border-radius: var(--radius-md);
+}
+
+.logout-link {
+  background: var(--gray-900);
+  color: var(--white);
+  border: none;
+  border-radius: var(--radius-pill);
+  padding: 9px 20px;
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.logout-link:hover {
+  background: #1f2937;
+  transform: translateY(-1px);
+}
+
 /* ===========================   RESPONSIVE - TABLET
    =========================== */
 

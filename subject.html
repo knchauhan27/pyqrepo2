@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="subject.css" />
     <!-- jsPDF — loaded from CDN; swap for local /libs/jspdf.umd.min.js if preferred -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <!-- Supabase SDK -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   </head>
   <body>
     <!-- ========================================  HERO  ======================================== -->
@@ -369,6 +371,11 @@
       >
     </footer>
 
+    <!-- Supabase Configuration -->
+    <script src="supabase-config.js"></script>
+    <!-- Authentication Protection -->
+    <script src="auth-protect.js"></script>
+    <!-- Subject Page Script -->
     <script src="subject.js"></script>
   </body>
 </html>
