@@ -14,16 +14,18 @@
       <section class="hero">
         <!-- Navigation Pill -->
         <nav class="nav-pill">
-          <span class="nav-brand">PYQ Repository</span>
-          <div class="nav-actions">
-            <a href="#subjects" class="btn-dark">Select Subject</a>
-            <div class="auth-menu">
-              <button id="sign-in-btn" class="btn-dark">Sign In</button>
-              <div id="user-menu" class="user-menu hidden">
-                <div class="user-email" id="user-email"></div>
-                <button id="logout-btn" class="logout-link">Sign Out</button>
-              </div>
-            </div>
+          <a href="index.html" class="nav-brand">PYQ Repository</a>
+
+          <!-- Center Navigation -->
+          <div class="nav-center">
+            <a href="index.html" class="nav-link">Home</a>
+            <button id="about-btn" class="nav-link">About Us</button>
+            <button id="sign-in-btn" class="nav-link">Sign In</button>
+          </div>
+
+          <div id="user-menu" class="user-menu hidden">
+            <div class="user-email" id="user-email"></div>
+            <button id="logout-btn" class="logout-link">Sign Out</button>
           </div>
         </nav>
 
@@ -145,6 +147,84 @@
       </footer>
     </div>
     <!-- /page-wrapper -->
+
+    <!-- =====================
+     ABOUT US MODAL
+     ===================== -->
+    <div id="about-modal" class="about-modal">
+      <div class="about-modal-content">
+        <button class="about-modal-close" id="close-about-modal">
+          &times;
+        </button>
+
+        <h2>About RepoMed</h2>
+        <p class="about-intro">
+          <strong>Welcome to RepoMed – Your Digital PYQ Repository</strong>
+        </p>
+
+        <div class="about-content">
+          <h3>What We Offer</h3>
+          <p>
+            RepoMed is a comprehensive digital repository hosting previous year
+            questions (PYQs) from
+            <strong
+              >medical university exams and preliminary examinations</strong
+            >. We believe in making quality study materials accessible to all
+            medical students.
+          </p>
+
+          <h3>Our Mission</h3>
+          <p>
+            To empower medical students by providing organized, easily
+            searchable collections of previous year examination questions. Our
+            goal is to help students prepare effectively and efficiently for
+            their medical board exams.
+          </p>
+
+          <h3>What's Included</h3>
+          <ul class="features-list">
+            <li>
+              📚 <strong>Multiple Subjects:</strong> Anatomy, Physiology,
+              Biochemistry, Pathology, Pharmacology, and more
+            </li>
+            <li>
+              🎯 <strong>Organized Questions:</strong> Questions organized by
+              subject and examination year
+            </li>
+            <li>
+              🔍 <strong>Smart Search:</strong> Easily find questions by topic
+              or keyword
+            </li>
+            <li>
+              📥 <strong>Quick Download:</strong> Export questions as PDF for
+              offline studying
+            </li>
+            <li>
+              🔐 <strong>Secure Access:</strong> Sign in to personalize your
+              learning experience
+            </li>
+          </ul>
+
+          <h3>About Our Platform</h3>
+          <p>
+            Built by <strong>Brainspire</strong> in collaboration with
+            <strong>GMERS Gotri & BMC</strong>, RepoMed serves the medical
+            education community with a modern, mobile-friendly interface.
+            Whether you're preparing for your semester exams or board exams,
+            we've got you covered.
+          </p>
+
+          <p class="about-footer">
+            <em
+              >For questions or suggestions, reach out to us on GitHub or
+              contact us directly.</em
+            >
+          </p>
+        </div>
+
+        <button id="close-about-btn" class="btn-primary">Close</button>
+      </div>
+    </div>
 
     <!-- =====================
      AUTH MODAL

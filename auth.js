@@ -14,6 +14,12 @@ function initializeAuth() {
   const switchToSignupBtn = document.getElementById("switch-to-signup");
   const switchToSigninBtn = document.getElementById("switch-to-signin");
 
+  // About Us modal elements
+  const aboutBtn = document.getElementById("about-btn");
+  const aboutModal = document.getElementById("about-modal");
+  const closeAboutModalBtn = document.getElementById("close-about-modal");
+  const closeAboutBtn = document.getElementById("close-about-btn");
+
   // Sign In form elements
   const googleSigninBtn = document.getElementById("google-signin-btn");
   const signinEmail = document.getElementById("signin-email");
@@ -36,7 +42,40 @@ function initializeAuth() {
   console.log("Auth initialized successfully");
 
   // ===========================
-  // MODAL CONTROLS
+  // ABOUT US MODAL CONTROLS
+  // ===========================
+
+  // Open About Us modal
+  if (aboutBtn) {
+    aboutBtn.addEventListener("click", () => {
+      aboutModal.classList.add("active");
+    });
+  }
+
+  // Close About Us modal
+  if (closeAboutModalBtn) {
+    closeAboutModalBtn.addEventListener("click", () => {
+      aboutModal.classList.remove("active");
+    });
+  }
+
+  if (closeAboutBtn) {
+    closeAboutBtn.addEventListener("click", () => {
+      aboutModal.classList.remove("active");
+    });
+  }
+
+  // Close About modal when clicking outside
+  if (aboutModal) {
+    aboutModal.addEventListener("click", (e) => {
+      if (e.target === aboutModal) {
+        aboutModal.classList.remove("active");
+      }
+    });
+  }
+
+  // ===========================
+  // AUTH MODAL CONTROLS
   // ===========================
 
   // Open auth modal
