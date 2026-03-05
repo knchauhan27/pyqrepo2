@@ -8,7 +8,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Ophthalmology",
+    "topic": "Head and Neck",
     "subtopic": "Extraocular muscles",
     "question": "Write applied anatomy of extraocular muscles"
   },
@@ -34,7 +34,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Peripheral Nervous System",
+    "topic": "Neuroanatomy",
     "subtopic": "Brachial plexus",
     "question": "Write applied anatomy of brachial plexus"
   },
@@ -398,7 +398,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Rectum and Anal canal",
     "question": "Write applied anatomy of rectum & Anal canal"
   },
@@ -450,7 +450,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Rectus sheath",
     "question": "Write short notes on Rectus sheath"
   },
@@ -463,7 +463,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Ovary",
     "question": "Write short notes on Ovary"
   },
@@ -476,7 +476,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Ureter",
     "question": "Write short notes on Left ureter"
   },
@@ -580,7 +580,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Reproductive Medicine",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Assisted Reproduction",
     "question": "Write short notes on Surrogate mother"
   },
@@ -593,7 +593,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Reproductive Medicine",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Assisted Reproduction",
     "question": "Write short notes on Sperm bank"
   },
@@ -606,7 +606,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Disorders",
     "question": "Write short notes on X-linked disorders"
   },
@@ -619,7 +619,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Cell Biology",
+    "topic": "General Anatomy",
     "subtopic": "Stem cells",
     "question": "Write short notes on Stem cell"
   },
@@ -632,7 +632,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Abdominal wall",
     "question": "What is lumbar triangle? Give its clinical importance."
   },
@@ -684,7 +684,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "VSQ",
-    "topic": "Clinical Anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Rectum",
     "question": "What is proctoscopy?"
   },
@@ -762,7 +762,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Peripheral Nervous System",
+    "topic": "Neuroanatomy",
     "subtopic": "Brachial plexus",
     "question": "Write applied anatomy of Klumpke's Paralysis"
   },
@@ -1009,7 +1009,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "VSQ",
-    "topic": "Clinical Anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Breast",
     "question": "Name the radiological procedure done to diagnose early breast cancer."
   },
@@ -1100,7 +1100,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portocaval anastomosis",
     "question": "Write applied anatomy of Portocaval Anastomosis"
   },
@@ -1178,7 +1178,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Stomach",
     "question": "Write short notes on Lymphatic drainage of stomach"
   },
@@ -1191,7 +1191,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Peritoneum",
     "question": "Write short notes on Mesentery"
   },
@@ -1204,7 +1204,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Urethra",
     "question": "Write short notes on Male urethra"
   },
@@ -1308,7 +1308,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Reproductive Medicine",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Assisted Reproduction",
     "question": "Write short notes on In vitro fertilization (IVF)"
   },
@@ -1321,7 +1321,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Mutation",
     "question": "Write short notes on Mutation"
   },
@@ -1399,7 +1399,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Liver",
     "question": "Enumerate contents of porta hepatis."
   },
@@ -1412,7 +1412,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Ureter",
     "question": "Name the normal sites of constrictions of ureters."
   },
@@ -1464,7 +1464,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Peripheral Nervous System",
+    "topic": "Neuroanatomy",
     "subtopic": "Brachial plexus",
     "question": "Write applied anatomy of Erb's Paralysis"
   },
@@ -1802,7 +1802,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal Hernia",
     "question": "Write applied anatomy of Inguinal Hernia"
   },
@@ -1880,7 +1880,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Epiploic foramen",
     "question": "Write short notes on Epiploic foramen"
   },
@@ -1893,7 +1893,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "Write short notes on Supports of uterus"
   },
@@ -1906,7 +1906,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Ischiorectal fossa",
     "question": "Write short notes on Ischiorectal fossa"
   },
@@ -2010,7 +2010,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Reproductive Medicine",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Contraception",
     "question": "Write short notes on Tubectomy"
   },
@@ -2023,7 +2023,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Reproductive Medicine",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Assisted Reproduction",
     "question": "Write short notes on In vitro fertilization (I.V.F.)"
   },
@@ -2036,7 +2036,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Disorders",
     "question": "Write short notes on Turner's syndrome"
   },
@@ -2049,7 +2049,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Cytogenetics",
     "question": "Write short notes on Karyotyping"
   },
@@ -2062,7 +2062,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portal hypertension",
     "question": "Define 'Caput medusae'"
   },
@@ -2075,7 +2075,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Spleen",
     "question": "Name the ligaments attached to hilum of the Spleen."
   },
@@ -2140,7 +2140,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Ovary",
     "question": "Name the remnants of gubernaculum of ovary."
   },
@@ -2504,7 +2504,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal canal",
     "question": "Write short notes on Inguinal canal"
   },
@@ -2517,7 +2517,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Stomach",
     "question": "Write short notes on Lymphatic drainage of Stomach"
   },
@@ -2530,7 +2530,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Anal canal",
     "question": "Write short notes on Sphincters of anal canal"
   },
@@ -2543,7 +2543,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "X-inactivation",
     "question": "Write short notes on Lyon's hypothesis"
   },
@@ -2556,7 +2556,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Disorders",
     "question": "Write short notes on Down's syndrome"
   },
@@ -2725,7 +2725,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Lesser omentum",
     "question": "Name the structures present in right free margin of lesser omentum."
   },
@@ -2738,7 +2738,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portal hypertension",
     "question": "What is caput medusa?"
   },
@@ -2751,7 +2751,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Urinary bladder",
     "question": "Define 'Ectopia vesicae'."
   },
@@ -2790,7 +2790,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Gastrointestinal",
     "question": "Give one word for vomiting of blood."
   },
@@ -3141,7 +3141,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Disorders",
     "question": "Name the genetic disorder due to X-linked recessive inheritance."
   },
@@ -3167,7 +3167,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Perineal membrane",
     "question": "Write short notes on Perineal membrane"
   },
@@ -3180,7 +3180,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Peritoneum",
     "question": "Write short notes on Peritoneal recesses"
   },
@@ -3193,7 +3193,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Rectus sheath",
     "question": "Write short notes on Rectus sheath"
   },
@@ -3206,7 +3206,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Disorders",
     "question": "Write short notes on Turner's syndrome"
   },
@@ -3219,7 +3219,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "X-inactivation",
     "question": "Write short notes on Mary Lyon's hypothesis"
   },
@@ -3336,7 +3336,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Spermatic cord",
     "question": "Name the contents of spermatic cord."
   },
@@ -3362,7 +3362,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Duodenum",
     "question": "Hepatopancreatic duct opens at which level?"
   },
@@ -3414,7 +3414,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Scrotum",
     "question": "Define hydrocele."
   },
@@ -3440,7 +3440,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Veins",
     "question": "Write the termination of left testicular vein."
   },
@@ -3570,7 +3570,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Peripheral Nervous System",
+    "topic": "Neuroanatomy",
     "subtopic": "Brachial plexus",
     "question": "Write short notes on Posterior Cord of Brachial Plexus & its applied anatomy"
   },
@@ -4506,7 +4506,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal canal",
     "question": "Write short notes on Inguinal canal"
   },
@@ -4519,7 +4519,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portal vein",
     "question": "Write short notes on Portal vein"
   },
@@ -4532,7 +4532,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Psoas major",
     "question": "Write short notes on Psoas major muscle"
   },
@@ -4571,7 +4571,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Disorders",
     "question": "Write short notes on Turner's syndrome"
   },
@@ -4584,7 +4584,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "X-inactivation",
     "question": "Write short notes on Barr body"
   },
@@ -4701,7 +4701,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Abdominal wall",
     "question": "What is Petit's triangle?"
   },
@@ -4740,7 +4740,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Peritoneum",
     "question": "What do they represent – ligament of Treitz and round ligament of uterus?"
   },
@@ -4753,7 +4753,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Radiology",
+    "topic": "General Anatomy",
     "subtopic": "Urogenital system",
     "question": "Name the radiological methods to investigate female urogenital tract."
   },
@@ -4766,7 +4766,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Radiology",
+    "topic": "General Anatomy",
     "subtopic": "Hip joint",
     "question": "What is the radiological basis of congenital dislocation of hip?"
   },
@@ -5169,7 +5169,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Peripheral Nervous System",
+    "topic": "Neuroanatomy",
     "subtopic": "Neuroglia",
     "question": "What are the non-nervous cells present in peripheral nervous system?"
   },
@@ -5195,7 +5195,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Duodenal recesses",
     "question": "Write short notes on Duodenal recesses"
   },
@@ -5208,7 +5208,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Pelvic diaphragm",
     "question": "Write short notes on Pelvic diaphragm"
   },
@@ -5221,7 +5221,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Kidney",
     "question": "Write short notes on Coverings of Kidney"
   },
@@ -5247,7 +5247,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Cytogenetics",
     "question": "Write short notes on F.I.S.H."
   },
@@ -5260,7 +5260,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Disorders",
     "question": "Write short notes on X-linked disorders"
   },
@@ -5390,7 +5390,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Abdominal wall",
     "question": "What is \"linea semilunaris\"?"
   },
@@ -5403,7 +5403,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Gall bladder",
     "question": "Why is the gall bladder rarely involved in the malignancy of Liver?"
   },
@@ -5468,7 +5468,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Liver",
     "question": "What is coronary ligament?"
   },
@@ -5520,7 +5520,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Clinical Anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Rectum",
     "question": "What is proctoscopy?"
   },
@@ -5585,7 +5585,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Reproductive Medicine",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Assisted Reproduction",
     "question": "Write short notes on Surrogate mother"
   },
@@ -5832,7 +5832,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Spinal Nerves",
+    "topic": "Neuroanatomy",
     "subtopic": "Cervical plexus",
     "question": "Enumerate the structures innervated by ventral ramus of C1."
   },
@@ -5858,7 +5858,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Clinical Anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Larynx",
     "question": "What is tracheostomy and when is it done?"
   },
@@ -5884,7 +5884,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Kidney",
     "question": "Write short notes on Coverings of kidney"
   },
@@ -5897,7 +5897,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Perineal body",
     "question": "Write short notes on Perineal body"
   },
@@ -5910,7 +5910,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Duodenum",
     "question": "Write short notes on Second part of duodenum"
   },
@@ -5949,7 +5949,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Inheritance",
     "question": "Write short notes on Sex-linked inheritance"
   },
@@ -5962,7 +5962,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Aneuploidy",
     "question": "Write short notes on Aneuploidy"
   },
@@ -6092,7 +6092,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Rectus abdominis",
     "question": "What do the intersections of rectus abdominis signify?"
   },
@@ -6105,7 +6105,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Epiploic foramen",
     "question": "What is the clinical importance of epiploic foramen?"
   },
@@ -6118,7 +6118,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inflammation",
     "question": "Give one word for: (a) Inflammation of umbilicus (b) Excessive fluid collection in peritoneal cavity"
   },
@@ -6235,7 +6235,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Reproductive Medicine",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Contraception",
     "question": "What is tubectomy?"
   },
@@ -6482,7 +6482,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Hand",
+    "topic": "Upper Limb",
     "subtopic": "Infection",
     "question": "What is whitlow?"
   },
@@ -6573,7 +6573,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cell Biology",
+    "topic": "General Anatomy",
     "subtopic": "Endoplasmic reticulum",
     "question": "Give function of rough endoplasmic reticulum."
   },
@@ -6599,7 +6599,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Pancreas",
     "question": "Write short notes on Head of Pancreas"
   },
@@ -6612,7 +6612,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portal vein",
     "question": "Write short notes on Portal Vein"
   },
@@ -6625,7 +6625,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "Write short notes on Prolapse of uterus"
   },
@@ -6664,7 +6664,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Autosomal recessive inheritance",
     "question": "Write short notes on Autosomal recessive inheritance"
   },
@@ -6677,7 +6677,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Counselling",
     "question": "Write short notes on Genetic counselling"
   },
@@ -6807,7 +6807,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Aorta",
     "question": "Name two unpaired branches of Abdominal Aorta"
   },
@@ -6820,7 +6820,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Spermatic cord",
     "question": "Name contents of spermatic cord."
   },
@@ -6833,7 +6833,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Stomach",
     "question": "Name structures forming stomach bed."
   },
@@ -7392,7 +7392,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Inheritance",
     "question": "Write short notes on Inheritance"
   },
@@ -7405,7 +7405,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal canal",
     "question": "A 40 year old male professional weight lifter complains of swelling in right groin while lifting heavy weight which gets subsided by its own upon lying down. He also feels some dragging pain in both the groins while coughing or straining. Upon examination he found to have inguinal hernia. Answer following questions pertaining to the case. a. Describe boundaries of inguinal canal. b. Enumerate various mechanisms of inguinal canal to prevent hernia. c. Above is a case of direct or indirect inguinal hernia? Why? d. What is hernioplasty?"
   },
@@ -7418,7 +7418,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Anal canal",
     "question": "Describe anal canal under following headings. a. Changes in lining at various levels b. Arterial supply c. Venous drainage d. Lymphatic drainage e. Development f. Applied anatomy"
   },
@@ -7431,7 +7431,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "Describe various supports of uterus with relevant applied anatomy."
   },
@@ -7444,7 +7444,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Urinary bladder",
     "question": "Write short notes on Applied anatomy of urinary bladder"
   },
@@ -7457,7 +7457,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Peritoneum",
     "question": "Write short notes on Peritoneal recesses"
   },
@@ -7535,7 +7535,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Clinical Anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Gallbladder",
     "question": "What is Murphy's sign?"
   },
@@ -7548,7 +7548,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portal hypertension",
     "question": "Explain formation of caput medusae in a patient of portal hypertension."
   },
@@ -7561,7 +7561,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Chromosome",
     "question": "What is a Philadelphia chromosome?"
   },
@@ -7938,7 +7938,7 @@
     "exam": "Pre",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Peripheral Nervous System",
+    "topic": "Neuroanatomy",
     "subtopic": "Brachial plexus",
     "question": "Describe brachial plexus injuries."
   },
@@ -7977,7 +7977,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Endocrine",
+    "topic": "Head and Neck",
     "subtopic": "Adrenal gland",
     "question": "Enumerate hormones secreted by adrenal cortex."
   },
@@ -8146,7 +8146,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Disorders",
     "question": "Write short notes on Down's syndrome"
   },
@@ -8185,7 +8185,7 @@
     "exam": "Pre",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Kidney",
     "question": "Describe location, coverings, relations and interior of the right kidney."
   },
@@ -8198,7 +8198,7 @@
     "exam": "Pre",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "Describe the uterus under following headings: a. Normal axis b. External features c. Primary and secondary Supports d. Applied anatomy"
   },
@@ -8211,7 +8211,7 @@
     "exam": "Pre",
     "marks": 10,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Appendix",
     "question": "A 14-year-old girl complained of pain in the region of the umbilicus. She felt warm and uneasy, and had no appetite. Later, the pain seemed to have shifted to the right iliac fossa, and she was then taken to the emergency by her parents. a. Name the structure most likely inflamed in the above case. b. Describe the blood supply and various positions of the affected structure. c. Explain the anatomical basis of the referred pain, and add a note on the site of maximum tenderness in this condition."
   },
@@ -8224,7 +8224,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Rectus sheath",
     "question": "Write short notes on Rectus sheath"
   },
@@ -8237,7 +8237,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Epiploic foramen",
     "question": "Write short notes on Epiploic foramen"
   },
@@ -8328,7 +8328,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Ischio-anal fossa",
     "question": "Name any two structures which lie in the lateral wall of ischio-anal fossa."
   },
@@ -8367,7 +8367,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Spermatic cord",
     "question": "Name the arteries traversing within spermatic cord."
   },
@@ -8432,7 +8432,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Prostate",
     "question": "What is BPH? Which lobe of the prostate is enlarged in the BPH?"
   },
@@ -9004,7 +9004,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Peripheral Nervous System",
+    "topic": "Neuroanatomy",
     "subtopic": "Brachial plexus",
     "question": "Give a detailed description of brachial plexus injuries."
   },
@@ -9264,7 +9264,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Cytogenetics",
     "question": "Write short notes on Karyotyping"
   },
@@ -9277,7 +9277,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portocaval anastomosis",
     "question": "Describe portocaval anastomosis in details with neat and labeled diagram. Define portal hypertension. Describe various clinical presentations of portal hypertension."
   },
@@ -9290,7 +9290,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Pancreas",
     "question": "Mother of 10 days old baby visited pediatrician with complains of baby vomit out everything after feeding. Doctor after thorough investigations finds that child was having duodenal obstruction due to annular pancreas. Describe the parts, its relations, blood supply and anatomical basis of annular pancreas."
   },
@@ -9303,7 +9303,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Prostate",
     "question": "A 70 years old man attended surgical OPD with complains of urgency, increased frequency and inability to completely empty the bladder during micturition. Surgeon after thorough investigations, diagnosed him with BPH and advises him to undergo surgical treatment in order to get relief from the symptoms. Based on this, answer the following: a. What is BPH? b. Describe location, size, shape and relations of prostate. c. Describe various lobes of it, which lobe of prostate is enlarged in BPH? d. Describe various openings and internal features of prostatic urethra."
   },
@@ -9316,7 +9316,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Epiploic foramen",
     "question": "Write short notes on Epiploic foramen"
   },
@@ -9329,7 +9329,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Spermatic cord",
     "question": "Write short notes on Coverings and contents of spermatic cord"
   },
@@ -9420,7 +9420,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Peripheral Nervous System",
+    "topic": "Neuroanatomy",
     "subtopic": "Lumbosacral plexus",
     "question": "What is the root value of lumbo-sacral trunk?"
   },
@@ -9459,7 +9459,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "Which ligament is known as cardinal ligament of uterus? Why?"
   },
@@ -9485,7 +9485,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Cremaster muscle",
     "question": "What is cremasteric reflex?"
   },
@@ -9511,7 +9511,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Suprarenal gland",
     "question": "Inferior suprarenal artery is a branch of which artery?"
   },
@@ -9524,7 +9524,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Kidney",
     "question": "Which artery prevents the ascent of horse-shoe shaped kidneys?"
   },
@@ -9537,7 +9537,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Mesentery",
     "question": "Name any two structures crossed by root of mesentery."
   },
@@ -9732,7 +9732,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "case",
-    "topic": "Peripheral Nervous System",
+    "topic": "Neuroanatomy",
     "subtopic": "Brachial plexus",
     "question": "During delivery of a baby injury to upper trunk of brachial plexus occurred to the child while pulling away head from shoulder. In context with this give answers of following questions. a. What is Erb's point b. Name the involved nerve roots c. What are the causes of Erb's paralysis? d. Name the deformity and muscles involved?"
   },
@@ -9888,7 +9888,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cell Biology",
+    "topic": "General Anatomy",
     "subtopic": "Microvilli",
     "question": "What forms the brush border of the cell?"
   },
@@ -9992,7 +9992,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Disorders",
     "question": "Write short notes on Down's syndrome"
   },
@@ -10005,7 +10005,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Appendix",
     "question": "A young boy, about 17 years old was brought to the hospital with complaints of acute pain around the umbilicus, fever and vomiting. On examination, the surgeon found the area of maximum tenderness at the Mc Burney's point. The Psoas test was positive. (a) Name the clinical condition. (b) Give surface marking of Mc Burney's point. What is the importance of this point? (c) What are the different positions of appendix? Mention the most common position. (d) Comment on the arterial supply of the affected organ. (e) Why vermiform Appendix is known as abdominal tonsil? (f) What is anatomical basis of Psoas test?"
   },
@@ -10018,7 +10018,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Stomach",
     "question": "Describe the Stomach under the following headings: (a) Position & Gross features (b) Peritoneal and visceral relations (c) Blood supply (d) Lymphatic drainage (e) Applied anatomy of stomach"
   },
@@ -10031,7 +10031,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portocaval anastomosis",
     "question": "Write long answer on Applied anatomy of Portocaval anastomosis"
   },
@@ -10044,7 +10044,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Superior mesenteric artery",
     "question": "Write short notes on Superior mesenteric artery."
   },
@@ -10057,7 +10057,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Epiploic foramen",
     "question": "Write short notes on Epiploic foramen"
   },
@@ -10096,7 +10096,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Femoral hernia",
     "question": "A 50-year-old woman came to the hospital, when she noticed a lemon sized swelling in the upper thigh. On examination the swelling was inferior and lateral to the pubic tubercle and it was seen to push in to the saphenous opening. Questions: a. Which hernia gives rise to swelling below and lateral to pubic tubercle? b. Why it is more common in female? c. Name the passage through which the hernia entered the thigh? d. Give the name and the boundaries of the upper opening of the passage. e. Describe the direction of the hernia and importance of this knowledge to the surgeon. f. In case of strangulation of this hernia how is the upper opening of the passage enlarged? g. Describe abnormal obturator artery."
   },
@@ -10135,7 +10135,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Spermatic cord",
     "question": "What is varicocele & why it is common on left side?"
   },
@@ -10174,7 +10174,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Peripheral Nervous System",
+    "topic": "Neuroanatomy",
     "subtopic": "Sciatic nerve",
     "question": "Define Sciatica."
   },
@@ -10187,7 +10187,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Transpyloric plane",
     "question": "What is transpyloric plane?"
   },
@@ -10226,7 +10226,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Clinical Anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Gallbladder",
     "question": "What is Murphy's sign?"
   },
@@ -10252,7 +10252,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Disorders",
     "question": "Give genotype of Turner's syndrome."
   },
@@ -10343,7 +10343,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Mendelian inheritance",
     "question": "Write short notes on Mendel's law of heredity"
   },
@@ -10356,7 +10356,7 @@
     "exam": "Pre",
     "marks": 10,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Pregnancy and uterus",
     "question": "A 28 year old lady with 36 weeks of pregnancy rushed to ObGy OPD with severe pain in lower abdomen. She was shifted to labour room and upon examination the attending doctor advised emergency caesarian section. Answer the following questions related to this case. a. What is Oligohydramnios? b. From skin onwards, enumerate layers of abdominal wall needed to cut to reach to the fetus? c. Describe various supports of uterus. d. Where will be the placental attachment (most likely) in uterus in this case?"
   },
@@ -10369,7 +10369,7 @@
     "exam": "Pre",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Peritoneum",
     "question": "Draw and label: vertical and transverse tracing of peritoneum in female."
   },
@@ -10382,7 +10382,7 @@
     "exam": "Pre",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal canal",
     "question": "Describe Inguinal canal under following headings. a. Length and direction in adult males b. Formation and content c. Compare: Direct Vs. Indirect hernia"
   },
@@ -10395,7 +10395,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Perineal membrane",
     "question": "Write short notes on Draw and label: Male and female perineal membrane"
   },
@@ -10408,7 +10408,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portocaval anastomosis",
     "question": "Write short notes on Porto-caval anastomosis"
   },
@@ -10486,7 +10486,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Appendix",
     "question": "Draw and label: Mcburney's point."
   },
@@ -10499,7 +10499,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Appendix",
     "question": "What is Morris parallelogram?"
   },
@@ -10512,7 +10512,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Translocation",
     "question": "Explain Robertsonian translocation."
   },
@@ -10564,7 +10564,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Spermatic cord",
     "question": "Why varicocele is more common on left side?"
   },
@@ -10603,7 +10603,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Clinical Science",
+    "topic": "General Anatomy",
     "subtopic": "Diagnostic tests",
     "question": "Give full form of RT-PCR."
   },
@@ -10629,8 +10629,8 @@
     "exam": "Pre",
     "marks": 10,
     "type": "case",
-    "topic": "",
-    "subtopic": "",
+    "topic": "Thorax",
+    "subtopic": "Pneumonia",
     "question": "A 45 years old male patient came to OPD for having cough and fever for two weeks. He gave history of pain in right side of chest while coughing. Upon examination and investigation it turned out to be Pneumonia with pleural effusion. Please answer the following questions regarding this case. (1) a. Which pleura is pain sensitive? (1) b. Enumerate broncho-pulmonary segments of right side. (3) c. Sputum with blood is called as ______. (1) d. What care should be taken while doing pleural tapping if needed in this case? (1) e. Write down applied anatomy of pleura. (4)"
   },
   {
@@ -10707,7 +10707,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Special Senses",
+    "topic": "Neuroanatomy",
     "subtopic": "Histology Retina",
     "question": "Histology Retina."
   },
@@ -10824,7 +10824,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Breast",
     "question": "A 47-year-old woman noticed a painless lump in the in her left breast. On examination, a hard, discreet and painless lump was found in the upper lateral quadrant of her left breast. The nipple was also retracted. The skin over the lump found oedematous with dimpled appearance. Axillary lymph nodes were palpable and firm. It was diagnosed as cancer breast. Answer the following questions. 1. Where does the lymph from upper lateral quadrant drain? 2. Enumerate various groups of axillary lymph-nodes with their locations. 3. What causes the retraction of the nipple? 4. Explain the anatomical basis of characteristic skin appearance in the lump? What is it called? 5. Name the radiological procedure done for early detection of the breast cancer."
   },
@@ -10837,7 +10837,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Elbow Joint",
     "question": "Applied anatomy of elbow joint."
   },
@@ -10850,7 +10850,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Axillary Artery",
     "question": "Describe beginning, course, relations and branches of axillary artery."
   },
@@ -10941,7 +10941,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Anatomical Snuff Box",
     "question": "Write boundaries of anatomical snuff box."
   },
@@ -10954,7 +10954,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Clavipectoral Fascia",
     "question": "Name the structures piercing clavipectoral fascia."
   },
@@ -11006,7 +11006,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Internal Jugular Vein",
     "question": "Write long answer question on Thoracic Duct under headings: a. Features b. Course c. Relations d. Tributaries"
   },
@@ -11032,7 +11032,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "General Medicine",
+    "topic": "General Anatomy",
     "subtopic": "Doctor-Patient Relationship",
     "question": "Describe duties of doctors"
   },
@@ -11071,7 +11071,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Klinefelter's syndrome",
     "question": "Klinefelter’s syndrome"
   },
@@ -11084,7 +11084,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Ureter",
     "question": "A person with a complaint of shooting pain from loin to groin was identified based on symptoms, examination and radiological investigation as a case of ureteric colic due to impacted renal stones. Answer the questions under the following headings: 1. Which feature can be taken to differentiate the pain of ureteric colic from other painful conditions? 2. Explain anatomical basis of impaction of ureteric calculus. 3. Give anatomical basis for the pain radiating from Loin to groin. 4. What is hydroureter and hydronephrosis? Explain both the condition if occur in this case?"
   },
@@ -11097,7 +11097,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Uterus",
     "question": "Describe supports of uterus under the following headings: a. What is Anteversion & antiflixion. b. Primary supports c. Secondary supports"
   },
@@ -11110,7 +11110,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Rectum and Anal Canal",
     "question": "Applied anatomy of Rectum and anal canal."
   },
@@ -11123,7 +11123,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Duodenum",
     "question": "Second part of Duodenum."
   },
@@ -11136,7 +11136,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Peritoneum",
     "question": "Lesser sac"
   },
@@ -11162,7 +11162,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Meckel's Diverticulum",
     "question": "Meckel’s diverticulum."
   },
@@ -11175,7 +11175,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Sciatic Nerve",
     "question": "A 26 year old woman complained of shooting pain in gluteal region radiating along back of her right thigh and lateral side of right leg. Answer the following questions. 1. Identify the clinical condition in this case. 2. Which nerve is involved and what is its root value? It is a branch of which plexus? 3. What is straight leg raising test? If done on this patient why does it cause pain? 4. What is sleeping foot? 5. Enumerate causes of injury to this nerve"
   },
@@ -11188,7 +11188,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Knee Joint",
     "question": "Applied anatomy of Knee joint."
   },
@@ -11201,7 +11201,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Dorsalis Pedis Artery",
     "question": "Describe beginning, course, termination, relations and branches of dorsalis pedis artery."
   },
@@ -11214,7 +11214,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Common Peroneal Nerve",
     "question": "Which nerve is involved in injury to neck of fibula?"
   },
@@ -11227,7 +11227,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Femoral Ring",
     "question": "Write boundaries of femoral ring."
   },
@@ -11253,7 +11253,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Peyer's Patches",
     "question": "Where will you find payer’s patches?"
   },
@@ -11266,7 +11266,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Inferior Mesenteric Vein",
     "question": "Where does inferior mesenteric vein drain?"
   },
@@ -11279,7 +11279,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Diaphragm",
     "question": "Enumerate structures passing through aortic opening of diaphragm."
   },
@@ -11292,7 +11292,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Coronary Artery",
     "question": "Right coronary artery arises from which sinus?"
   },
@@ -11305,7 +11305,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Oesophageal Varices",
     "question": "What is oesophageal varices?"
   },
@@ -11318,7 +11318,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Tetralogy of Fallot",
     "question": "What is fallot’s tetrology?"
   },
@@ -11331,7 +11331,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Autosomal Dominant Disorders",
     "question": "Give two examples of autosomal dominant disorders?"
   },
@@ -11357,7 +11357,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Portal Vein",
     "question": "Portal Vein & Porto-caval anastomosis"
   },
@@ -11370,7 +11370,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Uterus",
     "question": "Supports of Uterus"
   },
@@ -11383,7 +11383,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Inguinal Canal",
     "question": "Inguinal hernia."
   },
@@ -11396,7 +11396,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Meiosis",
     "question": "Prophase of Meiosis"
   },
@@ -11409,7 +11409,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Turner's Syndrome",
     "question": "Turner's Syndrome."
   },
@@ -11487,7 +11487,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Obturator Nerve",
     "question": "Obturator nerve"
   },
@@ -11500,7 +11500,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Common Peroneal Nerve",
     "question": "Common peroneal nerve."
   },
@@ -11513,7 +11513,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Foot",
     "question": "Medial longitudinal arch of foot"
   },
@@ -11526,7 +11526,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Hip Joint",
     "question": "Ligaments of Hip Joint."
   },
@@ -11578,7 +11578,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Sciatic Nerve",
     "question": "What is the root value of Sciatic nerve ?"
   },
@@ -11604,7 +11604,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Aneuploidy",
     "question": "What is aneuploidy ?"
   },
@@ -11630,7 +11630,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Oesophagus",
     "question": "Mention the sites of constrictions of Oesophagus."
   },
@@ -11643,7 +11643,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Bursa",
     "question": "Name the affected bursae in following conditions : (i) Clergyman’s Knee (ii) Housemaid’s Knee."
   },
@@ -11656,7 +11656,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Alleles",
     "question": "What is alleles ?"
   },
@@ -11682,7 +11682,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Large Intestine",
     "question": "What is water-shed line ? Give its significance."
   },
@@ -11721,7 +11721,7 @@
     "exam": "Uni",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Special Senses",
+    "topic": "Head and Neck",
     "subtopic": "Eye",
     "question": "Movements of eyeball"
   },
@@ -11799,7 +11799,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Cubital Fossa",
     "question": "Cubital fossa"
   },
@@ -11812,7 +11812,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Hand",
     "question": "Lumbrical muscles of hand"
   },
@@ -11825,7 +11825,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Radial Artery",
     "question": "Radial artery in forearm"
   },
@@ -11929,7 +11929,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Hand",
     "question": "Why is pulp infection painful?"
   },
@@ -11994,7 +11994,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Shoulder",
     "question": "Name the structure involved in: (i) Painful arc syndrome"
   },
@@ -12007,7 +12007,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "Hand",
     "question": "Name the structure involved in: (ii) Pointing index finger"
   },
@@ -12046,7 +12046,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy - Regional",
+    "topic": "General Anatomy",
     "subtopic": "End Arteries",
     "question": "Give two examples of end arteries."
   },
@@ -12072,7 +12072,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Parotid gland",
+    "topic": "Head and Neck",
     "subtopic": "Applied anatomy",
     "question": "Applied anatomy of Parotid gland"
   },
@@ -12085,7 +12085,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Spinal cord",
+    "topic": "Neuroanatomy",
     "subtopic": "Applied anatomy",
     "question": "Applied anatomy of Spinal cord"
   },
@@ -12098,7 +12098,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Carpal tunnel syndrome",
+    "topic": "Upper Limb",
     "subtopic": "Applied anatomy",
     "question": "Carpal tunnel syndrome"
   },
@@ -12111,7 +12111,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Brain",
+    "topic": "Neuroanatomy",
     "subtopic": "Speech areas",
     "question": "Speech areas of brain"
   },
@@ -12124,7 +12124,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Brain",
+    "topic": "Neuroanatomy",
     "subtopic": "Circle of Willis",
     "question": "Circle of Willis"
   },
@@ -12137,7 +12137,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Brain",
+    "topic": "Neuroanatomy",
     "subtopic": "Third Ventricle",
     "question": "Third Ventricle"
   },
@@ -12150,7 +12150,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Nose and Paranasal sinuses",
+    "topic": "Head and Neck",
     "subtopic": "Maxillary air sinus",
     "question": "Maxillary air sinus"
   },
@@ -12163,7 +12163,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Ear",
+    "topic": "Head and Neck",
     "subtopic": "Tympanic membrane",
     "question": "Tympanic membrane"
   },
@@ -12176,7 +12176,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Brain",
+    "topic": "Neuroanatomy",
     "subtopic": "Cavernous sinus",
     "question": "Cavernous sinus"
   },
@@ -12189,7 +12189,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Eye",
+    "topic": "Head and Neck",
     "subtopic": "Histology",
     "question": "Histology of Eyelid"
   },
@@ -12202,7 +12202,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Eye",
+    "topic": "Head and Neck",
     "subtopic": "Histology",
     "question": "Histology of Cornea"
   },
@@ -12215,7 +12215,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Endocrine system",
+    "topic": "Head and Neck",
     "subtopic": "Development",
     "question": "Development of Thyroid"
   },
@@ -12228,7 +12228,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Endocrine system",
+    "topic": "Head and Neck",
     "subtopic": "Development",
     "question": "Development of pituitary gland"
   },
@@ -12241,7 +12241,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Pectoral region",
+    "topic": "Upper Limb",
     "subtopic": "Pectoralis major muscle",
     "question": "Pectoralis major muscle"
   },
@@ -12280,7 +12280,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "General anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Sesamoid bone",
     "question": "Sesamoid bone"
   },
@@ -12293,7 +12293,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "General anatomy",
+    "topic": "General Anatomy",
     "subtopic": "End artery",
     "question": "End artery"
   },
@@ -12332,7 +12332,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "VSQ",
-    "topic": "Eye",
+    "topic": "Head and Neck",
     "subtopic": "Black eye",
     "question": "What is Black eye?"
   },
@@ -12384,7 +12384,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "VSQ",
-    "topic": "Orbit",
+    "topic": "Head and Neck",
     "subtopic": "Optic canal",
     "question": "Name the two Structures passing through optic canal."
   },
@@ -12397,7 +12397,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "VSQ",
-    "topic": "Larynx",
+    "topic": "Head and Neck",
     "subtopic": "Muscles",
     "question": "Name the muscles which tense the vocal cords."
   },
@@ -12410,7 +12410,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "VSQ",
-    "topic": "Musculoskeletal system",
+    "topic": "Head and Neck",
     "subtopic": "Neck",
     "question": "What is torticollis?"
   },
@@ -12423,7 +12423,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "VSQ",
-    "topic": "Brain",
+    "topic": "Neuroanatomy",
     "subtopic": "Basal ganglia",
     "question": "Give the site of lesion in following two clinical conditions. (i) Parkinsonism"
   },
@@ -12436,7 +12436,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "VSQ",
-    "topic": "Brain",
+    "topic": "Neuroanatomy",
     "subtopic": "Basal ganglia",
     "question": "Give the site of lesion in following two clinical conditions. (ii) Chorea"
   },
@@ -12527,7 +12527,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Chromosomal abnormalities",
     "question": "Nondisjunction with example"
   },
@@ -12540,7 +12540,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "General anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Epiphysis",
     "question": "Epiphysis"
   },
@@ -12553,7 +12553,7 @@
     "exam": "Internals",
     "marks": 2,
     "type": "VSQ",
-    "topic": "General anatomy",
+    "topic": "General Anatomy",
     "subtopic": "End arteries",
     "question": "Give two examples of end arteries."
   },
@@ -12566,7 +12566,7 @@
     "exam": "Internals",
     "marks": 2,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Mosaicism",
     "question": "What is mosaicism?"
   },
@@ -12579,7 +12579,7 @@
     "exam": "Internals",
     "marks": 2,
     "type": "VSQ",
-    "topic": "General anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Stem cells",
     "question": "Define: stem cells"
   },
@@ -12592,7 +12592,7 @@
     "exam": "Internals",
     "marks": 2,
     "type": "VSQ",
-    "topic": "General anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Bones",
     "question": "Give two examples of miniature long bones."
   },
@@ -12644,7 +12644,7 @@
     "exam": "Internals",
     "marks": 2,
     "type": "VSQ",
-    "topic": "General anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Arthrodesis",
     "question": "What is arthrodesis?"
   },
@@ -12683,7 +12683,7 @@
     "exam": "Internals",
     "marks": 2,
     "type": "VSQ",
-    "topic": "General anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Nerves",
     "question": "Give examples of two nerves having pseudo-ganglion."
   },
@@ -12852,7 +12852,7 @@
     "exam": "Internals",
     "marks": 2,
     "type": "VSQ",
-    "topic": "General anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Bone",
     "question": "Enumerate cells of bones."
   },
@@ -13307,7 +13307,7 @@
     "exam": "Internals",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal canal",
     "question": "Describe the inguinal canal under following headings: definition, boundaries, structures passing through the canal, mechanism of inguinal canal and clinical anatomy"
   },
@@ -13320,7 +13320,7 @@
     "exam": "Internals",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Pelvic diaphragm",
     "question": "Describe the muscles of pelvic diaphragm under following headings: parts, actions, relations, morphology and applied anatomy."
   },
@@ -13333,7 +13333,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Arteries",
     "question": "Superior mesenteric artery"
   },
@@ -13346,7 +13346,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Peritoneum",
     "question": "Lesser omentum."
   },
@@ -13359,7 +13359,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Female reproductive system",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterine tube",
     "question": "Fallopian tube."
   },
@@ -13476,7 +13476,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Gallbladder",
     "question": "A 42 year old obese mother of 3 children was brought to the casualty with complaint of fever, nausea, vomiting and spasmodic pain in the right upper quadrant of abdomen. She complained that the pain was radiating to the right shoulder. She was very much uncomfortable when asked to take deep inspiration. Also on palpation, she felt sharp pain at the tip of right ninth costal cartilage. Answer the following questions: a) Identify the organ affected. b) Name its inferior relations from before backwards. c) Explain the radiation of pain to the right shoulder in this case. d) Name the surgical procedure to remove this organ."
   },
@@ -13489,7 +13489,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Gastrointestinal system",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Oesophagus",
     "question": "What is Baret’s oesophagus?"
   },
@@ -13502,7 +13502,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Gastrointestinal system",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Appendix",
     "question": "What is Typhliitis?"
   },
@@ -13515,7 +13515,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Eye",
+    "topic": "Head and Neck",
     "subtopic": "Anatomy",
     "question": "What is hiatus of Schwalbe?"
   },
@@ -13528,7 +13528,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Ligaments",
     "question": "What does it represent? (a) Ligamentum teres hepatis."
   },
@@ -13541,7 +13541,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Ligaments",
     "question": "What does it represent? (b) Sacrospinous ligament."
   },
@@ -13567,7 +13567,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Gastrointestinal system",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Hemorrhoids",
     "question": "What are the positions of primary haemorrhoids?"
   },
@@ -13580,7 +13580,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Male reproductive system",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Prostate",
     "question": "What is corpora amylacea of prostate?"
   },
@@ -13593,7 +13593,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Urogenital system",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Glands",
     "question": "Give location of the following: (1) Littre’s glands"
   },
@@ -13606,7 +13606,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "General anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Histology",
     "question": "Give location of the following: (2) Chief cells."
   },
@@ -13632,7 +13632,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Arteries",
     "question": "Write two branches of posterior division of Internal Iliac Artery."
   },
@@ -13645,7 +13645,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Veins",
     "question": "Where does it drain? a) Right Gastric Vein b) Left Ovarian Vein"
   },
@@ -13957,7 +13957,7 @@
     "exam": "Internals",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Prostate",
     "question": "Describe size and shape location coverings external features and lobes of the prostate. Add a note on its applied anatomy"
   },
@@ -13970,7 +13970,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal Hernia",
     "question": "A 70 year old male with history of chronic bronchitis and constipation complained of a gradually increasing swelling in his right groin and often feels dragging and aching sensation. Surgeon noticed a globular lump above the right pubic tubercle which expands on coughing. Diagnose direct inguinal hernia. Define superficial and deep inguinal ring. Describe boundaries of Hesselbachs triangle. Explain defensive mechanism of inguinal canal. Compare and contrast direct and indirect inguinal hernia."
   },
@@ -13983,7 +13983,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Stomach",
     "question": "Blood supply and lymphatic drainage of stomach"
   },
@@ -13996,7 +13996,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "Supports of uterus"
   },
@@ -14009,7 +14009,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Kidney",
     "question": "Relations of the left kidney"
   },
@@ -14022,7 +14022,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portal Hypertension",
     "question": "Portocaval anastomosis"
   },
@@ -14321,7 +14321,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Osteology",
+    "topic": "General Anatomy",
     "subtopic": "Skull",
     "question": "Sutural joints"
   },
@@ -14490,7 +14490,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Adrenal Gland",
     "question": "Enumerate hormones secreted by adrenal cortex."
   },
@@ -14659,7 +14659,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Chromosomal Anomalies",
     "question": "Downs syndrome"
   },
@@ -14698,7 +14698,7 @@
     "exam": "Pre",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Kidney",
     "question": "Describe location coverings relations and interior of the right kidney."
   },
@@ -14711,7 +14711,7 @@
     "exam": "Pre",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "Describe the uterus under following headings: Normal axis External features Primary and secondary Supports and Applied anatomy"
   },
@@ -14724,7 +14724,7 @@
     "exam": "Pre",
     "marks": 10,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Appendix",
     "question": "A 14-year-old girl complained of pain in the region of the umbilicus then shifted to the right iliac fossa with loss of appetite. Name the structure most likely inflamed. Describe the blood supply and various positions of the affected structure. Explain the anatomical basis of the referred pain and add a note on the site of maximum tenderness."
   },
@@ -14737,7 +14737,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Abdominal Wall",
     "question": "Rectus sheath"
   },
@@ -14750,7 +14750,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Peritoneum",
     "question": "Epiploic foramen"
   },
@@ -14841,7 +14841,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Ischio-anal Fossa",
     "question": "Name any two structures which lie in the lateral wall of ischio-anal fossa."
   },
@@ -14880,7 +14880,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Spermatic Cord",
     "question": "Name the arteries traversing within spermatic cord."
   },
@@ -14932,7 +14932,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal Region",
     "question": "Define Hesselbachs triangle."
   },
@@ -14945,7 +14945,7 @@
     "exam": "Pre",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Pelvis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Prostate",
     "question": "What is BPH? Which lobe of the prostate is enlarged in the BPH?"
   },
@@ -15179,7 +15179,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Endocrinology",
+    "topic": "Head and Neck",
     "subtopic": "Pituitary Gland",
     "question": "Name the sources from which pituitary gland develop."
   },
@@ -15231,7 +15231,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Liver",
     "question": "Name any two types of the cell present in the histology of the liver."
   },
@@ -15283,7 +15283,7 @@
     "exam": "Internals",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Hand",
+    "topic": "Upper Limb",
     "subtopic": "Midpalmar space",
     "question": "Mid Palmer space"
   },
@@ -15296,7 +15296,7 @@
     "exam": "Internals",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Shoulder",
+    "topic": "Upper Limb",
     "subtopic": "Rotator cuff",
     "question": "Rotator cuff of shoulder joint"
   },
@@ -15309,7 +15309,7 @@
     "exam": "Internals",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Brachial plexus",
+    "topic": "Upper Limb",
     "subtopic": "Applied anatomy",
     "question": "Applied Anatomy of brachial plexus"
   },
@@ -15322,7 +15322,7 @@
     "exam": "Internals",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Elbow",
+    "topic": "Upper Limb",
     "subtopic": "Anastomosis",
     "question": "Anastomosis around elbow joint"
   },
@@ -15348,7 +15348,7 @@
     "exam": "Internals",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Pleura",
+    "topic": "Thorax",
     "subtopic": "Applied anatomy",
     "question": "Applied Anatomy of Pleura"
   },
@@ -15361,7 +15361,7 @@
     "exam": "Internals",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Heart",
+    "topic": "Thorax",
     "subtopic": "Coronary artery",
     "question": "Right coronary artery"
   },
@@ -15374,7 +15374,7 @@
     "exam": "Internals",
     "marks": 4,
     "type": "SAQ",
-    "topic": "Pericardium",
+    "topic": "Thorax",
     "subtopic": "Fibrous pericardium",
     "question": "Fibrous pericardium"
   },
@@ -15387,7 +15387,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Trachea",
+    "topic": "Thorax",
     "subtopic": "Carina",
     "question": "What is Carina?"
   },
@@ -15400,7 +15400,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Hand",
+    "topic": "Upper Limb",
     "subtopic": "Infection",
     "question": "What is Whitlow?"
   },
@@ -15413,7 +15413,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Hand",
+    "topic": "Upper Limb",
     "subtopic": "Muscles",
     "question": "What are lumbricals?"
   },
@@ -15426,7 +15426,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Breast",
+    "topic": "Thorax",
     "subtopic": "Applied anatomy",
     "question": "Why breast abscess is drained by radial incision?"
   },
@@ -15439,7 +15439,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Upper limb",
+    "topic": "Upper Limb",
     "subtopic": "Cubital fossa",
     "question": "What are the contents of cubital fossa?"
   },
@@ -15452,7 +15452,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Lungs",
+    "topic": "Thorax",
     "subtopic": "Hilum",
     "question": "What is Hilum of Lungs?"
   },
@@ -15465,7 +15465,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Hand",
+    "topic": "Upper Limb",
     "subtopic": "Thenar muscles",
     "question": "Name the Thenar muscles."
   },
@@ -15478,7 +15478,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Elbow",
+    "topic": "Upper Limb",
     "subtopic": "Applied anatomy",
     "question": "What is Tennis elbow?"
   },
@@ -15491,7 +15491,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Breast",
+    "topic": "Thorax",
     "subtopic": "Imaging",
     "question": "What is Mammography?"
   },
@@ -15504,7 +15504,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Hand",
+    "topic": "Upper Limb",
     "subtopic": "Palmar fascia",
     "question": "What is Dupuytren's contracture?"
   },
@@ -15517,7 +15517,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Lungs",
+    "topic": "Thorax",
     "subtopic": "Bronchopulmonary segment",
     "question": "What is a Bronchopulmonary segment?"
   },
@@ -15530,7 +15530,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Upper limb",
+    "topic": "Upper Limb",
     "subtopic": "Lymphatics",
     "question": "Name the Main lymph node of Upper limb."
   },
@@ -15543,7 +15543,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Breast",
+    "topic": "Thorax",
     "subtopic": "Blood supply",
     "question": "What is the blood supply of female mammary gland?"
   },
@@ -15569,7 +15569,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Upper limb",
+    "topic": "Upper Limb",
     "subtopic": "Joints",
     "question": "Name the type of joint (1) First carpometacarpal (2) Sternoclavicular joint"
   },
@@ -15582,7 +15582,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Breast",
+    "topic": "Thorax",
     "subtopic": "Applied anatomy",
     "question": "What is the anatomical basis of retraction of nipple in cancer of breast?"
   },
@@ -15595,7 +15595,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Hand",
+    "topic": "Upper Limb",
     "subtopic": "Muscles",
     "question": "What is the action of flexor digitorum profundus?"
   },
@@ -15608,7 +15608,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Shoulder",
+    "topic": "Upper Limb",
     "subtopic": "Quadrangular space",
     "question": "Name the contents of Quadrangular space?"
   },
@@ -15621,7 +15621,7 @@
     "exam": "Internals",
     "marks": 20,
     "type": "LAQ",
-    "topic": "Breast",
+    "topic": "Thorax",
     "subtopic": "Applied anatomy",
     "question": "Discuss relations and lymphatic drainage of Breast. Describe its surgical relevance."
   },
@@ -15634,7 +15634,7 @@
     "exam": "Internals",
     "marks": 20,
     "type": "LAQ",
-    "topic": "Pleura",
+    "topic": "Thorax",
     "subtopic": "Applied anatomy",
     "question": "Describe pleura and its lines of reflections. Describe applied anatomy of pleura."
   },
@@ -15647,7 +15647,7 @@
     "exam": "Internals",
     "marks": 20,
     "type": "LAQ",
-    "topic": "Uterus",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Supports",
     "question": "Describe supports of uterus. Discuss its surgical importance."
   },
@@ -15660,7 +15660,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Upper limb",
+    "topic": "Upper Limb",
     "subtopic": "Arteries",
     "question": "Describe course, relations and branches of Brachial artery"
   },
@@ -15673,7 +15673,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Duodenum",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Microanatomy",
     "question": "Describe microanatomy of Duodenum"
   },
@@ -15686,7 +15686,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Spermatic cord",
     "question": "Describe spermatic cord"
   },
@@ -15699,7 +15699,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Heart",
+    "topic": "Thorax",
     "subtopic": "Atrium",
     "question": "Discuss Right atrium and Interatrial septum anomalies"
   },
@@ -15712,7 +15712,7 @@
     "exam": "Internals",
     "marks": 10,
     "type": "case",
-    "topic": "Kidney",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Applied anatomy",
     "question": "A 30 year old was brought to the casuallity with a bleeding stab wound in left loin .There was marked swelling in left renal angle. Plain X-ray revealed fracture of 11th and 12th ribs. (A) Which organ is damaged? (B) Give anterior relations of this organ of both sides. (C) Mention the development sources of this organ with two important anomalies."
   },
@@ -15725,7 +15725,7 @@
     "exam": "Internals",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Hand",
+    "topic": "Upper Limb",
     "subtopic": "Claw hand",
     "question": "Describe anatomical basis of Claw hand"
   },
@@ -15751,7 +15751,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Liver",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Microanatomy",
     "question": "Describe Microanatomy of Liver"
   },
@@ -15764,7 +15764,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Testis",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Development",
     "question": "Describe development and descent of Testis"
   },
@@ -15777,7 +15777,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Ureter",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Microanatomy",
     "question": "Describe microanatomy of Ureter"
   },
@@ -15803,7 +15803,7 @@
     "exam": "Internals",
     "marks": 10,
     "type": "case",
-    "topic": "Oesophagus",
+    "topic": "Thorax",
     "subtopic": "Applied anatomy",
     "question": "A 58-year old lady complained of dysphagia of one month duration. Barium Swallow and oesophagoscopy were performed. A biopsy taken from lower third oesophagus confirmed malignancy. (A) Discuss normal extent and constrictions in oesophagus. (B) Describe its arterial supply and lymphatic drainage. (C) Write a note on lower oesophageal sphincter."
   },
@@ -15816,7 +15816,7 @@
     "exam": "Internals",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Shoulder joint",
+    "topic": "Upper Limb",
     "subtopic": "Abduction",
     "question": "Describe Abduction at shoulder joint with its clinical relevance."
   },
@@ -15829,7 +15829,7 @@
     "exam": "Internals",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Appendix",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Applied anatomy",
     "question": "Describe the location, blood supply of Appendix with its applied anatomy."
   },
@@ -15842,7 +15842,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Dermatomes",
     "question": "Which dermatome overlies Umbilicus?"
   },
@@ -15855,7 +15855,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Perineum",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Glands",
     "question": "Name the glands in female superficial perineal pouch."
   },
@@ -15868,7 +15868,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Heart",
+    "topic": "Thorax",
     "subtopic": "Surface anatomy",
     "question": "What is the area of cardiac dullness?"
   },
@@ -15881,7 +15881,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Heart",
+    "topic": "Thorax",
     "subtopic": "Angina",
     "question": "What is the anatomical basis of angina Pectoris?"
   },
@@ -15894,7 +15894,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Respiratory",
+    "topic": "Thorax",
     "subtopic": "Muscles",
     "question": "Name the principal muscle of expiration."
   },
@@ -15933,7 +15933,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Transpyloric plane",
     "question": "What is the vertebral level of transpyloric plane? Name two important structures at this level."
   },
@@ -15946,7 +15946,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Hernia",
     "question": "What is Hiatus hernia?"
   },
@@ -15959,7 +15959,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Prostate",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Relations",
     "question": "Give the posterior relations of prostate gland."
   },
@@ -15972,7 +15972,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal region",
     "question": "Name the boundaries of Hasselbach's triangle."
   },
@@ -16037,7 +16037,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Urinary bladder",
     "question": "Nerve supply of urinary bladder"
   },
@@ -16050,7 +16050,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Peritoneum",
     "question": "Lesser sac"
   },
@@ -16063,7 +16063,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Pelvis",
     "question": "Pelvic diaphragm"
   },
@@ -16076,7 +16076,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Biliary apparatus",
     "question": "Bile duct"
   },
@@ -16154,7 +16154,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "General",
+    "topic": "General Anatomy",
     "subtopic": "Arteries",
     "question": "Anastomosis"
   },
@@ -16167,7 +16167,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "General",
+    "topic": "General Anatomy",
     "subtopic": "Joints",
     "question": "Classification of synovial joint"
   },
@@ -16180,7 +16180,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Cytogenetics",
     "question": "Karyotyping"
   },
@@ -16193,7 +16193,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Genetics",
     "question": "Mendle's law"
   },
@@ -16232,7 +16232,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Reproductive system",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Contraception",
     "question": "Vasectomy and Tubectomy"
   },
@@ -16245,7 +16245,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Veins",
     "question": "Applied aspect of Portocaval anastomosis"
   },
@@ -16258,7 +16258,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Gastrointestinal",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Stomach",
     "question": "Gastric glands"
   },
@@ -16271,7 +16271,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Lymphatic system",
+    "topic": "Histology",
     "subtopic": "Tonsil",
     "question": "Histology Of Tonsil"
   },
@@ -16284,7 +16284,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Gastrointestinal",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Liver",
     "question": "Histology Of Liver"
   },
@@ -16336,7 +16336,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Bone",
+    "topic": "General Anatomy",
     "subtopic": "General",
     "question": "Define diaphysis and epiphysis."
   },
@@ -16349,7 +16349,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Heart",
+    "topic": "Thorax",
     "subtopic": "Histology",
     "question": "What is intercalated disc?"
   },
@@ -16388,7 +16388,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "General",
+    "topic": "General Anatomy",
     "subtopic": "Glands",
     "question": "Define Holocrine Gland and give its example."
   },
@@ -16453,7 +16453,7 @@
     "exam": "Internals",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Transpyloric plane",
     "question": "Define transpyloric plane and mention its importance?"
   },
@@ -16466,7 +16466,7 @@
     "exam": "Internals",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Urogenital System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Prostate",
     "question": "Describe size and shape, location, coverings, external features and lobes of the prostate. Add a note on its applied anatomy"
   },
@@ -16478,8 +16478,8 @@
     "year": 2022,
     "exam": "Internals",
     "marks": 5,
-    "type": "Case",
-    "topic": "Abdominal Wall",
+    "type": "case",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal Hernia",
     "question": "A 70 year old male with history of chronic bronchitis and constipation complained that he noticed a gradually increasing swelling in his right groin and often feels dragging and aching sensation at that site. On physical examination, the surgeon noticed a globular lump above the right pubic tubercle which expands on coughing. The condition was diagnosed as 'direct inguinal hernia'. i. Define superficial inguinal ring and deep inguinal ring. [01] ii. Describe boundaries of Hesslabach's triangle. [01] iii. Explain the defensive mechanism of inguinal canal [02] iv. Compare and contrast direct and indirect inguinal hernia. [01]"
   },
@@ -16492,7 +16492,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Gastrointestinal System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Stomach",
     "question": "Write a short note on Blood supply and lymphatic drainage of stomach"
   },
@@ -16505,7 +16505,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "Write a short note on Supports of uterus"
   },
@@ -16518,7 +16518,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Urinary System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Kidney",
     "question": "Write a short note on Relations of the left kidney"
   },
@@ -16531,7 +16531,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Vascular System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portocaval Anastomosis",
     "question": "Write a short note on Portocaval anastomosis"
   },
@@ -16544,7 +16544,7 @@
     "exam": "Internals",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Pericardium",
     "question": "Describe the pericardium with its sinuses with neat and labelled diagrams. Write about its blood supply, nerve supply and applied anatomy"
   },
@@ -16556,8 +16556,8 @@
     "year": 2022,
     "exam": "Internals",
     "marks": 5,
-    "type": "Case",
-    "topic": "Respiratory System",
+    "type": "case",
+    "topic": "Thorax",
     "subtopic": "Pleura",
     "question": "A 30 year old female visited the hospital and complained that she had been feeling severe pain on the right side of her chest for past two weeks and has a little difficulty in breathing. She also told that pain often radiated to the anterior abdominal wall. On auscultation the doctor noticed the absence of breath sounds over the inferior lobe of her right lung. The X-ray chest PA view revealed blunting of right costodiaphragmatic angle and a line of fluid level. Based on this case scenario, answer the following questions: i. What is the clinical condition? [01] ii. Define pleural cavity and recesses of pleura. [02] iii. What is the anatomical basis of radiation of pain to the anterior abdominal wall? [01] iv. What is paracentesis thoracis and where it is done? [01]"
   },
@@ -16570,7 +16570,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Coronary Arteries",
     "question": "Write a short note on Right coronary artery"
   },
@@ -16660,7 +16660,7 @@
     "year": 2022,
     "exam": "Internals",
     "marks": 5,
-    "type": "Case",
+    "type": "case",
     "topic": "Upper Limb",
     "subtopic": "Mammary Gland",
     "question": "A 55 year old female complained to the doctor of hard painless lump in the upper and outer quadrant of her right breast. The examination of breast revealed Peau d' orange appearance of the skin, loss of mobility of breast and retraction of nipple. The examination of axilla revealed the enlargement of axillary lymph nodes. The X-ray of vertebral column revealed irregular shadow in the vertebral bodies of T6 and T7 vertebrae. i. Name the clinical condition and explain the anatomical basis of the changes mentioned above. [02] ii. Name the two muscles which form mammary bed. [01] iii. Mention the lymphatic drainage of mammary gland. [02]"
@@ -17116,7 +17116,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Cardiovascular",
+    "topic": "Thorax",
     "subtopic": "Heart",
     "question": "Describe Coronary circulation under following headings. a. Branches of coronary arteries b. Coronary sinus c. Relevant applied anatomy."
   },
@@ -17129,7 +17129,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Cardiovascular",
+    "topic": "Thorax",
     "subtopic": "Pericardium",
     "question": "Describe pericardium under following headings. a. Fibrous pericardium b. Sinuses of pericardium c. Applied anatomy."
   },
@@ -17142,7 +17142,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Respiratory",
+    "topic": "Thorax",
     "subtopic": "Lungs",
     "question": "A 50 years old male patient came to OPD for having cough and blood in sputum since last few weeks. Upon examination and investigation it turned out to be a case of pulmonary tuberculosis affecting right upper lobe. Please answer the following questions regarding this case. a. Describe broncho-pulmonary segments. b. What is the nerve supply of pleura? c. Write down applied anatomy of pleura."
   },
@@ -17194,7 +17194,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Cytogenetics",
     "question": "Karyotyping."
   },
@@ -17207,7 +17207,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Counseling",
     "question": "Genetic counseling."
   },
@@ -17220,7 +17220,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Gastrointestinal System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Liver",
     "question": "A 45 year old male patient came to emergency room with complaint of blood in vomitus. Upon examination he was having distended abdomen and signs of jaundice. There is a history of alcohol addiction. Further investigation revealed cirrhosis of liver with portal hypertension. Answer the following questions related to this case. a. The clinical term used for blood in vomitus is ______ and blood in stool is ______. b. Enumerate tributaries of portal vein. c. Describe porto-caval anastomosis. d. Enumerate developmental components of portal vein."
   },
@@ -17233,7 +17233,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Prostate",
     "question": "Describe Prostate under following headings. a. Capsule b. Lobes c. Prostatic urethra d. Clinical anatomy."
   },
@@ -17246,7 +17246,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal Canal",
     "question": "Describe Inguinal canal under following headings. a. Formation and contents b. Compare : Direct Vs. Indirect hernia."
   },
@@ -17259,7 +17259,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Gastrointestinal System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Anal Canal",
     "question": "Anal canal."
   },
@@ -17272,7 +17272,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Peritoneum",
     "question": "Lesser sac."
   },
@@ -17350,7 +17350,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Appendix",
     "question": "What is Mcburney's point?"
   },
@@ -17363,7 +17363,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Surface Anatomy",
     "question": "Draw and label : Morris parallelogram."
   },
@@ -17376,7 +17376,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Basic Concepts",
     "question": "What is pleiotropy?"
   },
@@ -17441,7 +17441,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Ureter",
     "question": "Enumerate any two normal sites of constriction of ureter."
   },
@@ -17571,7 +17571,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Musculoskeletal System",
+    "topic": "General Anatomy",
     "subtopic": "Long Bone",
     "question": "Anastomosis OR Blood supply of long bone"
   },
@@ -17675,7 +17675,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Musculoskeletal System",
+    "topic": "Upper Limb",
     "subtopic": "Brachial Plexus",
     "question": "A baby with a history of forceps delivery was brought to the pediatrician after 4 weeks for a routine checkup. On examination, the doctor observed that the baby's left arm was medially rotated and adducted while the left forearm was pronated and extended. Answer the following questions a. Name the position of left upper limb and mention the lesion site. b. Explain anatomical basis of this position of arm& Forearm c. Draw and label brachial plexus"
   },
@@ -17688,7 +17688,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Musculoskeletal System",
+    "topic": "Upper Limb",
     "subtopic": "Radioulnar Joint",
     "question": "Describe Radioulnar joint under following headings a. Mention type and subtype of Radioulnar joint b. Pronation & supination movements c. Explain the followings: - Tennis elbow - Golfers elbow - Student's elbow - Pulled elbow"
   },
@@ -17701,7 +17701,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Musculoskeletal System",
+    "topic": "Upper Limb",
     "subtopic": "Hand",
     "question": "Describe Hand under following headings a. Describe Superficial & deep palmar arch b. Describe Mid palmar space"
   },
@@ -17740,7 +17740,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Musculoskeletal System",
+    "topic": "General Anatomy",
     "subtopic": "Composite Muscle",
     "question": "Define composite muscle give one example."
   },
@@ -17792,7 +17792,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Musculoskeletal System",
+    "topic": "Upper Limb",
     "subtopic": "Hand",
     "question": "Name the affected nerve for the Ape thumb deformity."
   },
@@ -17831,7 +17831,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Musculoskeletal System",
+    "topic": "Lower Limb",
     "subtopic": "Joints",
     "question": "What is saddle variety of synovial joint?"
   },
@@ -17844,7 +17844,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Musculoskeletal System",
+    "topic": "Upper Limb",
     "subtopic": "Shoulder",
     "question": "Mention the actions of deltoid muscle."
   },
@@ -17857,7 +17857,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Coronary Arteries",
     "question": "A 48-year-old banker developed retrosternal pain on the 1st day of his marathon training. Pain was radiating towards the left jaw and medial side of arm. After supportive treatment & coronary angiography [CABG], doctor advised coronary artery bypass grafting. Answer the following questions a. Explain the term coronary angiography & CABG b. Describe coronary arteries c. Mention sources of development of right atrium"
   },
@@ -17883,7 +17883,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Respiratory System",
+    "topic": "Thorax",
     "subtopic": "Lungs and Pleura",
     "question": "Describe Lung and pleura under following headings a. Draw and label Root of lung. b. Describe parietal pleura. c. Applied aspect of pleura."
   },
@@ -17909,7 +17909,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Chromosomes",
     "question": "Karyotyping OR Down syndrome"
   },
@@ -17935,7 +17935,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Female Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "A 55-year-old multigravida female presented with complaints that something is coming down into the vagina. On examination, she was diagnosed with uterine prolapse. Answer the following questions. a. What is the normal position and axes of uterus? b. Describe supports of uterus. c. Write a note on lymphatic drainage of uterus"
   },
@@ -17948,7 +17948,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Peritoneum",
     "question": "Describe peritoneum under following headings a. Describe lesser sac. b. Describe mesentery of small intestine. c. Applied aspect of peritoneum."
   },
@@ -17961,7 +17961,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Posterior Abdominal Wall",
     "question": "Describe Posterior abdominal wall under following headings a. Psoas major muscle. b. Draw and label lumbar plexus & its branches c. Describe abdominal aorta"
   },
@@ -17974,7 +17974,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Male Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Vas Deferens",
     "question": "Vas Deference"
   },
@@ -17987,7 +17987,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Rectus Sheath",
     "question": "Rectus sheath"
   },
@@ -18026,7 +18026,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Musculoskeletal System",
+    "topic": "Lower Limb",
     "subtopic": "Foot Arches",
     "question": "A 12-year-old-boy was brought to the OPD. His mother complains that his walk is clumsy and frequently feels pain on walking and running. On examination, he was diagnosed with a case of flat foot. Answer the following questions. a. Classify the arches and mention its two functions. b. Describe anatomy & factors of maintenance of medial longitudinal arch. c. What is flat foot & explain two more deformities of foot?"
   },
@@ -18065,7 +18065,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Gastrointestinal System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Esophagus",
     "question": "What is esophageal varices?"
   },
@@ -18078,7 +18078,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Heart",
     "question": "Which chamber of heart when enlarged compresses esophagus?"
   },
@@ -18091,7 +18091,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Cell Division",
     "question": "Why chromosomes are studied when the cells are in metaphase of mitotic division?"
   },
@@ -18104,7 +18104,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Pelvis",
     "question": "Give location of pudendal canal."
   },
@@ -18117,7 +18117,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Veins",
     "question": "Mention factors responsible for the venous drainage of lower limb."
   },
@@ -18130,7 +18130,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Male Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Testis",
     "question": "What is cryptorchidism?"
   },
@@ -18143,7 +18143,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Veins",
     "question": "With which two veins does Thoraco-epigastric vein communicate?"
   },
@@ -18223,7 +18223,7 @@
     "type": "case",
     "topic": "Upper Limb",
     "subtopic": "Colles Fracture",
-    "question": "An elderly woman falls on her outstretched hand\tpresenting with \"dinner fork\" deformity. a. Which bone's distal end is fractured? b. Which vein is found in the roof of anatomical snuff box?"
+    "question": "An elderly woman falls on her outstretched hand"
   },
   {
     "id": "ANAT1403",
@@ -18351,7 +18351,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Mammary Gland",
     "question": "Describe Blood supply, lymphatic drainage and applied anatomy of mammary gland."
   },
@@ -18572,7 +18572,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Musculoskeletal System",
+    "topic": "General Anatomy",
     "subtopic": "Bone",
     "question": "Epiphysis"
   },
@@ -18598,7 +18598,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal Hernia",
     "question": "A 60-year-old male has a groin bulge that increases with coughing. a. What is conjoint tendon? b. How does a direct hernia differ from indirect regarding the epigastric vessels?"
   },
@@ -18611,7 +18611,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Splenic Injury",
     "question": "A trauma patient has left upper quadrant pain and Kehr's sign (left shoulder pain). a. Which ligament contains the splenic artery? b. Why does shoulder pain occur?"
   },
@@ -18676,7 +18676,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "case",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Turner Syndrome",
     "question": "A 15-year-old female presents with short stature, webbed neck, and primary amenorrhea. Karyotype shows 45,X. a. During which phase of cell division does the chromosomal error typically occur? b. What is pleiotropy?"
   },
@@ -18689,7 +18689,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Pancreatitis",
     "question": "An alcoholic patient presents with epigastric pain radiating to the back and diagnosed as a case of acute pancreatitis. a. Which embryological structures fuse to form the pancreas? b. What is name of major pancreatic duct?"
   },
@@ -18702,7 +18702,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portal Hypertension",
     "question": "A cirrhotic patient presents with caput medusae and hematemesis. a. Which venous anastomosis forms caput medusae? b. What's the most likely source of bleeding through hematemesis?"
   },
@@ -18715,7 +18715,7 @@
     "exam": "Uni",
     "marks": 2,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Appendicitis",
     "question": "A 22-year-old male presents with periumbilical pain migrating to right iliac fossa and McBurney's point tenderness. a. Which embryological structure gives rise to the appendix? b. What peritoneal fold attaches the appendix to the mesentery?"
   },
@@ -18741,7 +18741,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Female Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "Describe supports of uterus."
   },
@@ -18754,7 +18754,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Kidney",
     "question": "Pain arising from a calculus at pelvi-ureteric junction is felt at groin."
   },
@@ -18780,7 +18780,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Respiratory System",
+    "topic": "Thorax",
     "subtopic": "Lungs",
     "question": "Broncho-pulmonary segments are not broncho-vascular segments."
   },
@@ -18793,7 +18793,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Male Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Testis",
     "question": "Varicocele is commonly observed on left side."
   },
@@ -18832,7 +18832,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Urinary System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Bladder",
     "question": "Dysfunctions of urinary bladder"
   },
@@ -18845,7 +18845,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Male Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Testis",
     "question": "Undescended testes"
   },
@@ -18871,7 +18871,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Heart",
     "question": "Applied anatomy of heart"
   },
@@ -18897,7 +18897,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Lymphatic System",
+    "topic": "Head and Neck",
     "subtopic": "Thoracic Duct",
     "question": "Thoracic duct"
   },
@@ -18923,7 +18923,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Gastrointestinal System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Anal Canal",
     "question": "Anal canal"
   },
@@ -18962,7 +18962,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Mutation",
     "question": "Mutation"
   },
@@ -18975,7 +18975,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Medical Ethics",
+    "topic": "General Anatomy",
     "subtopic": "Communication",
     "question": "Importance of communication skill in medical profession"
   },
@@ -19027,7 +19027,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Musculoskeletal System",
+    "topic": "Head and Neck",
     "subtopic": "Temporomandibular Joint",
     "question": "Movement of Temporomandibular Joint."
   },
@@ -19066,7 +19066,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Musculoskeletal System",
+    "topic": "Lower Limb",
     "subtopic": "Joints",
     "question": "Classification of synovial joint"
   },
@@ -19170,7 +19170,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Mammary Gland",
     "question": "Describe the mammary gland under the following headings. a. Gross anatomy b. Blood supply and lymphatic drainage c. Applied anatomy"
   },
@@ -19209,7 +19209,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Arteries",
     "question": "Mention two terminal branches of brachial artery?"
   },
@@ -19235,7 +19235,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Musculoskeletal System",
+    "topic": "General Anatomy",
     "subtopic": "Bone",
     "question": "Enumerate the parts of long bone."
   },
@@ -19274,7 +19274,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Endocrine System",
+    "topic": "Head and Neck",
     "subtopic": "Thyroid Gland",
     "question": "Enumerate the arteries supplying thyroid gland."
   },
@@ -19287,7 +19287,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Musculoskeletal System",
+    "topic": "General Anatomy",
     "subtopic": "Bone",
     "question": "Give examples of sesamoid bone?"
   },
@@ -19352,7 +19352,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Respiratory System",
+    "topic": "Thorax",
     "subtopic": "Bronchopulmonary Segment",
     "question": "Describe Bronchopulmonary segment under following headings. a. What is bronchopulmonary segment? b. Bronchopulmonary segments of right and left lung. c. Applied anatomy"
   },
@@ -19378,7 +19378,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Coronary Arteries",
     "question": "A 42 years old male while running suddenly fell down, he had severe chest pain on left side radiating to left arm and back also. On investigation, it was diagnosed as a case of myocardial infarction. Answer the following question regarding this case. a. What is myocardial infarction? b. Describe the course and branches of coronary arteries. c. Applied anatomy of coronary arteries."
   },
@@ -19391,7 +19391,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Medical Ethics",
+    "topic": "General Anatomy",
     "subtopic": "Cadaver",
     "question": "Cadaver as our first teacher"
   },
@@ -19417,7 +19417,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Down Syndrome",
     "question": "Down's Syndrome OR Genetic counseling"
   },
@@ -19430,7 +19430,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "case",
-    "topic": "Gastrointestinal System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Stomach",
     "question": "A 55 year old female patient presented to surgeon with complains of pain in epigastric region. She also feels nausea and sometime vomiting, loss of appetite, weight loss. After endoscopic examination, Stomach cancer was detected. Answer the following questions regarding this case. a. Parts of stomach b. Blood supply of stomach c. Lymphatic drainage of stomach"
   },
@@ -19443,7 +19443,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal Canal",
     "question": "Describe the Inguinal canal under following headings. a. Roof, Floor, anterior and posterior wall b. Contents and Mechanism c. Direct and indirect inguinal hernia"
   },
@@ -19456,7 +19456,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Female Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "Describe the Anatomy of Uterus under the following headings. a. Various parts of uterus. b. Supports of uterus. c. Prolapse of uterus"
   },
@@ -19469,7 +19469,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Sterilization",
     "question": "Vasectomy and Tubectomy"
   },
@@ -19482,7 +19482,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Portal System",
     "question": "Portocaval anastomosis"
   },
@@ -19560,7 +19560,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Karyotype",
     "question": "What is karyotyping?"
   },
@@ -19573,7 +19573,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Surgery",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Appendix",
     "question": "What is appendicectomy?"
   },
@@ -19586,7 +19586,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Hematology",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Spleen",
     "question": "What is Splenomegaly?"
   },
@@ -19612,7 +19612,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Endocrine System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Pancreas",
     "question": "What is islets of Langerhans and its function?"
   },
@@ -19625,7 +19625,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Arch of Aorta",
     "question": "Enumerate branches of arch of aorta."
   },
@@ -19638,7 +19638,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Veins",
     "question": "Where does great saphenous vein drains into?"
   },
@@ -19651,7 +19651,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Male Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Spermatic Cord",
     "question": "Enumerate any two contents of spermatic cord."
   },
@@ -19677,7 +19677,7 @@
     "exam": "Uni",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Appendix",
     "question": "What is known as policeman of abdomen?"
   },
@@ -19781,7 +19781,7 @@
     "exam": "Supple",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Anatomy",
+    "topic": "General Anatomy",
     "subtopic": "Anastomosis",
     "question": "Anastomosis"
   },
@@ -20028,7 +20028,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Musculoskeletal System",
+    "topic": "General Anatomy",
     "subtopic": "Joints",
     "question": "Give any two examples of secondary cartilaginous joint."
   },
@@ -20041,7 +20041,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "ENT",
+    "topic": "Head and Neck",
     "subtopic": "Ear Surgery",
     "question": "What is myringotomy?"
   },
@@ -20054,7 +20054,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Ophthalmology",
+    "topic": "Head and Neck",
     "subtopic": "Lacrimal Apparatus",
     "question": "What is Dacryocystitis?"
   },
@@ -20080,7 +20080,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "case",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Coronary Arteries",
     "question": "A 65 years old male admitted in emergency with severe chest pain, shortness of breath, profuse sweating. Pain radiating to left arm and jaw. An ECG reveals ST segment elevation. a. Name the clinical condition. b. Describe course and branches of left coronary artery. c. Explain about coronary dominance. d. What is angioplasty?"
   },
@@ -20093,7 +20093,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Azygos Vein",
     "question": "Describe Azygos vein under following headings. a. Formation b. Relations c. Applied anatomy"
   },
@@ -20106,7 +20106,7 @@
     "exam": "Supple",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Medical Ethics",
+    "topic": "General Anatomy",
     "subtopic": "Doctor Patient Relationship",
     "question": "Doctor patient relationship"
   },
@@ -20145,7 +20145,7 @@
     "exam": "Supple",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Down Syndrome",
     "question": "Down's syndrome"
   },
@@ -20158,7 +20158,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Gastrointestinal System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Stomach",
     "question": "Describe the stomach under following headings. a. External features b. Blood supply c. Lymphatic drainage d. Applied anatomy"
   },
@@ -20171,7 +20171,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "case",
-    "topic": "Female Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "A 45 years old, female with abdominal pain and something coming out from vagina. On investigation it was diagnosed as prolapsed of uterus. Give the answers of following questions a. what is prolapse of uterus? b. Blood supply of uterus. c. Support of uterus."
   },
@@ -20184,7 +20184,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Portal System",
     "question": "Draw labeled diagram of portocaval anastomosis. What is portal hypertension? Write various clinical presentations of portal hypertension."
   },
@@ -20197,7 +20197,7 @@
     "exam": "Supple",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Rectus Sheath",
     "question": "Rectus sheath"
   },
@@ -20210,7 +20210,7 @@
     "exam": "Supple",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Epiploic Foramen",
     "question": "Epiploic foramen"
   },
@@ -20288,7 +20288,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Karyotype",
     "question": "What is karyotyping?"
   },
@@ -20327,7 +20327,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Respiratory System",
+    "topic": "Thorax",
     "subtopic": "Lungs",
     "question": "What is bronchopulmonary segment?"
   },
@@ -20340,7 +20340,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Respiratory System",
+    "topic": "Thorax",
     "subtopic": "Pleura",
     "question": "Mention any two applied anatomy of pleura."
   },
@@ -20353,7 +20353,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Respiratory System",
+    "topic": "Thorax",
     "subtopic": "Trachea",
     "question": "Which type of cartilage is present in trachea?"
   },
@@ -20366,7 +20366,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Abdominal Aorta",
     "question": "Mention any two ventral branches of abdominal aorta."
   },
@@ -20392,7 +20392,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Male Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Urethra",
     "question": "Write parts of male urethra."
   },
@@ -20405,7 +20405,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Congenital Heart Disease",
     "question": "What is Fallot's tetralogy?"
   },
@@ -20418,7 +20418,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Peripheral Circulation",
     "question": "What is peripheral heart?"
   },
@@ -20457,7 +20457,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Endocrine System",
+    "topic": "Head and Neck",
     "subtopic": "Thyroid Gland",
     "question": "Describe Thyroid Gland under the following headings. a. Situation and Extent. b. Capsules of Thyroid gland. c. Parts and relations of Thyroid gland d. Clinical Anatomy."
   },
@@ -20509,7 +20509,7 @@
     "exam": "Supple",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Musculoskeletal System",
+    "topic": "Head and Neck",
     "subtopic": "Temporomandibular Joint",
     "question": "Movements of Temporomandibular Joint."
   },
@@ -20613,7 +20613,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Hand",
+    "topic": "Upper Limb",
     "subtopic": "Palmar Spaces",
     "question": "Describe the boundaries, content and applied anatomy of midpalmar space"
   },
@@ -20678,7 +20678,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Hand",
+    "topic": "Upper Limb",
     "subtopic": "Intrinsic Muscles",
     "question": "What are lumbricals?"
   },
@@ -20769,7 +20769,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Arteries",
     "question": "Give any two examples of end arteries."
   },
@@ -20795,7 +20795,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Heart",
     "question": "Describe left ventricle under following headings. Position, features and clinical anatomy."
   },
@@ -20821,7 +20821,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "case",
-    "topic": "Respiratory System",
+    "topic": "Thorax",
     "subtopic": "Pleura",
     "question": "A 50 years old male with right side chest pain aggravated by deep breathing and coughing. On examination, decreased breath sounds and dullness. A patient has history of recent pneumonia in right lung. Answer the following questions. a. Identify the clinical condition. b. Write pleura in detail c. Relevant applied anatomy of pleura."
   },
@@ -20860,7 +20860,7 @@
     "exam": "Supple",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Turner Syndrome",
     "question": "Turner's Syndrome."
   },
@@ -20873,7 +20873,7 @@
     "exam": "Supple",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Genetics",
+    "topic": "General Anatomy",
     "subtopic": "Karyotyping",
     "question": "Karyotyping"
   },
@@ -20886,7 +20886,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "case",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Inguinal Canal",
     "question": "A 60 year old coeliac complaint of lump in his right groin while straining. a. Identify the clinical condition b. Write inguinal canal in detail c. Relevant applied anatomy"
   },
@@ -20899,7 +20899,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "case",
-    "topic": "Gastrointestinal System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Portal Hypertension",
     "question": "A middle aged alcoholic male complained of lot of blood in his vomit. a. What causes haematemesis? b. Define portal hypertension. c. Describe various sites of portocaval anastomosis in detail."
   },
@@ -20912,7 +20912,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "LAQ",
-    "topic": "Female Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Uterus",
     "question": "Describe uterus under following headings. Parts, supports, applied anatomy"
   },
@@ -20925,7 +20925,7 @@
     "exam": "Supple",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Abdomen",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Peritoneum",
     "question": "Greater Omentum"
   },
@@ -20938,7 +20938,7 @@
     "exam": "Supple",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Female Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Fallopian Tube",
     "question": "Fallopian tube"
   },
@@ -21003,7 +21003,7 @@
     "exam": "Supple",
     "marks": 10,
     "type": "case",
-    "topic": "Cardiovascular System",
+    "topic": "Thorax",
     "subtopic": "Venous System",
     "question": "A 30 year old female during pregnancy noted blue tubular structure over her calf and thigh. These get prominent after standing for a long time. a. What are these blue tubular structures? b. Why do these develop in lower limb only? c. Describe great saphenous vein in detail."
   },
@@ -21068,7 +21068,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Respiratory System",
+    "topic": "Thorax",
     "subtopic": "Mechanics of Breathing",
     "question": "Name the respiratory movements."
   },
@@ -21120,7 +21120,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Endocrine System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Adrenal Gland",
     "question": "Inferior suprarenal artery is a branch of which artery?"
   },
@@ -21133,7 +21133,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Male Reproductive System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Reflexes",
     "question": "What is cremasteric reflex?"
   },
@@ -21146,7 +21146,7 @@
     "exam": "Supple",
     "marks": 1,
     "type": "VSQ",
-    "topic": "Gastrointestinal System",
+    "topic": "Abdomen & Pelvis",
     "subtopic": "Mesentery",
     "question": "Name any two structures crossed by root of mesentery."
   }
