@@ -17,6 +17,7 @@
           <span class="nav-brand">PYQ Repository</span>
           <div class="nav-actions">
             <a href="#subjects" class="btn-dark">Select Subject</a>
+            <button id="sign-in-btn" class="btn-dark">Sign In</button>
           </div>
         </nav>
 
@@ -138,5 +139,128 @@
       </footer>
     </div>
     <!-- /page-wrapper -->
+
+    <!-- =====================
+     AUTH MODAL
+     ===================== -->
+    <div id="auth-modal" class="auth-modal">
+      <div class="auth-modal-content">
+        <button class="auth-modal-close" id="close-auth-modal">&times;</button>
+
+        <!-- Sign In Form -->
+        <div id="sign-in-form" class="auth-form active">
+          <h2>Sign In</h2>
+          <p class="auth-subtitle">Access your account</p>
+
+          <button id="google-signin-btn" class="btn-google">
+            <svg
+              class="google-icon"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill="#EA4335"
+                d="M5.26620908 9.05033344H9.516766075v3.28332649h-4.203625074c-.42159903-2.483919736-2.724159309-4.333312236-5.576609375-4.333312236C2.801042447 2.52570056 0 4.694612232 0 7.329436674V10.5 [truncated for brevity]"
+              />
+            </svg>
+            Sign In with Google
+          </button>
+
+          <div class="auth-divider">
+            <span>or</span>
+          </div>
+
+          <div class="form-group">
+            <input
+              type="email"
+              id="signin-email"
+              placeholder="Email address"
+              class="form-input"
+            />
+          </div>
+
+          <div class="form-group">
+            <input
+              type="password"
+              id="signin-password"
+              placeholder="Password"
+              class="form-input"
+            />
+          </div>
+
+          <button id="signin-submit" class="btn-primary">Sign In</button>
+
+          <p class="auth-footer">
+            Don't have an account?
+            <button id="switch-to-signup" class="auth-link">Create one</button>
+          </p>
+        </div>
+
+        <!-- Sign Up Form -->
+        <div id="sign-up-form" class="auth-form">
+          <h2>Create Account</h2>
+          <p class="auth-subtitle">Join our community</p>
+
+          <button id="google-signup-btn" class="btn-google">
+            <svg
+              class="google-icon"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill="#EA4335"
+                d="M5.26620908 9.05033344H9.516766075v3.28332649h-4.203625074c-.42159903-2.483919736-2.724159309-4.333312236-5.576609375-4.333312236C2.801042447 2.52570056 0 4.694612232 0 7.329436674V10.5"
+              />
+            </svg>
+            Sign Up with Google
+          </button>
+
+          <div class="auth-divider">
+            <span>or</span>
+          </div>
+
+          <div class="form-group">
+            <input
+              type="text"
+              id="signup-name"
+              placeholder="Full name"
+              class="form-input"
+            />
+          </div>
+
+          <div class="form-group">
+            <input
+              type="email"
+              id="signup-email"
+              placeholder="Email address"
+              class="form-input"
+            />
+          </div>
+
+          <div class="form-group">
+            <input
+              type="password"
+              id="signup-password"
+              placeholder="Password (min 6 characters)"
+              class="form-input"
+            />
+          </div>
+
+          <button id="signup-submit" class="btn-primary">Create Account</button>
+
+          <p class="auth-footer">
+            Already have an account?
+            <button id="switch-to-signin" class="auth-link">Sign In</button>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Supabase SDK -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+    <!-- Auth Scripts -->
+    <script src="supabase-config.js"></script>
+    <script src="auth.js"></script>
   </body>
 </html>
