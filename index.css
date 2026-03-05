@@ -625,7 +625,7 @@ body {
 }
 
 .user-email {
-  color: var(--white);
+  color: var(--gray-700);
   font-size: 13px;
   font-weight: 500;
   padding: 0 12px;
