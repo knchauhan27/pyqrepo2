@@ -126,7 +126,7 @@ body {
 /* NAV PILL */
 .nav-pill {
   background: var(--white);
-  border-radius: var(--r-pill);
+  border-radius: var(--r-lg);
   padding: 9px 10px 9px 22px;
   margin: 22px 26px 0;
   display: flex;

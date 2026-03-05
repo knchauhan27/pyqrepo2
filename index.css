@@ -89,7 +89,7 @@ body {
 
 .nav-pill {
   background: var(--white);
-  border-radius: var(--radius-pill);
+  border-radius: var(--radius-lg);
   padding: 10px 14px 10px 20px;
   margin: 24px 28px 0 28px;
   display: flex;
