@@ -400,20 +400,7 @@
     "type": "VSQ",
     "topic": "CVS",
     "subtopic": "ACE Inhibitors",
-    "question": "Enalapril is contraindicated in all the following conditions EXCEPT:"
-  },
-  {
-    "id": "a) Diabetic nephropathy with albuminuria b) Single kidney c) Bilateral renal artery stenosis d) Hyperkalaemia",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Enalapril is contraindicated in all the following conditions EXCEPT: \na) Diabetic nephropathy with albuminuria b) Single kidney c) Bilateral renal artery stenosis d) Hyperkalaemia"
   },
   {
     "id": "PHARM4230",
@@ -683,7 +670,7 @@
     "year": 2022,
     "exam": "Internal",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Adrenal Insufficiency",
     "question": "A 55-year-old woman came to emergency with complaints of severe malaise, headache, vomiting, joint pain and loss of appetite. She had recently 10 kg weight loss, lethargy and darkening of skin since 2 months. She has severe hypotension and tachycardia. Blood investigations as follows: low sodium level: 128 mmol/L, increased creatinine and urea level, ACTH level is 220 pmol/L. She is diagnosed to suffer from Addison's crisis. (i) Enumerate corticosteroids. [2] (ii) Which drug should be given to this patient? Mention its route and dose of therapy. [1+1] (iii) Describe briefly the glucocorticoid actions of above selected drugs. [6]"
@@ -3013,20 +3000,7 @@
     "type": "MCQ",
     "topic": "CNS",
     "subtopic": "Alzheimer's Disease",
-    "question": "All of the following drugs are used for Alzheimer disease EXCEPT:"
-  },
-  {
-    "id": "(a) Pyridostigmine (b) Rivastigmine (c) Galantamine (d) Memantine",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "All of the following drugs are used for Alzheimer disease EXCEPT:\n (a) Pyridostigmine (b) Rivastigmine (c) Galantamine (d) Memantine"
   },
   {
     "id": "PHARM0134",
@@ -3933,7 +3907,7 @@
     "year": 2022,
     "exam": "Internal",
     "marks": 3,
-    "type": "Case",
+    "type": "case",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Amoebiasis",
     "question": "A 45 year old male came to medicine OPD with complaints of mild fever, severe pain in the right upper abdomen, vomiting, malaise, headache, weakness and diarrhea since 8 days. There is tenderness in the right upper abdomen. Ultrasonography reveals 1.5 cm diameter abscess in the right lobe of liver. Diagnosis is made amoebic liver abscess. (i) Which drugs should be administered in this patient? Give reasons. [2] (ii) What should be the adverse effects of selected drugs? [1]"
@@ -4105,20 +4079,7 @@
     "type": "VSQ",
     "topic": "Analgesics & Anti-inflammatory Drugs",
     "subtopic": "Analgesics",
-    "question": "Which of the following is an efficacious anti-inflammatory drug but a relatively weak inhibitor of cyclooxygenase?"
-  },
-  {
-    "id": "a) Nimesulide b) Paracetamol c) Ketoprofen d) Indomethacin",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which of the following is an efficacious anti-inflammatory drug but a relatively weak inhibitor of cyclooxygenase? \na) Nimesulide b) Paracetamol c) Ketoprofen d) Indomethacin"
   },
   {
     "id": "PHARM3092",
@@ -4349,7 +4310,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 5,
-    "type": "Case",
+    "type": "case",
     "topic": "Hematology",
     "subtopic": "Anemia in Pregnancy",
     "question": "A 24-year-old lady presented with complaints of easy fatigability, palpitation and dizziness. On detailed history she revealed that she is pregnant with 6 months of amenorrhea. Blood investigation show Hb 8.0 gm/dl and blood film examination shows hypochromic microcytic anemia. (i) Which drug will be selected for this patient? What is the justification for the same? [2] (ii) Mention adverse drug reactions of above selected drugs with measure to minimize them. [2] (iii) Which non pharmacological instructions should be given to this patient? [1]"
@@ -4505,7 +4466,7 @@
     "year": 2023,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Angina",
     "question": "A 58-year-old male patient presented in the evening OPD with a history of an episode of 'chest pain' in the morning while playing golf, which was squeezing type, localised to the left side of chest, lasted for a few minutes, and relieved on taking rest. Previously he had few such similar episodes. He was diagnosed to have classical angina. i) Describe pharmacological basis for the use of calcium channel blockers in various types of angina. [4] ii) Explain: the combination of β-blocker + long-acting nitrate is rational for the prophylaxis of classical angina. [4] iii) Explain in brief: Nitrate tolerance. [2]"
@@ -4518,7 +4479,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Angina",
     "question": "A 50-year-old man was suffering from acute chest pain. He was prescribed sublingual Nitroglycerine (GTN) and chest pain was relieved. He was prescribed transdermal patch of GTN to prevent recurrence of angina attack. But after 10 hours again, mild angina pain starts. He is also suffering from erectile dysfunction. (i) What happened to patient and why? [2] (ii) Mention the dosage schedule of the given drug and advice given to the above patient. [2] (iii) Write the pharmacological actions, adverse effects and contraindication of Glyceryl trinitrate. [3+2+1]"
@@ -4531,7 +4492,7 @@
     "year": 2024,
     "exam": "Pre",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Angina",
     "question": "A 55 year old man presented with complaints of tightness and discomfort over middle part of chest which is felt after walking or climbing stairs. This is relieved within 5-10 mins of rest. One or two episodes occur practically every day. He is a known case of chronic obstructive pulmonary disease for which he regularly takes 2 inhalations of ipratropium bromide 3 times a day and 2 puff of salbutamol inhalation for asthma episodes. The pulse is 90/min, and BP 124/82 mm Hg. The resting ECG is normal but stress test is positive. He is diagnosed a case of exertional angina. (i) Enumerate anti-anginal drugs. [3] (ii) Which drug is most preferred for acute episode of angina and why. [2] (iii) Does the patient require other drugs on regular basis to prevent episodes of angina? If yes, which drugs can be given and which drugs cannot be given to him? [3]"
@@ -4544,7 +4505,7 @@
     "year": 2025,
     "exam": "Pre",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Angina",
     "question": "A 60 year old man presented with complaints of tightness and discomfort over middle part of chest which is felt after climbing stairs. This is relieved by taking sublingual isosorbide dinitrate. ECHO revealed low left ventricular ejection fraction. His blood pressure was 150/94. He was diagnosed as a case of chronic coronary syndrome having exertional angina. a) Mention preferred antianginal drugs which can be prescribed for chronic prophylaxis in this patient. [2] b) Describe in brief adverse drug reactions and precautions of nitrates therapy [3] c) Explain rational of use of any one combination of antianginal drugs for chronic prophylaxis of exertional angina. [3]"
@@ -4687,7 +4648,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "GIT",
     "subtopic": "Antacids",
     "question": "A patient of 40 years old suffering from moderate Gastritis was prescribed tablet 'Digene' brand containing Aluminum hydroxide and Magnesium hydroxide. He felt relieved after 2 days of treatment. Comment on the rationality of drug interaction regarding the ingredient of the said tablet."
@@ -6458,20 +6419,7 @@
     "type": "VSQ",
     "topic": "CVS",
     "subtopic": "Antiarrhythmics",
-    "question": "The anti-arrhythmic drug of choice in most of the cases of acute paroxysmal supraventricular tachycardia is:"
-  },
-  {
-    "id": "a) Adenosine b) Amiodarone c) Propranolol d) Quinidine",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "The anti-arrhythmic drug of choice in most of the cases of acute paroxysmal supraventricular tachycardia is: \na) Adenosine b) Amiodarone c) Propranolol d) Quinidine"
   },
   {
     "id": "PHARM4270",
@@ -7108,20 +7056,7 @@
     "type": "MCQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Antibiotics",
-    "question": "Metronidazole is effective in all of the following conditions EXCEPT:"
-  },
-  {
-    "id": "(a) Pseudomonas aeruginosa colitis (b) Neurocysticercosis (c) Giardiasis (d) Amebic liver abscess",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Metronidazole is effective in all of the following conditions EXCEPT: \n(a) Pseudomonas aeruginosa colitis (b) Neurocysticercosis (c) Giardiasis (d) Amebic liver abscess"
   },
   {
     "id": "PHARM4214",
@@ -7134,20 +7069,7 @@
     "type": "MCQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Antibiotics",
-    "question": "All of the following drugs are used for infection due to Methicillin Resistant Staphylococcus (MRSA) aureus EXCEPT:"
-  },
-  {
-    "id": "(a) Vancomycin (b) Spiramycin (c) Teicoplanin (d) Linezolid",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "All of the following drugs are used for infection due to Methicillin Resistant Staphylococcus (MRSA) aureus EXCEPT: \n(a) Vancomycin (b) Spiramycin (c) Teicoplanin (d) Linezolid"
   },
   {
     "id": "PHARM4220",
@@ -7160,20 +7082,7 @@
     "type": "MCQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Antibiotics",
-    "question": "The persistent suppression of bacterial growth that may occur after limited exposure to some antimicrobial drug is called:"
-  },
-  {
-    "id": "(a) Time dependent killing (b) Post antibiotic effect (c) Concentration dependent killing (d) Sequential blockade",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "The persistent suppression of bacterial growth that may occur after limited exposure to some antimicrobial drug is called: \n(a) Time dependent killing (b) Post antibiotic effect (c) Concentration dependent killing (d) Sequential blockade"
   },
   {
     "id": "PHARM4541",
@@ -7839,19 +7748,6 @@
     "question": "Glycopyrrolate is used as a preanesthetic medication. Give reasons."
   },
   {
-    "id": "PHARM0234",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2005,
-    "exam": "Pre",
-    "marks": 2,
-    "type": "SAQ",
-    "topic": "CNS",
-    "subtopic": "Anticholinergics",
-    "question": "Explain why centrally acting anticholinergic drug is preferred in dystonic reactions."
-  },
-  {
     "id": "PHARM0218",
     "college": "MSU",
     "subject": "Pharmacology",
@@ -7863,6 +7759,19 @@
     "topic": "Anesthesia",
     "subtopic": "Anticholinergics",
     "question": "Glycopyrrolate is preferred over atropine as pre-anaesthetic medication."
+  },
+  {
+    "id": "PHARM0234",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2005,
+    "exam": "Pre",
+    "marks": 2,
+    "type": "SAQ",
+    "topic": "CNS",
+    "subtopic": "Anticholinergics",
+    "question": "Explain why centrally acting anticholinergic drug is preferred in dystonic reactions."
   },
   {
     "id": "PHARM0528",
@@ -9481,8 +9390,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "Hematology",
@@ -11515,20 +11424,7 @@
     "type": "MCQ",
     "topic": "Endocrine System",
     "subtopic": "Antidiabetics",
-    "question": "Which of the following drugs promotes the release of endogenous insulin?"
-  },
-  {
-    "id": "(a) Acarbose (b) Glipizide (c) Metformin (d) Pioglitazone",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which of the following drugs promotes the release of endogenous insulin? \n(a) Acarbose (b) Glipizide (c) Metformin (d) Pioglitazone"
   },
   {
     "id": "PHARM4707",
@@ -11827,46 +11723,7 @@
     "type": "MCQ",
     "topic": "GIT",
     "subtopic": "Antidiarrheals",
-    "question": "Regarding use of loperamide in diarrhea"
-  },
-  {
-    "id": "I. It has opiate like action on gut motility and inhibits intestinal secretion",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "II. It is contraindicated in acute bacillary dysentery.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "The four answer-options are given as under: - a) Statement 1 is true while statement 2 is false. b) Statement 1 is false while statement 2 is true c) Statement 1 & 2 both are true, but 1 is not the reason of d) Both the statements are true, And statement 1 is the reason of 2.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Regarding use of loperamide in diarrhea \nI. It has opiate like action on gut motility and inhibits intestinal secretion \nII. It is contraindicated in acute bacillary dysentery. \nThe four answer-options are given as under: - a) Statement 1 is true while statement 2 is false. b) Statement 1 is false while statement 2 is true c) Statement 1 & 2 both are true, but 1 is not the reason of d) Both the statements are true, And statement 1 is the reason of 2."
   },
   {
     "id": "PHARM5162",
@@ -12270,32 +12127,6 @@
     "topic": "GIT",
     "subtopic": "Antiemetics",
     "question": "Domperidone is preferred to metoclopramide as an antiemetic agent."
-  },
-  {
-    "id": "PHARM4551",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2010,
-    "exam": "Uni",
-    "marks": 2,
-    "type": "VSQ",
-    "topic": "CNS",
-    "subtopic": "Antiemetics",
-    "question": "Describe various mechanisms of action of metoclopramide as an antiemetic agent."
-  },
-  {
-    "id": "PHARM4608",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2009,
-    "exam": "Uni",
-    "marks": 2,
-    "type": "VSQ",
-    "topic": "CNS",
-    "subtopic": "Antiemetics",
-    "question": "Scopolamine is preferred to ondansetron in motion sickness: Give reason."
   },
   {
     "id": "PHARM0677",
@@ -12815,33 +12646,7 @@
     "type": "MCQ",
     "topic": "GIT",
     "subtopic": "Antiemetics",
-    "question": "Match the Column 'X' and Column 'Y' regarding uses of antiemetic drugs:"
-  },
-  {
-    "id": "Column-X: i Motion sickness, ii Morning sickness, iii Migraine associate vomiting, iv Postoperative vomiting.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "Column-Y: (p) Doxylamine, (q) Ondansetrone, (s) Metoclopramide, (t) Cinnarizine, (u) Aprepitant.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Match the Column 'X' and Column 'Y' regarding uses of antiemetic drugs: \nColumn-X: i Motion sickness, ii Morning sickness, iii Migraine associate vomiting, iv Postoperative vomiting. \nColumn-Y: (p) Doxylamine, (q) Ondansetrone, (s) Metoclopramide, (t) Cinnarizine, (u) Aprepitant."
   },
   {
     "id": "PHARM4194",
@@ -12855,6 +12660,19 @@
     "topic": "GIT",
     "subtopic": "Antiemetics",
     "question": "Write pharmacological basis for: (a) Methylergometrine in post-partum haemorrhage (b) Lactulose in hepatic encephalopathy. Classify antiemetic drugs. Write in brief drug therapy of vomiting in different types of conditions."
+  },
+  {
+    "id": "PHARM4551",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2010,
+    "exam": "Uni",
+    "marks": 2,
+    "type": "VSQ",
+    "topic": "CNS",
+    "subtopic": "Antiemetics",
+    "question": "Describe various mechanisms of action of metoclopramide as an antiemetic agent."
   },
   {
     "id": "PHARM4569",
@@ -12881,6 +12699,19 @@
     "topic": "GIT",
     "subtopic": "Antiemetics",
     "question": "Justify: Domperidone is preferred to metoclopramide as antiemetic agent."
+  },
+  {
+    "id": "PHARM4608",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2009,
+    "exam": "Uni",
+    "marks": 2,
+    "type": "VSQ",
+    "topic": "CNS",
+    "subtopic": "Antiemetics",
+    "question": "Scopolamine is preferred to ondansetron in motion sickness: Give reason."
   },
   {
     "id": "PHARM4642",
@@ -14336,20 +14167,7 @@
     "type": "MCQ",
     "topic": "CNS",
     "subtopic": "Antiepileptics",
-    "question": "Vigabatrin has which mechanism of action for its antiepileptic effect?"
-  },
-  {
-    "id": "(a) Blockade of sodium channels (b) Inhibit metabolism of GABA (c) Blockade of NMDA Receptor (d) Inhibit GABA uptake",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Vigabatrin has which mechanism of action for its antiepileptic effect? \n(a) Blockade of sodium channels (b) Inhibit metabolism of GABA (c) Blockade of NMDA Receptor (d) Inhibit GABA uptake"
   },
   {
     "id": "PHARM4676",
@@ -15077,20 +14895,7 @@
     "type": "MCQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Antifungals",
-    "question": "A diabetic patient presents with fungal infection of sinuses and peri-orbital region with significant visual impairment. The best drug for treatment of this patient is:"
-  },
-  {
-    "id": "(a) Amphotericin B (b) Itraconazole (c) Ketoconazole (d) Flucytosine",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "A diabetic patient presents with fungal infection of sinuses and peri-orbital region with significant visual impairment. The best drug for treatment of this patient is: \n(a) Amphotericin B (b) Itraconazole (c) Ketoconazole (d) Flucytosine"
   },
   {
     "id": "PHARM4711",
@@ -15805,20 +15610,7 @@
     "type": "MCQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Antihelmintics",
-    "question": "An antihelmenthic drug that is effective against blood fluke, liver fluke, lung fluke and cysticercosis is:"
-  },
-  {
-    "id": "(a) Albendazole (b) Thiabendazole (c) Praziquantel (d) Ivermectin",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "An antihelmenthic drug that is effective against blood fluke, liver fluke, lung fluke and cysticercosis is: \n(a) Albendazole (b) Thiabendazole (c) Praziquantel (d) Ivermectin"
   },
   {
     "id": "PHARM4826",
@@ -16185,45 +15977,6 @@
     "question": "Give reasons why cetirizine is preferred to promethazine as an antiallergic drug."
   },
   {
-    "id": "PHARM2330",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 2,
-    "year": 2009,
-    "exam": "Uni",
-    "marks": 2,
-    "type": "SAQ",
-    "topic": "CNS",
-    "subtopic": "Antihistamines",
-    "question": "Give reasons: Promethazine is used in drug-induced acute muscle dystonia."
-  },
-  {
-    "id": "PHARM2721",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2006,
-    "exam": "Uni",
-    "marks": 2,
-    "type": "SAQ",
-    "topic": "CNS",
-    "subtopic": "Antihistamines",
-    "question": "Give reasons: Promethazine is used in drug-induced acute muscle dystonia."
-  },
-  {
-    "id": "PHARM3062",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2000,
-    "exam": "Uni",
-    "marks": 2,
-    "type": "SAQ",
-    "topic": "CNS",
-    "subtopic": "Antihistamines",
-    "question": "Give reasons: Promethazine is used in drug-induced acute muscle dystonia."
-  },
-  {
     "id": "PHARM1818",
     "college": "MSU",
     "subject": "Pharmacology",
@@ -16341,6 +16094,19 @@
     "question": "Enlist merits and demerits of second generation antihistaminic agents."
   },
   {
+    "id": "PHARM2330",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 2,
+    "year": 2009,
+    "exam": "Uni",
+    "marks": 2,
+    "type": "SAQ",
+    "topic": "CNS",
+    "subtopic": "Antihistamines",
+    "question": "Give reasons: Promethazine is used in drug-induced acute muscle dystonia."
+  },
+  {
     "id": "PHARM2444",
     "college": "GOTMED",
     "subject": "Pharmacology",
@@ -16419,6 +16185,19 @@
     "question": "Difference between 1st generation and 2nd generation antihistamines."
   },
   {
+    "id": "PHARM2721",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2006,
+    "exam": "Uni",
+    "marks": 2,
+    "type": "SAQ",
+    "topic": "CNS",
+    "subtopic": "Antihistamines",
+    "question": "Give reasons: Promethazine is used in drug-induced acute muscle dystonia."
+  },
+  {
     "id": "PHARM2754",
     "college": "MSU",
     "subject": "Pharmacology",
@@ -16456,6 +16235,19 @@
     "topic": "Autacoids",
     "subtopic": "Antihistamines",
     "question": "Write short notes on: H1 blockers."
+  },
+  {
+    "id": "PHARM3062",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2000,
+    "exam": "Uni",
+    "marks": 2,
+    "type": "SAQ",
+    "topic": "CNS",
+    "subtopic": "Antihistamines",
+    "question": "Give reasons: Promethazine is used in drug-induced acute muscle dystonia."
   },
   {
     "id": "PHARM3077",
@@ -17879,8 +17671,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "CVS",
@@ -18373,8 +18165,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 5,
     "type": "SAQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
@@ -18470,20 +18262,7 @@
     "type": "MCQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Antimalarials",
-    "question": "Chloroquine is given in high loading dose because of:"
-  },
-  {
-    "id": "(a) High volume of distribution (b) Poor GIT absorption (c) High first pass metabolism (d) Short plasma half life",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Chloroquine is given in high loading dose because of: \n(a) High volume of distribution (b) Poor GIT absorption (c) High first pass metabolism (d) Short plasma half life"
   },
   {
     "id": "PHARM4697",
@@ -19179,8 +18958,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
@@ -20758,20 +20537,7 @@
     "type": "MCQ",
     "topic": "CNS",
     "subtopic": "Antiparkinsonian Drugs",
-    "question": "All of the following are advantages of levodopa-carbidopa in parkinsonism EXCEPT—"
-  },
-  {
-    "id": "a) Fluctuation in motor performance is minimized b) Plasma half life is prolonged c) Accentuates nausea & vomiting d) Accentuates postural hypotension",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "All of the following are advantages of levodopa-carbidopa in parkinsonism EXCEPT— \na) Fluctuation in motor performance is minimized b) Plasma half life is prolonged c) Accentuates nausea & vomiting d) Accentuates postural hypotension"
   },
   {
     "id": "PHARM0330",
@@ -21096,20 +20862,7 @@
     "type": "VSQ",
     "topic": "Hematology",
     "subtopic": "Antiplatelet Drugs",
-    "question": "All the following statements about clopidogrel are correct EXCEPT:"
-  },
-  {
-    "id": "a) Directly interact with platelet membrane GP Ib/IIIa receptor b) Onset of action is slow c) Duration of action is long d) It is used as an alternative to aspirin in patients with cerebrovascular disease",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "All the following statements about clopidogrel are correct EXCEPT: \na) Directly interact with platelet membrane GP Ib/IIIa receptor b) Onset of action is slow c) Duration of action is long d) It is used as an alternative to aspirin in patients with cerebrovascular disease"
   },
   {
     "id": "PHARM4239",
@@ -23495,8 +23248,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "Endocrine System",
@@ -24827,33 +24580,7 @@
     "type": "MCQ",
     "topic": "GIT",
     "subtopic": "Antiulcer Drugs",
-    "question": "Match the Column 'X' and Column 'Y' regarding classification of drugs used for peptic ulcer:"
-  },
-  {
-    "id": "Column-X: i Prostaglandin analogue, ii H2 receptor antagonist, iii Proton pump inhibitors, iv Ulcer protectives.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "Column-Y: (p) Pirenzepine, (q) Misoprostol, (s) Famotidine, (r) Sucralfate, (t) Pantoprazole.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Match the Column 'X' and Column 'Y' regarding classification of drugs used for peptic ulcer: \nColumn-X: i Prostaglandin analogue, ii H2 receptor antagonist, iii Proton pump inhibitors, iv Ulcer protectives. \nColumn-Y: (p) Pirenzepine, (q) Misoprostol, (s) Famotidine, (r) Sucralfate, (t) Pantoprazole."
   },
   {
     "id": "PHARM4205",
@@ -29049,7 +28776,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "Respiratory System",
     "subtopic": "Bronchial Asthma",
     "question": "A 37-year-old patient presented to the physician the complaints of breathlessness and wheezing. These symptoms used to also occur and aggravate during the night time and interrupt his sleep. He was diagnosed to be having moderate bronchial asthma. Enumerate the drugs used in this patient stating their respective mechanism of action. Also mention various dosage forms and devices used to administer the drugs for bronchial asthma."
@@ -30151,8 +29878,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 5,
     "type": "SAQ",
     "topic": "Anesthesia",
@@ -31171,20 +30898,7 @@
     "type": "VSQ",
     "topic": "Toxicology",
     "subtopic": "Chelating Agents",
-    "question": "Which among the following is a 'Copper Chelating Agent'?"
-  },
-  {
-    "id": "a) British Anti-Lewisite (BAL) b) Calcium Disodium EDTA c) Deferoxamine d) Penicillamine",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which among the following is a 'Copper Chelating Agent'? \na) British Anti-Lewisite (BAL) b) Calcium Disodium EDTA c) Deferoxamine d) Penicillamine"
   },
   {
     "id": "PHARM5259",
@@ -31421,6 +31135,71 @@
     "question": "Describe in brief therapeutic uses of (i) Atropine and its substitutes (ii) Neostigmine"
   },
   {
+    "id": "PHARM0453",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2003,
+    "exam": "Internal",
+    "marks": 3,
+    "type": "SAQ",
+    "topic": "CNS",
+    "subtopic": "Cholinesterase inhibitors",
+    "question": "Describe briefly therapeutic uses of cholinesterase enzyme inhibitors."
+  },
+  {
+    "id": "PHARM0978",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 1986,
+    "exam": "Internal",
+    "marks": 4,
+    "type": "SAQ",
+    "topic": "CNS",
+    "subtopic": "Cholinesterase inhibitors",
+    "question": "Write short notes on therapeutic uses of anticholinesterases."
+  },
+  {
+    "id": "PHARM1244",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2011,
+    "exam": "Internal",
+    "marks": 3,
+    "type": "SAQ",
+    "topic": "CNS",
+    "subtopic": "Cholinesterase inhibitors",
+    "question": "Enumerate therapeutic uses of anticholinesterases. Explain in detail their role in myasthenia gravis."
+  },
+  {
+    "id": "PHARM1354",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2013,
+    "exam": "Pre",
+    "marks": 1,
+    "type": "SAQ",
+    "topic": "CNS",
+    "subtopic": "Cholinesterase inhibitors",
+    "question": "Name reversible cholinesterase inhibitors."
+  },
+  {
+    "id": "PHARM1386",
+    "college": "GOTMED",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2013,
+    "exam": "Internal",
+    "marks": 1,
+    "type": "VSQ",
+    "topic": "CNS",
+    "subtopic": "Cholinesterase inhibitors",
+    "question": "Enumerate therapeutic uses of anti-cholinesterase agent."
+  },
+  {
     "id": "PHARM1441",
     "college": "MSU",
     "subject": "Pharmacology",
@@ -31445,6 +31224,19 @@
     "topic": "ANS",
     "subtopic": "Cholinesterase inhibitors",
     "question": "Describe briefly vasoactive, anticholinesterase agents."
+  },
+  {
+    "id": "PHARM1495",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2016,
+    "exam": "Uni",
+    "marks": 3,
+    "type": "SAQ",
+    "topic": "CNS",
+    "subtopic": "Cholinesterase inhibitors",
+    "question": "Describe briefly therapeutic uses and adverse effects of reversible anticholinesterase agents."
   },
   {
     "id": "PHARM2009",
@@ -31562,84 +31354,6 @@
     "topic": "ANS",
     "subtopic": "Cholinesterase Inhibitors",
     "question": "Briefly describe the pharmacological actions, adverse effects and therapeutic uses of Neostigmine."
-  },
-  {
-    "id": "PHARM0453",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2003,
-    "exam": "Internal",
-    "marks": 3,
-    "type": "SAQ",
-    "topic": "CNS",
-    "subtopic": "Cholinesterase inhibitors",
-    "question": "Describe briefly therapeutic uses of cholinesterase enzyme inhibitors."
-  },
-  {
-    "id": "PHARM0978",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 1986,
-    "exam": "Internal",
-    "marks": 4,
-    "type": "SAQ",
-    "topic": "CNS",
-    "subtopic": "Cholinesterase inhibitors",
-    "question": "Write short notes on therapeutic uses of anticholinesterases."
-  },
-  {
-    "id": "PHARM1244",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2011,
-    "exam": "Internal",
-    "marks": 3,
-    "type": "SAQ",
-    "topic": "CNS",
-    "subtopic": "Cholinesterase inhibitors",
-    "question": "Enumerate therapeutic uses of anticholinesterases. Explain in detail their role in myasthenia gravis."
-  },
-  {
-    "id": "PHARM1354",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2013,
-    "exam": "Pre",
-    "marks": 1,
-    "type": "SAQ",
-    "topic": "CNS",
-    "subtopic": "Cholinesterase inhibitors",
-    "question": "Name reversible cholinesterase inhibitors."
-  },
-  {
-    "id": "PHARM1386",
-    "college": "GOTMED",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2013,
-    "exam": "Internal",
-    "marks": 1,
-    "type": "VSQ",
-    "topic": "CNS",
-    "subtopic": "Cholinesterase inhibitors",
-    "question": "Enumerate therapeutic uses of anti-cholinesterase agent."
-  },
-  {
-    "id": "PHARM1495",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2016,
-    "exam": "Uni",
-    "marks": 3,
-    "type": "SAQ",
-    "topic": "CNS",
-    "subtopic": "Cholinesterase inhibitors",
-    "question": "Describe briefly therapeutic uses and adverse effects of reversible anticholinesterase agents."
   },
   {
     "id": "PHARM3510",
@@ -32042,176 +31756,7 @@
     "type": "MCQ",
     "topic": "General Pharmacology",
     "subtopic": "Comprehensive",
-    "question": "Mention any two orally acting direct factor Xa inhibitors."
-  },
-  {
-    "id": "Give one example each of following hypolipidaemic drugs acting by : (a) PPAR- α agonism [0.5] (b) Bile acid sequestration [0.5]",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "Enumerate any two uses of d-penicillamine. Mention two disadvantages of selective cox-2 inhibitor.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "Give two examples of peripherally acting skeletal muscle relaxants having short duration of action.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "A pharmacokinetic study of a new drug is being conducted in healthy human volunteers. The half-life of the drug after administration by continuous IV Infusion is 10 hours. Which of the following best approximates the time for the drug to reach steady state? a) 20 hours b) 40 hours c) 60 hours d) 100 hours.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "Highly plasma protein bound drugs: a) Makes the drug short acting b) Have larger volume of distribution c) In case of overdose, they can be removed by haemodialysis d) Is not available for metabolism until free drug is metabolized or eliminated.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "Which of the following α blockers is selective α₂ blocker: a) Prazosin b) Dihydroergotamine c) Phenoxybenzamine d) Yohimbine.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "Which of the following statement is TRUE regarding mechanism of action of ocular hypotensives: a) Dipivefrine acts by both decreasing aqueous secretion and increasing trabecular outflow b) Beta blockers acts by increasing uveoscleral outflow c) Brimonidine acts by increasing trabecular outflow d) Pilocarpine acts by increasing uveoscleral outflow.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "Which of the following statement is FALSE regarding amiodarone? a) It blocks delayed rectifier K+ Channel b) Has β adrenergic blocking property c) It has short half-life about 2-4 hrs d) On prolonged use it can produce pulmonary fibrosis.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "All of the following antimicrobials enhance anticoagulant action of coumarine anticoagulants EXCEPT: a) griseofulvine b) metronidazole c) ceftriaxone d) erythromycin.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "Which of the following statement is FALSE regarding hydralazine: a) it is directly acting arteriolar vasodilator b) it increases renin release c) the chief metabolic pathway is acetylation d) it produces reduction in renal blood flow.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "Which of the following P2Y12 purinergic receptor blocker inhibit platelet function reversibly: a) ticlopidine b) clopidogrel c) ticagrelor d) prasugrel.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "Which of the following drug produce potentiation of noradrenaline action by blocking axonal reuptake: a) cocaine b) reserpine c) tyramine d) bretlylium.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "All of the following are mechanism of actions of methylxanthines EXCEPT: a) Increases concentration of cAMP b) Blockade of adenosine receptors c) Inhibit histone deacetylation in airway inflammatory cells d) At higher concentration it increases Ca+ release form SR in cardiac cells.",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Mention any two orally acting direct factor Xa inhibitors. \nGive one example each of following hypolipidaemic drugs acting by : (a) PPAR- α agonism [0.5] (b) Bile acid sequestration [0.5] \nEnumerate any two uses of d-penicillamine. Mention two disadvantages of selective cox-2 inhibitor. \nGive two examples of peripherally acting skeletal muscle relaxants having short duration of action. \nA pharmacokinetic study of a new drug is being conducted in healthy human volunteers. The half-life of the drug after administration by continuous IV Infusion is 10 hours. Which of the following best approximates the time for the drug to reach steady state? a) 20 hours b) 40 hours c) 60 hours d) 100 hours. \nHighly plasma protein bound drugs: a) Makes the drug short acting b) Have larger volume of distribution c) In case of overdose, they can be removed by haemodialysis d) Is not available for metabolism until free drug is metabolized or eliminated. \nWhich of the following α blockers is selective α₂ blocker: a) Prazosin b) Dihydroergotamine c) Phenoxybenzamine d) Yohimbine. \nWhich of the following statement is TRUE regarding mechanism of action of ocular hypotensives: a) Dipivefrine acts by both decreasing aqueous secretion and increasing trabecular outflow b) Beta blockers acts by increasing uveoscleral outflow c) Brimonidine acts by increasing trabecular outflow d) Pilocarpine acts by increasing uveoscleral outflow. \nWhich of the following statement is FALSE regarding amiodarone? a) It blocks delayed rectifier K+ Channel b) Has β adrenergic blocking property c) It has short half-life about 2-4 hrs d) On prolonged use it can produce pulmonary fibrosis. \nAll of the following antimicrobials enhance anticoagulant action of coumarine anticoagulants EXCEPT: a) griseofulvine b) metronidazole c) ceftriaxone d) erythromycin. \nWhich of the following statement is FALSE regarding hydralazine: a) it is directly acting arteriolar vasodilator b) it increases renin release c) the chief metabolic pathway is acetylation d) it produces reduction in renal blood flow. \nWhich of the following P2Y12 purinergic receptor blocker inhibit platelet function reversibly: a) ticlopidine b) clopidogrel c) ticagrelor d) prasugrel. \nWhich of the following drug produce potentiation of noradrenaline action by blocking axonal reuptake: a) cocaine b) reserpine c) tyramine d) bretlylium. \nAll of the following are mechanism of actions of methylxanthines EXCEPT: a) Increases concentration of cAMP b) Blockade of adenosine receptors c) Inhibit histone deacetylation in airway inflammatory cells d) At higher concentration it increases Ca+ release form SR in cardiac cells."
   },
   {
     "id": "PHARM5106",
@@ -32270,8 +31815,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "GIT",
@@ -32286,7 +31831,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "Reproductive Pharmacology",
     "subtopic": "Contraception",
     "question": "State the contraceptive method that you as a gynaecologist would recommend a newly married woman of 25 years old. She is perfectly healthy and is interested to plan her family."
@@ -32299,7 +31844,7 @@
     "year": 2025,
     "exam": "Pre",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "Reproductive Pharmacology",
     "subtopic": "Contraception",
     "question": "A 23-year-old newly married female presented to the gynecology OPD seeking contraceptive advice. She reports having regular menstrual cycles. (a) Enumerate the different types of oral contraceptive methods. [2] (b) Which contraceptive method would you recommend for the above patient? Justify your answer. [2] (c) Briefly describe the mechanism of action, non-serious side effects, and potential drug interactions of combined oral contraceptive pills. [4]"
@@ -33024,8 +32569,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "Reproductive Pharmacology",
@@ -33352,7 +32897,7 @@
     "year": 2021,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Respiratory System",
     "subtopic": "COPD",
     "question": "A 26 years old male patient, a known case of COPD, was presented in emergency with difficulty in breathing, wheezing & cough. On Examination, pulse rate was 100/min, BP 120/70 mm of Hg and respiratory rate 100/min. Chest auscultation revealed reduced breath sound with prolonged expiration. On Spirometry FEV1 was 70% of predicated. a) Classify the drugs that can be given to this patient incorporating all the events (2). b) Explain the pharmacological basis and current clinical status of drugs used for long term management in this patient. (4+4)."
@@ -35250,7 +34795,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "Respiratory System",
     "subtopic": "Cough",
     "question": "A 21-year old man visits a pharmacy with a productive cough for 2 days. He had mild fever that subsided with couple of doses of tablet paracetamol. Enumerate the drugs for cough. Mention the mechanism of action and adverse reactions of one of the drugs that can be dispensed to the patient."
@@ -35861,7 +35406,7 @@
     "year": 2024,
     "exam": "Pre",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "CNS",
     "subtopic": "Depression",
     "question": "A 47 year old woman comes to physician with chief complaint of fatigue. She indicates that she was promoted to senior manager in her company approximately 11 month earlier so she moved away from an office and group of colleagues she very much enjoyed. She had been waking up early at 3 am every night since last 2 months. She stresses at workplace and dropped 7% of her body weight in last 3 months. She finds herself less motivated with loss of interest and energy to pursue recreational activities that once she enjoyed. She remains worried all the time. Diagnosis: Endogenous Depression (i). Classify various drugs used for depression. [2]. (ii). Describe in brief mechanism of action of antidepressant drugs.[2] (iii). Describe briefly therapeutic uses and choice of antidepressants for different conditions.[4]"
@@ -35903,20 +35448,7 @@
     "type": "VSQ",
     "topic": "Endocrine System",
     "subtopic": "Diabetes Insipidus",
-    "question": "Drug of choice for nephrogenic diabetes insipidus is?"
-  },
-  {
-    "id": "a) Vasopressin b) Amiloride c) Desmopressin d) Thiazides",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Drug of choice for nephrogenic diabetes insipidus is? \na) Vasopressin b) Amiloride c) Desmopressin d) Thiazides"
   },
   {
     "id": "PHARM0020",
@@ -35965,7 +35497,7 @@
     "year": 2023,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Diabetes Mellitus",
     "question": "A 56-year-old male obese patient presented with complaints of increased thirst, easy fatigue and delayed wound healing. On lab investigation, his fasting blood sugar is 170 mg/dl and HbA1c is 7.5%. He is diagnosed to have Type II Diabetes mellitus. i) Name the antidiabetic of choice for the treatment of this patient with justification [3] ii) Mention indications for use of insulin in patients with type 2 DM [3] iii) Write in brief about insulin analogues [4]."
@@ -35978,7 +35510,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Diabetes Mellitus",
     "question": "A male patient of 46 years presented with complaints of increased thirst, increased urine output and gradual weight loss. Lab investigations reveal HbA1c of 7.2. He has family history of diabetes mellitus i) Mention the non pharmacological measures to be advised for the above patient [2] ii) Enumerate different drugs that can be prescribed to this patient [2] iii) Compare and contrast with examples: Sulfonylureas and Biguanides [6]"
@@ -35991,7 +35523,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Diabetes Mellitus",
     "question": "A 40 year old male patient is having a history of uncontrolled type II diabetes mellitus. Initially he was prescribed some oral hypoglycaemic drugs. Later, for some surgical procedure he was started with regular insulin. During continuous monitoring at hospital, it was found that despite raising insulin more than 300 IU per day his blood sugar stays at 220mg/dl. a) Explain insulin resistance with its causes. (2) Classify the drugs that can be used to overcome insulin resistance. (1) b) Describe the mechanism of action by which these drugs decreases insulin resistance. (4) c) Describe in brief mechanism of action and adverse effect of Acarbose. (3)"
@@ -36004,7 +35536,7 @@
     "year": 2021,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Diabetes Mellitus",
     "question": "A 24-year-old woman with type 1 diabetes wishes to achieve tight control of her diabetes to improve her long-term prognosis. a) Explain different insulin regimens that can be offered to this patient. (4) b) Write a short note on Insulin Analogues. (4) c) Describe briefly adverse reaction of Insulin. (2)"
@@ -36017,7 +35549,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Diabetes Mellitus",
     "question": "A 50 year old male came to your clinic with complain of fatigue and weight gain since last 3 months. He also reported increased frequency of urination. Lab investigation revealed Random Blood Sugar was 250 mg/dl (normal <200 mg/dl). Further investigation of fasting blood sugar showed value of 140 mg/dl (normal 90-130 mg/dl), while postprandial blood sugar was 200 mg/dl (normal -<150 mg/dl). Answer the following questions: 1. Give provisional diagnosis of this clinical case with justification. (02) 2. Classify oral drugs used to treat this clinical condition. (02) 3. Mention 2 adverse effects for parenteral preparation used in treatment. (02) 4. What are the indications of using parenteral preparation? (02) 5. Write any 2 drug interactions associated with parenteral preparation. (02)"
@@ -36030,7 +35562,7 @@
     "year": 2023,
     "exam": "Remedial",
     "marks": 5,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Diabetes Mellitus",
     "question": "A 50 year male office executive with sedentary lifestyle was diagnosed to have type II diabetes mellitus. His fasting and postprandial blood glucose was 130 mg/dl and 190 mg/dl respectively. HbA1c was 7.8%. BP was 130/82 mm Hg and body mass index was 27 kg/m2. He was asymptomatic and investigations revealed no end organ damage. (i) Which oral antidiabetic prescribed to this patient. Justify it. [1+2] (ii) Describe in brief mechanism of action and adverse effects of above selected drugs. [2]"
@@ -36043,7 +35575,7 @@
     "year": 2024,
     "exam": "Internal",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Diabetes Mellitus",
     "question": "A 40 years old male patient presented at medicine OPD with complaint of unusual thirst, polyuria, polydipsia and weight loss. On lab investigation, his FBS-160 mg/dl, PPBS -190mg/dl and HbA1C -7.4%. He is diagnosed to have type II Diabetes Mellitus. (i) Classify antidiabetic drugs [4] (ii) Name anti-diabetic of choice for this patient with justification [2] (iii) Which life style modification advice should be given to this patient [2]"
@@ -36056,7 +35588,7 @@
     "year": 2025,
     "exam": "Pre",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Diabetes Mellitus",
     "question": "A 50-year-old sedentary office worker (85 kg) presented for a routine checkup with polyuria, polydipsia, and polyphagia. FBS: 130 mg/dL, PPBS: 190 mg/dL, HbA1c: 7.8%, BP: 130/82 mmHg. He was diagnosed with type 2 diabetes mellitus. (a) Enlist the drugs that enhance insulin secretion and those that overcome insulin resistance. [3] (b) Write the most preferred oral antidiabetic drug to initiate in this patient, with justification. [2] (c) Describe in brief the mechanism of action and precautions to be taken while administering the above-selected drug. [2] (d) Write non-pharmacological measures which should be advised to the above patient. [1]"
@@ -37782,8 +37314,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 5,
     "type": "SAQ",
     "topic": "Renal Pharmacology",
@@ -40801,7 +40333,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "General Pharmacology",
     "subtopic": "Drug Interactions",
     "question": "A woman of 44 years of age visited a doctor's clinic with symptoms of fever, headache and running nose. She was diagnosed to be suffering from allergic rhinitis and so was prescribed drugs Erythromycin along with Terfenadine by her doctor. Explain the consequence of this drug interaction and the measures to prevent it."
@@ -41766,33 +41298,7 @@
     "type": "VSQ",
     "topic": "General Pharmacology",
     "subtopic": "Drug Uses",
-    "question": "Match the following drugs with its most preferred therapeutic uses:"
-  },
-  {
-    "id": "1. Epoprostenol, 2. Misoprostol, 3. Dinoprostone, 4. Alprostadil, 5. Carboprost",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
-  },
-  {
-    "id": "a) Erectile Dysfunction, b) Control Post-Partum Haemorrhage, c) Pulmonary Hypertension, d) Cervical Ripening during labour, e) Medical Termination of Pregnancy in first Trimester",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Match the following drugs with its most preferred therapeutic uses: \n1. Epoprostenol, 2. Misoprostol, 3. Dinoprostone, 4. Alprostadil, 5. Carboprost\na) Erectile Dysfunction, b) Control Post-Partum Haemorrhage, c) Pulmonary Hypertension, d) Cervical Ripening during labour, e) Medical Termination of Pregnancy in first Trimester"
   },
   {
     "id": "PHARM4279",
@@ -41987,20 +41493,7 @@
     "type": "VSQ",
     "topic": "General Pharmacology",
     "subtopic": "Emergency Medicine",
-    "question": "Essential Medicines' are those medicines:"
-  },
-  {
-    "id": "a) Needed to treat emergency conditions b) Meet the priority health care needs of the population c) Needed to treat serious diseases d) Listed in the pharmacopeia of a country",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Essential Medicines' are those medicines: \na) Needed to treat emergency conditions b) Meet the priority health care needs of the population c) Needed to treat serious diseases d) Listed in the pharmacopeia of a country"
   },
   {
     "id": "PHARM0874",
@@ -42023,7 +41516,7 @@
     "year": 2021,
     "exam": "Pre",
     "marks": 5,
-    "type": "Case",
+    "type": "case",
     "topic": "AETCOM",
     "subtopic": "End-of-Life Care",
     "question": "A 78-year-old woman is admitted from home with delirium and multilobar pneumonia. The neighbor witnessed aspiration and called emergency services. There is a 'do not resuscitate' (DNR) order in place but also a note from the primary care physician stating, 'per discussion with daughter/proxy (a lawyer) pt. is DNR but may be intubated.' The daughter and primary care provider cannot be reached, and meanwhile the patient has developed a pulseless electrical activity and cardiopulmonary arrest. 1. Should the physician institute CPR? Justify your answer. (2) 2. Define Do not Resuscitate (1) 3. Enumerate principles of ethics in medical profession. (1) 4. Explain Principle of autonomy in patient care in medical ethics. (1)"
@@ -42647,7 +42140,7 @@
     "year": 2023,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CNS",
     "subtopic": "Epilepsy",
     "question": "A 65-year-old male patient is diagnosed to have generalized tonic-clonic seizure. i) Enumerate antiepileptic agents used for the management of the same. [2] ii) Describe mechanism of action and adverse effects of sodium valproate. [2+2] iii) Describe clinically important pharmacokinetic characteristics and therapeutic uses of carbamazepine. Mention types of seizures where carbamazepine should be avoided.[1+2+1]"
@@ -42660,7 +42153,7 @@
     "year": 2021,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CNS",
     "subtopic": "Epilepsy",
     "question": "25year female patient suffers from generalized involuntary convulsive moments with loss of consciousness, clenching of teeth and frothing from the mouth. Her husband informs that she had history of similar attacks in past year. a) What will be the choices of drug for this patient suffering from tonic clonic seizures? (1) b) Describe Mechanism of action, adverse effects and drug interaction of your selected drug. (4) c) Describe briefly newer antiepileptic agents. (5)"
@@ -42683,8 +42176,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "Reproductive Pharmacology",
@@ -43219,7 +42712,7 @@
     "year": 2022,
     "exam": "Internal",
     "marks": 4,
-    "type": "Case",
+    "type": "case",
     "topic": "Reproductive Pharmacology",
     "subtopic": "Female Infertility",
     "question": "A 29-year-old female came to obstetrics and gynecology OPD with infertility. After 4 years of marriage, she is still not able to become pregnant despite of all measures. On asking history, she has irregular menstrual cycles. Physical and gynecological examinations are normal. Basal body temperature charts show no mid cycle temperature elevation. Her home urine ovulation prediction tests are negative. On examination of her husband had a normal semen analysis. She is diagnosed with infertility secondary to anovulation. (i) Enumerate drugs used to induce ovulation. [2] (ii) Write mechanism of action, and adverse effects of any ONE drug used to induce ovulation. [2]"
@@ -43245,7 +42738,7 @@
     "year": 2024,
     "exam": "Internal",
     "marks": 4,
-    "type": "Case",
+    "type": "case",
     "topic": "Reproductive Pharmacology",
     "subtopic": "Female Infertility",
     "question": "A 29 year old female came to obstetrics and gynecology OPD with infertility. After 4 years of marriage, she is still not able to conceive despite of all measures. On detailed history, she has irregular menstrual cycles. Physical and gynecological examinations are normal. Basal body temperature charts show no mid cycle body temperature elevation. Her home urine ovulation prediction tests are negative. Her husband had a normal semen analysis. She is diagnosed with infertility secondary to anovulation. i) Which drug should be given to the patient? Justify it. [2] ii) Describe in brief about above selected drug. [2]"
@@ -44139,8 +43632,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 5,
     "type": "SAQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
@@ -44737,8 +44230,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 5,
     "type": "SAQ",
     "topic": "Endocrine System",
@@ -45624,7 +45117,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "GIT",
     "subtopic": "H. pylori Infection",
     "question": "A 45 year old male presents with complaints of epigastric distress, and pain. He was on multiple drugs for the same condition for the past 3 months but there was no relief. On investigations, he was diagnosed with H. pylori infection. Enumerate the pharmacological and non-pharmacological treatment that can be prescribed to the patient. Mention the rationale of drug combinations."
@@ -46508,7 +46001,7 @@
     "year": 2023,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Heart Failure",
     "question": "A 50-year-old man was having complaints of shortness of breath along with pedal edema. Echocardiography revealed dilated left ventricle with reduced ejection fraction. He was diagnosed to have congestive heart failure. i) Mention different groups of drugs with examples that arrest/reverse the disease progression in patients with congestive heart failure. [3] ii) Describe pharmacological basis for the use of aldosterone antagonists in congestive heart failure and mention their adverse effects. [4] iii) Mention adverse effects of cardiac glycosides and precautions for their use. [3]"
@@ -46557,8 +46050,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 5,
     "type": "SAQ",
     "topic": "CVS",
@@ -47054,7 +46547,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Herpes Infection",
     "question": "A 20-year old boy presents to the dermatology department after 3 days of enduring painful blisters on the left side of his face and mouth, and fever for the past 5 days. He is diagnosed to be suffering from herpes infection. Enumerate the drugs that can be used to treat this patient. Mention the mechanism of action and important adverse effects of any one of these drugs."
@@ -47197,7 +46690,7 @@
     "year": 2024,
     "exam": "Pre",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "HIV Infection",
     "question": "A 45 year old businessman presents with loose watery stool, abdominal cramps, sweating, fever and poor appetite for 2 months. He also lost 12 kg weight since last 2 months. He had splenomegaly and lymphadenopathy. Several antimicrobial courses were already completed but there was no improvement in condition and he was severely ill. Laboratory test showed anaemia and CD4 counts below 100 cells / cmm. Serology revealed a positive HIV 1 tests. Diagnosis: HIV Infection (i). Write mechanism based classification of drugs used for HIV Infection. [2] (ii). Describe in brief 'HAART Regimen' and Principles of HIV Treatment.[3] (iii). Describe in brief 'Post Exposure Prophylaxis' of HIV.[3]"
@@ -47210,7 +46703,7 @@
     "year": 2025,
     "exam": "Pre",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "HIV Infection",
     "question": "A 30-year-old female patient presented to the Obstetrics and Gynecology OPD for a routine follow-up at 3 months of pregnancy. Blood investigations revealed that she is HIV positive. Further investigation showed that her husband is also HIV positive and was recently diagnosed. (a) Classify antiretroviral drugs. [3] (b) Which antiretroviral drug regimen is most preferred for initiating treatment in this patient? Justify your answer. [1+2] (c) Which drug required to be administered to the newborn? justify it use. [1+1]"
@@ -47233,8 +46726,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
@@ -47395,20 +46888,7 @@
     "type": "MCQ",
     "topic": "Anesthesia",
     "subtopic": "Hormonal Therapy",
-    "question": "GnRH analogue used in hormonal treatment of carcinoma prostate is?"
-  },
-  {
-    "id": "(a) Goserelin (b) Cyproterone Acetate (c) Finasteride (d) Bicalutamide",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "GnRH analogue used in hormonal treatment of carcinoma prostate is? \n(a) Goserelin (b) Cyproterone Acetate (c) Finasteride (d) Bicalutamide"
   },
   {
     "id": "PHARM5142",
@@ -47665,7 +47145,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Hypertension",
     "question": "A female patient 57 years of age is freshly diagnosed for moderate hypertension with blood pressure reading of 160 / 104 mm of Hg. The physician reassures her and prescribes her some medications viz. captopril and hydrochlorothiazide. i) Describe mechanism of action [2], therapeutic uses [3] and adverse effects [3] of captopril. ii) Mention drug-drug interactions of captopril with other cardiovascular agents [2]"
@@ -47678,7 +47158,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Hypertension",
     "question": "A 58-year-old male patient comes to outpatient department of medicine with complaints of headache and giddiness. On examination, his blood pressure is 158/98 mm of Hg. He is a known case of bronchial asthma for 3 years. He is newly diagnosed patient of hypertension. (i) Enumerate the drugs used for the management of given condition. [2] (ii) Which antihypertensive agent will you select for this patient? Justify your answer. [2] (iii) Describe in brief adverse reactions, contraindications and drug interactions of above selected drugs? [2+1+1] (iv) Which drug SHOULD BE AVOIDED in this patient? Justify your answer. [2]"
@@ -47691,7 +47171,7 @@
     "year": 2022,
     "exam": "Internal",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Hypertension",
     "question": "Mr. Ramesh, a 50-year-old businessman is complaining of mild headache, weakness and breathlessness. He is a known case of type 2 diabetes mellitus. On examination, his blood pressure is 166/104 mm Hg. Heart rate is 70/min. He is diagnosed to suffer from hypertension. (i) Which drugs should be prescribed to this patient and why? [2] (ii) Write the pharmacological basis, adverse effects and drug-drug interactions of above selected drugs. [7] (iii) Which antihypertensive are contraindicated to the patient? [1]"
@@ -47704,7 +47184,7 @@
     "year": 2024,
     "exam": "Internal",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Hypertension",
     "question": "A 60-year old male patient comes to outpatient department of medicine with complaints of mild headache, weakness and giddiness. On examination, his blood pressure is 156/96 mm of Hg. He is a known case of type 2 diabetes mellitus for 3 years. He is newly diagnosed patient of hypertension. (i) Enumerate the drug used in hypertension. [4] (ii) Which antihypertensive agent will you select for this patient? Justify your answer. [2] (iii) Which drug SHOULD BE AVOIDED in this patient? Justify your answer. [2]"
@@ -47717,7 +47197,7 @@
     "year": 2024,
     "exam": "Pre",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Hypertension",
     "question": "Mr. Ramesh, a 50-year-old businessman is complaining of mild headache, weakness and breathlessness. He is a known case of type 2 diabetes mellitus. On examination, his blood pressure is 158/96 mm Hg and Heart rate is 70/min. He is diagnosed to suffer from hypertension. (i) Which antihypertensive drug should be prescribed to this patient and why? [2] (ii) Write the pharmacological basis/adverse effects and drug interaction of above selected drug. [2+2+1] (iii) Which antihypertensive drugs contraindicated for the patient? [1]"
@@ -47730,7 +47210,7 @@
     "year": 2023,
     "exam": "Remedial",
     "marks": 5,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Hypertension",
     "question": "A 58-year old male patient comes to outpatient department of medicine with complaints of headache and giddiness. On examination, his blood pressure is 158/98 mm of Hg. He is newly diagnosed patient of hypertension. (i) Classify first line antihypertensive drugs [3] (ii) Which antihypertensive agent will you select for this patient? Justify your answer. [2]"
@@ -47743,7 +47223,7 @@
     "year": 2025,
     "exam": "Pre",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Hypertension",
     "question": "Mr. Hitesh, a 50-year-old CEO of a company came with complains of headache, weakness and breathlessness. He was non diabetic. On examination, his blood pressure was 152/96 mm Hg and heart rate was 70/min. He was diagnosed as having mild Hypertension. a) Which antihypertensive drug should be prescribed to this patient and why? [2] b) Describe in brief current clinical status of diuretics in hypertension. [4] c) Give any two examples of antihypertensive combination to be avoided in general. [2]"
@@ -47860,7 +47340,7 @@
     "year": 2023,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Hyperthyroidism",
     "question": "A 50-year-old male patient visited medicine OPD with complaints of restlessness, palpitation and diarrhea. On lab investigation, he was diagnosed to have hyperthyroidism. i) Enlist drugs used in the treatment of hyperthyroidism mentioning in brief their mechanism of action [4] ii) Describe the advantages and disadvantages of radioactive iodine in the treatment of hyperthyroidism.[4] iii) Describe in brief the relative clinical status of thyroid inhibitors in the treatment of hyperthyroidism in pregnant women.[2]"
@@ -47873,7 +47353,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Hyperthyroidism",
     "question": "A female patient 27 years of age presents with blood pressure reading of 160 / 100 mm of Hg. Laboratory investigations reveal her diagnosis as hyperthyroidism i) Describe with diagram [2] the mechanism of action [2] and adverse effects [2] of Carbamazole. ii) Explain the advantages [2] of propylthiouracil over Carbimazole and its clinical significance [2]"
@@ -47886,7 +47366,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Hyperthyroidism",
     "question": "40 years old female complained to her physician of increased appetite, restlessness, palpitation and diarrhoea. Lab investigation confirmed the diagnosis of hyperthyroidism. a) Classify different drugs used for treatment of hyperthyroidism. (3) b) Describe in brief about drugs used in treatment of thyroid storm. (3) c) Describe mechanism of action and uses of propylthiouracil"
@@ -47899,7 +47379,7 @@
     "year": 2024,
     "exam": "Internal",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "Endocrine System",
     "subtopic": "Hyperthyroidism",
     "question": "A 30 years old female patient complains of palpitation, increased motor activity, heat intolerance, frequent motions and weight loss in spite of increased appetite for past 2 months. Clinical examination reveals flushed and warm skin, tachycardia, bounding arterial pulse and exophthalmos. Investigation shows elevated serum T3 and T4 levels. Diagnosis: Toxic Goitre (Hyperthyroidism) (i) Classify antithyroid drugs [3] (ii) Explain in brief with diagram the mechanism of action [1.5] and adverse effects of Carbimazole [1.5] (iii) Explain the advantages of Prophylthiouracil over Carbimazole [2]"
@@ -48913,7 +48393,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CNS",
     "subtopic": "Insomnia",
     "question": "A 57 years old man is having complaint of difficulty in falling sleep. He is a factory worker having shift duty work. He wants doctor to prescribe some medicines to have good night sleep to perform next day work effectively. He was diagnosed to have short term insomnia. a) Classify the drugs used for this condition. (2) b) Out of these drugs which drug will you prescribe for this patient? Justify it. (1) c) Compare and contrast Barbiturates and Benzodiazepines. (4) d) Describe in brief therapeutic uses of Benzodiazepines. (3)"
@@ -48926,7 +48406,7 @@
     "year": 2021,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CNS",
     "subtopic": "Insomnia",
     "question": "A 43-year-old very man complains of not sleeping well and feeling tired during the day, because of his change of place. a) Enumerate various drugs that can be prescribed to this patient. (2) b) Describe briefly therapeutic uses of Benzodiazepines (4) c) Write a short note on non-benzodiazepine hypnotics. (4)"
@@ -49547,8 +49027,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 5,
     "type": "SAQ",
     "topic": "Endocrine System",
@@ -49823,7 +49303,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Hematology",
     "subtopic": "Iron Deficiency Anemia",
     "question": "A 60-year-old woman complained of weakness, lethargy and easy fatigability. She had diagnosis of iron deficiency anemia (Hb 8.0 g/dl). She was prescribed cap. Ferrous Fumarate 300 mg twice daily. She came for follow up after one month with no improvement in symptoms and Hb level. On detailed history she revealed that she felt epigastric distress after taking iron and started taking antacid tablets along with capsules. (i) What could be reason for failure to respond to oral iron medication? [1] (ii) Define absorption and describe in brief factors affecting it. [1+5] (iii) Define Bioavailability and Bioequivalence with suitable examples. [3]"
@@ -53645,7 +53125,7 @@
     "year": 2022,
     "exam": "Internal",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Malaria",
     "question": "A 45-year-old male weighing 60 kg brought to the emergency department with high grade fever with chills and shivering since 3 days. He also has headache, bodyache, nausea, weakness, pain in abdomen, disorientation, confusion, vertigo, blurred vision, delusion, hallucination and vertigo. Blood smear examination revealed that he is diagnosed to suffer from P. falciparum malaria complicated as meningitis. (i) Enumerate Anti-malarial drugs based on attacking the parasite at its various stages of life cycle in the human host. [2] (ii) Which drug should be preferred in this patient? Give reasons. [2] (iii) What should be the mode of administration in this patient? [1] (iv) Primaquine should be administered to patient or not? Give reasons. [1]"
@@ -53905,7 +53385,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Hematology",
     "subtopic": "Megaloblastic Anemia",
     "question": "A 27 year old female presented to her family physician with the complaint of weakness, breathlessness on exertion, frequent mouth ulcers. On investigation, her ECG was within normal limits. Her Blood pressure was 122/80 mmHg, Pulse rate was 72/min. In CBC her Hemoglobin was 8g/dl, WBC and Platelets were within normal limits. Her other hematological indices were within normal limits except MCV:110 femtolitre (normal range 78-100), her peripheral smear was showing larger sized RBCs and Hypersegmented neutrophils. Answer the following questions: 1. Diagnose the clinical condition (02) 2. What can be the etiology of this condition? (02) 3. Write in detail about treatment options of this condition with mechanism of action and ADRs of each option (06)"
@@ -54178,7 +53658,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "GIT",
     "subtopic": "Metronidazole",
     "question": "A patient of 50 years of age was prescribed tab Metronidazole by his physician. The recommended dose to him was 400 mg thrice per day × 5 days. On 4th day in late evening the patient attended a cocktail party with dinner in celebration of his friends 50th birthday. Comment on outcome of this interaction and state management of this condition."
@@ -54188,8 +53668,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
@@ -55234,20 +54714,7 @@
     "type": "VSQ",
     "topic": "Respiratory System",
     "subtopic": "Mucolytics",
-    "question": "Bromhexine acts by:"
-  },
-  {
-    "id": "a) Inhibiting cough centre b) Irritating gastric mucosa and reflexly increasing bronchial secretion c) Depolymerizing mucopolysaccharides present d) Desensitizing stretch receptors in the lungs",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Bromhexine acts by: \na) Inhibiting cough centre b) Irritating gastric mucosa and reflexly increasing bronchial secretion c) Depolymerizing mucopolysaccharides present d) Desensitizing stretch receptors in the lungs"
   },
   {
     "id": "PHARM4343",
@@ -55315,32 +54782,6 @@
     "question": "Bromhexine acts by: a) Inhibiting cough centre b) Irritating gastric mucosa and reflexly increasing bronchial secretion c) Depolymerizing mucopolysaccharides present d) Desensitizing stretch receptors in the lungs"
   },
   {
-    "id": "PHARM3869",
-    "college": "GOTMED",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2021,
-    "exam": "Pre",
-    "marks": 2,
-    "type": "VSQ",
-    "topic": "ANS",
-    "subtopic": "Muscle Relaxants",
-    "question": "Enlist four centrally acting muscle relaxants."
-  },
-  {
-    "id": "PHARM3914",
-    "college": "CUSMC",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2022,
-    "exam": "Pre",
-    "marks": 5,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Muscle Relaxants",
-    "question": "Write Short Notes on Clinical uses of centrally acting muscle relaxants"
-  },
-  {
     "id": "PHARM1030",
     "college": "MSU",
     "subject": "Pharmacology",
@@ -55406,6 +54847,32 @@
     "question": "Classify centrally acting skeletal muscle relaxants and discuss mechanism of action, therapeutic uses and ADR of tizanidine."
   },
   {
+    "id": "PHARM3869",
+    "college": "GOTMED",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2021,
+    "exam": "Pre",
+    "marks": 2,
+    "type": "VSQ",
+    "topic": "ANS",
+    "subtopic": "Muscle Relaxants",
+    "question": "Enlist four centrally acting muscle relaxants."
+  },
+  {
+    "id": "PHARM3914",
+    "college": "CUSMC",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2022,
+    "exam": "Pre",
+    "marks": 5,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Muscle Relaxants",
+    "question": "Write Short Notes on Clinical uses of centrally acting muscle relaxants"
+  },
+  {
     "id": "PHARM5173",
     "college": "MSU",
     "subject": "Pharmacology",
@@ -55430,175 +54897,6 @@
     "topic": "ANS",
     "subtopic": "Muscle Relaxants",
     "question": "Describe in brief therapeutic uses of peripherally acting skeletal muscle relaxants.[3]"
-  },
-  {
-    "id": "PHARM1789",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2012,
-    "exam": "Uni",
-    "marks": 3,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Describe briefly drug therapy of myasthenia gravis."
-  },
-  {
-    "id": "PHARM2118",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2014,
-    "exam": "Uni",
-    "marks": 3,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Write in brief: Drug therapy of myasthenia gravis."
-  },
-  {
-    "id": "PHARM2205",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2013,
-    "exam": "Uni",
-    "marks": 1.5,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Explain pharmacological basis for the use of: [ii] pyridostigmine in myasthenia gravis."
-  },
-  {
-    "id": "PHARM2380",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2009,
-    "exam": "Uni",
-    "marks": 3,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Describe briefly: Pharmacotherapy of myasthenia gravis."
-  },
-  {
-    "id": "PHARM2726",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 2,
-    "year": 2006,
-    "exam": "Uni",
-    "marks": 3,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Describe the pharmacological basis of the use of Prednisolone in myasthenia gravis."
-  },
-  {
-    "id": "PHARM2856",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2004,
-    "exam": "Uni",
-    "marks": 3,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Describe in brief: Anticholinesterase agents in Myasthenia gravis."
-  },
-  {
-    "id": "PHARM2890",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 2,
-    "year": 2003,
-    "exam": "Uni",
-    "marks": 3,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Describe the pharmacological basis of use of Prednisolone in myasthenia gravis."
-  },
-  {
-    "id": "PHARM2924",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2001,
-    "exam": "Uni",
-    "marks": 3,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Describe the pharmacological basis of use of Pyridostigmine in myaesthenia gravis."
-  },
-  {
-    "id": "PHARM2989",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2001,
-    "exam": "Uni",
-    "marks": 2,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Give reasons: Neostigmine is preferred to physostigmine in myaesthesia gravis."
-  },
-  {
-    "id": "PHARM3058",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 2000,
-    "exam": "Uni",
-    "marks": 4,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Describe the pharmacotherapy of Myasthenia gravis."
-  },
-  {
-    "id": "PHARM3091",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 1995,
-    "exam": "Uni",
-    "marks": 5.5,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Describe the drug therapy of Myasthenia gravis."
-  },
-  {
-    "id": "PHARM3131",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 1997,
-    "exam": "Uni",
-    "marks": 4,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Describe the pharmacological basis of the use of Prednisolone in myasthenia gravis."
-  },
-  {
-    "id": "PHARM3523",
-    "college": "MSU",
-    "subject": "Pharmacology",
-    "paper": 1,
-    "year": 1982,
-    "exam": "Uni",
-    "marks": 4,
-    "type": "SAQ",
-    "topic": "ANS",
-    "subtopic": "Myasthenia Gravis",
-    "question": "Describe the pharmacological basis of Use of pyridostigmine in myasthenia gravis."
   },
   {
     "id": "PHARM0213",
@@ -55861,6 +55159,175 @@
     "question": "Justify: Use of pyridostigmine over neostigmine in myasthenia gravis."
   },
   {
+    "id": "PHARM1789",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2012,
+    "exam": "Uni",
+    "marks": 3,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Describe briefly drug therapy of myasthenia gravis."
+  },
+  {
+    "id": "PHARM2118",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2014,
+    "exam": "Uni",
+    "marks": 3,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Write in brief: Drug therapy of myasthenia gravis."
+  },
+  {
+    "id": "PHARM2205",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2013,
+    "exam": "Uni",
+    "marks": 1.5,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Explain pharmacological basis for the use of: [ii] pyridostigmine in myasthenia gravis."
+  },
+  {
+    "id": "PHARM2380",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2009,
+    "exam": "Uni",
+    "marks": 3,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Describe briefly: Pharmacotherapy of myasthenia gravis."
+  },
+  {
+    "id": "PHARM2726",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 2,
+    "year": 2006,
+    "exam": "Uni",
+    "marks": 3,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Describe the pharmacological basis of the use of Prednisolone in myasthenia gravis."
+  },
+  {
+    "id": "PHARM2856",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2004,
+    "exam": "Uni",
+    "marks": 3,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Describe in brief: Anticholinesterase agents in Myasthenia gravis."
+  },
+  {
+    "id": "PHARM2890",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 2,
+    "year": 2003,
+    "exam": "Uni",
+    "marks": 3,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Describe the pharmacological basis of use of Prednisolone in myasthenia gravis."
+  },
+  {
+    "id": "PHARM2924",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2001,
+    "exam": "Uni",
+    "marks": 3,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Describe the pharmacological basis of use of Pyridostigmine in myaesthenia gravis."
+  },
+  {
+    "id": "PHARM2989",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2001,
+    "exam": "Uni",
+    "marks": 2,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Give reasons: Neostigmine is preferred to physostigmine in myaesthesia gravis."
+  },
+  {
+    "id": "PHARM3058",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 2000,
+    "exam": "Uni",
+    "marks": 4,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Describe the pharmacotherapy of Myasthenia gravis."
+  },
+  {
+    "id": "PHARM3091",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 1995,
+    "exam": "Uni",
+    "marks": 5.5,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Describe the drug therapy of Myasthenia gravis."
+  },
+  {
+    "id": "PHARM3131",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 1997,
+    "exam": "Uni",
+    "marks": 4,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Describe the pharmacological basis of the use of Prednisolone in myasthenia gravis."
+  },
+  {
+    "id": "PHARM3523",
+    "college": "MSU",
+    "subject": "Pharmacology",
+    "paper": 1,
+    "year": 1982,
+    "exam": "Uni",
+    "marks": 4,
+    "type": "SAQ",
+    "topic": "ANS",
+    "subtopic": "Myasthenia Gravis",
+    "question": "Describe the pharmacological basis of Use of pyridostigmine in myasthenia gravis."
+  },
+  {
     "id": "PHARM3535",
     "college": "MSU",
     "subject": "Pharmacology",
@@ -55868,7 +55335,7 @@
     "year": 2023,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CNS",
     "subtopic": "Myasthenia Gravis",
     "question": "A 35-year-old female patient presents to medicine OPD with complaints of muscle weakness which worsens upon their usage and improves on taking rest. Patient also complains of difficulty during breathing and swallowing. She was found to have droopy eyelid. After neurological examination and lab investigations, she was diagnosed to have myasthenia gravis. - Mention different groups of drugs used in the management of myasthenia gravis with examples and describe pharmacological basis for their use in myasthenia gravis. [2 +4] - Describe management of organophosphate poisoning [4]"
@@ -55946,7 +55413,7 @@
     "year": 2024,
     "exam": "Internal",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "CNS",
     "subtopic": "Myasthenia Gravis",
     "question": "A 54-year-old male came to neurology OPD with complaints of drooping of eyelid, double vision, difficulty in swallowing and chewing. He has severe fatigue after walking, weakness in lower limb since 3 weeks. Examination and investigation reveal that he is diagnosed as myasthenia gravis. a) Which drug should be given to the patient to relieve his symptoms? Justify your selection. [2] b) Describe in brief other therapeutic indications of above selected drug. [2] c) Describe in brief: Myasthenic Crisis and Cholinergic crisis [2]"
@@ -56232,7 +55699,7 @@
     "year": 2021,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CVS",
     "subtopic": "Myocardial Infarction",
     "question": "A 70-year-old man came for follow up at clinic after hospitalization for a myocardial infarction (MI) a month back. He had undergone successful angioplasty and is currently asymptomatic. In the hospital, his blood pressure was consistently elevated. The patient's discharge medications include an ACE inhibitor, a statin, diuretic. a) Can the patient be prescribed any other drug to hasten relief of symptoms? If so, name the drug and explain its mechanism for this condition. (1+3) b) Explain pharmacological basis of using ACE inhibitor in MI. (3) c) Should a β blocker be added to the treatment regimen concurrently? Justify your choice. (3)"
@@ -57041,20 +56508,7 @@
     "type": "VSQ",
     "topic": "CNS",
     "subtopic": "Neurotransmitters",
-    "question": "Norepinephrine action at the synaptic cleft is terminated by:"
-  },
-  {
-    "id": "a) Metabolism by COMT b) Metabolism by MAO c) Reuptake d) Metabolism by plasma esterase",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Norepinephrine action at the synaptic cleft is terminated by: \na) Metabolism by COMT b) Metabolism by MAO c) Reuptake d) Metabolism by plasma esterase"
   },
   {
     "id": "PHARM1764",
@@ -57987,7 +57441,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CNS",
     "subtopic": "Obsessive Compulsive Disorder",
     "question": "Mr. ABC, 36 years old male was brought to the department of psychiatry with the chief complaints of repetitive counting, repetitive arranging things, following the same routine, loss of thoughts, loss of interest, irritability and low mood. He was diagnosed to have obsessive compulsive disorder. a) Which group of drugs is used as first choice for this condition? Enlist four drugs from the same group. (2) b) Compare and contrast Tricyclic antidepressants (TCA) and Selective Serotonin Reuptake Inhibitors (SSRI). (4) c) Describe briefly the therapeutic uses of antidepressants. (4)"
@@ -58318,19 +57772,6 @@
     "question": "Classify addictive analgesics. Describe the actions and uses of morphine."
   },
   {
-    "id": "PHARM4014",
-    "college": "GOTMED",
-    "subject": "Pharmacology",
-    "paper": 2,
-    "year": 2024,
-    "exam": "Pre",
-    "marks": 8,
-    "type": "Case",
-    "topic": "Analgesics & Anti-inflammatory Drugs",
-    "subtopic": "Opioid Analgesics",
-    "question": "A 50 Year old female patient is recently operated for fracture of femur bone. After surgery she feels severe pain for last 3 days. The pain is continuous and severe in nature and is not relieved by simple analgesics.Diagnosis: Post-Operative Pain (i). Enlist drugs used as analgesics for treatment of this type of pain. [1] (ii). Describe in detail central and peripheral actions of the prototype drug from the above selected group.[5] (iii). Write precautions and contraindications for the same prototype drug. [2]"
-  },
-  {
     "id": "PHARM3567",
     "college": "MSU",
     "subject": "Pharmacology",
@@ -58368,6 +57809,19 @@
     "topic": "CNS",
     "subtopic": "Opioid Analgesics",
     "question": "Write any four contraindications of morphine."
+  },
+  {
+    "id": "PHARM4014",
+    "college": "GOTMED",
+    "subject": "Pharmacology",
+    "paper": 2,
+    "year": 2024,
+    "exam": "Pre",
+    "marks": 8,
+    "type": "case",
+    "topic": "Analgesics & Anti-inflammatory Drugs",
+    "subtopic": "Opioid Analgesics",
+    "question": "A 50 Year old female patient is recently operated for fracture of femur bone. After surgery she feels severe pain for last 3 days. The pain is continuous and severe in nature and is not relieved by simple analgesics.Diagnosis: Post-Operative Pain (i). Enlist drugs used as analgesics for treatment of this type of pain. [1] (ii). Describe in detail central and peripheral actions of the prototype drug from the above selected group.[5] (iii). Write precautions and contraindications for the same prototype drug. [2]"
   },
   {
     "id": "PHARM4074",
@@ -59209,7 +58663,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 4,
-    "type": "Case",
+    "type": "case",
     "topic": "Toxicology",
     "subtopic": "Organophosphate Poisoning",
     "question": "A 45-year-old farmer was brought in ambulance with complaints of headache, bronchospasm, salivation, tightness in chest, blurred vision, nausea, vomiting, abdominal pain, involuntary urination and defecation. On examination, he had miosis, HR 60 per minute, Blood pressure 102/76 mmHg. There was history of exposure to insecticide sprays 1 hr before. It was diagnosed as a case of Organophosphate poisoning. (i) Mention one specific antidote used in this condition with its dose, route and frequency. [2] (ii) Write the pharmacological basis of use of above drug in this condition. [2]"
@@ -59235,7 +58689,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Toxicology",
     "subtopic": "Organophosphate Poisoning",
     "question": "A 40 year old farmer presented to the casualty department with history of multiple episodes of vomiting and breathing difficulty following his regular work in his farm in the morning. He developed burning eye, uneasiness and nauseating after spraying insecticide in the farm. His hands and clothes were also soaked with the insecticidal spray. On examination, he was well oriented to time, place and person but having restlessness and both pupils were pin point. BP: 96/62 mmHg, Pulse:60/min, Respiratory rate 30/min with excessive oral secretions. Answer the following questions: 1. Diagnose the clinical condition (02) 2. Name the symptomatic antidote to be given at once with the dose, route and frequency (02) 3. Write the maximum dose of symptomatic antidote that can be given in a day? (02) 4. Name any two specific antidotes used in this condition. (02) 5. Write the pharmacological basis of specific antidotes. (02)"
@@ -59261,7 +58715,7 @@
     "year": 2024,
     "exam": "Internal",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "Toxicology",
     "subtopic": "Organophosphate Poisoning",
     "question": "A 45 year old farmer was brought in ambulance with complaints of headache, bronchospasm, salivation, tightness in chest, blurred vision, nausea, vomiting, abdominal pain, involuntary urination and defecation. On examination, he had miosis, HR 60 per minute, Blood pressure 102/76mmHg. There was history of exposure to insecticide sprays 1 hr before. It was diagnosed as a case of Organophosphate poisoning. a) Classify anti-cholinergic drugs. [3] b) Which drugs used in above mentioned condition. [1] c) Write the pharmacological basis of use of above selected drugs. [4]"
@@ -59482,7 +58936,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Musculoskeletal System",
     "subtopic": "Osteoarthritis",
     "question": "A female patient 54 years of age weighing 92 kg presents with complaints of pain in both knee joints for last 10-12 days and swelling over left knee joint for last 2-3 days. Clinical examination and X-ray findings are suggestive of osteoarthritis. i) Describe mechanisms of action of NSAIDs for their antiinflammatory effects [3]. ii) Name four long acting NSAIDs from different groups which can be prescribed for above condition [2]. iii) Explain the merits [2] and demerits [3] with the use of selective COX-2 inhibitors."
@@ -59950,7 +59404,7 @@
     "year": 2023,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "CNS",
     "subtopic": "Parkinsonism",
     "question": "A 67-year-old male patient visited medicine OPD with complaints of rigidity, tremors and hypokinesia. He was diagnosed to have Parkinsonism. i) Classify antiparkinsonian drugs and describe in detail the adverse effects of levodopa with measures to overcome the same. [2+4] ii) What is drug-induced parkinsonism? Enumerate drugs responsible for the causation of the same and describe the measures to overcome the same. [4]"
@@ -60870,10 +60324,10 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "GIT",
     "subtopic": "Peptic Ulcer",
     "question": "An adult 40-year-old male, an executive in a multi-national company, has complaints of pain in abdomen since a month along with occasional heart burn due to which he is unable to sleep. It worsens with ingestion of spicy and oily meals. After a thorough examination, physician diagnosed him as a case of peptic ulcer. Along with appropriate diet and lifestyle modifications, physician prescribed him anti-ulcer drugs. Answer the following questions: a) Enumerate various drugs from different groups which can be prescribed to him along with mechanism of action of any two drug classes. [4] b) Write briefly about treatment regimens for H. pylori infection. [4] c) Which drugs should be prescribed to the above patient if he develops gastroesophageal reflux disease (GERD)? [4]"
@@ -60886,7 +60340,7 @@
     "year": 2024,
     "exam": "Pre",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "GIT",
     "subtopic": "Peptic Ulcer",
     "question": "An executive, 57 years old complains intermittent burning pain in epigastric region since last 6 months. It is associated with nausea, dyspepsia & relieved by meals. He passes black colored stool. He is taking NSAIDs frequently for osteoarthritis. Test for H. pylori is negative. Diagnosis: Peptic Ulcer (i). Classify various drugs used for peptic ulcer.[2] (ii). Describe in brief class of drug used for symptomatic pain relief in this condition.[3] (iii). Describe mechanism of action, pharmacokinetics and therapeutic uses of H+ K+ ATPase Inhibitors in stomach.[3]"
@@ -61315,7 +60769,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "Dermatology",
     "subtopic": "Photosensitivity",
     "question": "A 34 year old female patient who was suffering from urinary infection was prescribed Ciprofloxacin by her physician for the duration of 5 days. On the 3rd day after taking the morning dose around 11.00 am, as the lady was going to her office, she noticed reddish colour rash and itching on her body parts exposed to sunlight (face, neck, forearm & hand). Comment on the likely cause for the rash and describe preventive as well as curative measures to overcome the same in future."
@@ -61991,7 +61445,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "Reproductive Pharmacology",
     "subtopic": "Post-partum Hemorrhage",
     "question": "A 29-year old female (G1P1) delivered a full term baby. Following the delivery, she developed post-partum haemorrhage. Enumerate the uterine stimulants that can be given to this patient. Mention the adverse drug reactions, and other uses of any one of the uterine stimulants."
@@ -63574,8 +63028,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "Dermatology",
@@ -65849,8 +65303,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "CVS",
@@ -65904,7 +65358,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Streptococcal Infection",
     "question": "An 18-year old female is suffering from fever (101°F), sore throat, and malaise. Her rapid antigen test for COVID came negative. Throat swab indicated infection with streptococcus group A. Enumerate the drugs that can be used to treat this patient. Mention the mechanism of action and important adverse effects of any one of these drugs."
@@ -67285,20 +66739,7 @@
     "type": "VSQ",
     "topic": "General Pharmacology",
     "subtopic": "Therapeutic Drug Monitoring",
-    "question": "Therapeutic drug monitoring is done for all the following EXCEPT:"
-  },
-  {
-    "id": "a) Phenytoin b) Enoxaparin c) Digoxin d) Lithium",
-    "college": "",
-    "subject": "",
-    "paper": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Therapeutic drug monitoring is done for all the following EXCEPT: \na) Phenytoin b) Enoxaparin c) Digoxin d) Lithium"
   },
   {
     "id": "PHARM4361",
@@ -67734,8 +67175,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 5,
     "type": "SAQ",
     "topic": "Hematology",
@@ -68998,7 +68439,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Tuberculosis",
     "question": "Mrs. XYZ is 45 years (55kg) old female having complains of persistent cough, anorexia and weight loss for past 6 months. She is also experiencing low grade fever and night sweats for last 20-30 days. Sputum smear is positive for acid fast bacilli. Patient gives history of taking antitubercular drugs in the past for around 10-15days. Drug susceptible testing shows bacilli are not resistant to antitubercular drugs. She was diagnosed to have drug sensitive tuberculosis. a) Enlist the first and second line antitubercular drugs. (2) b) Describe briefly the drug therapy for this patient. (4) c) Define MDR and XDR TB. (2) d) Describe in brief the role of corticosteroids in TB patients. (2)"
@@ -69037,7 +68478,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Tuberculosis",
     "question": "Mrs. ABC is a 45 year (55 kg) old female complaining of a persistent cough with anorexia and weight loss for the last 3 months. Since last week, she has been experiencing low-grade fever, night sweats and coughing up blood. Sputum smear was positive for acid fast bacilli. Answer the following questions: 1. Write the provisional diagnosis for this patient. (01) 2. What should be the drug regimen for this patient? (02) 3. Describe pharmacological basis of drugs used in this patient. (06) 4. Enumerate important adverse drug reactions of given drugs. (01)"
@@ -69076,7 +68517,7 @@
     "year": 2025,
     "exam": "Pre",
     "marks": 8,
-    "type": "Case",
+    "type": "case",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Tuberculosis",
     "question": "A 45-year-old male farmer and chronic smoker presented with a 3 to 4-week history of productive cough, recently blood-streaked, along with evening fever, night sweats, dyspnea, fatigue, and 5 kg weight loss. Chest X-ray revealed a 3 cm cavity in the right upper lobe. He was diagnosed as a new case of pulmonary tuberculosis. (a) Classify anti-tubercular drugs (ATD). [3] (b) Describe in details most preferred ATD regimen for initiating treatment in this patient. [3] (c) Write the appropriate management approach for a patient who develops an adverse drug reaction to anti-tubercular therapy. [2]"
@@ -69180,7 +68621,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 6,
-    "type": "Case",
+    "type": "case",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Typhoid",
     "question": "A 30-year old female visits the emergency department with complaints of fever (102°F), headache, loose stools and malaise. She was suffering from high grade fever for the last week. On investigations, she was diagnosed to have Salmonella typhi infection. Enumerate the drugs that can be used to treat this patient. Mention the mechanism of action and important adverse effects of any one of these drugs."
@@ -69284,7 +68725,7 @@
     "year": 2023,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Chemotherapy (Antimicrobial Drugs)",
     "subtopic": "Urinary Tract Infection",
     "question": "A 45-year-old female patient presented with high-grade fever, burning micturition, urgency, and frequency of urine. She is diagnosed to have acute cystitis. i) Describe antimicrobial therapy for the above clinical condition [3]. ii) Explain with an example: Urinary antiseptics [2] iii) Enumerate third-generation cephalosporins. Mention therapeutic uses and adverse reactions of third-generation cephalosporins. [1+2+2]"
@@ -69307,8 +68748,8 @@
     "college": "MSU",
     "subject": "Pharmacology",
     "paper": 2,
-    "year": "null",
-    "exam": "null",
+    "year": "Unknown",
+    "exam": "Unknown",
     "marks": 3,
     "type": "SAQ",
     "topic": "Chemotherapy (Antimicrobial Drugs)",

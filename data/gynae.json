@@ -10,7 +10,7 @@
     "type": "case",
     "topic": "Menstrual disorders",
     "subtopic": "Abnormal Uterine Bleeding",
-    "question": "Define AUB, describe PALM COEIN classification, and discuss medical management for a 5 cm intramural fibroid in a 25 year old nulligravida with heavy menstrual cycles"
+    "question": "Define AUB, describe PALM COEIN classification, and discuss medical management for a 5 cm intramural fibroid in a 25 year old Unknownigravida with heavy menstrual cycles"
   },
   {
     "id": "OG305",
@@ -450,7 +450,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Anatomy",
     "question": "Normal Placenta"
   },
@@ -710,7 +710,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Bromocriptine",
     "question": "Bromocriptine."
   },
@@ -1009,7 +1009,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Clomiphene citrate",
     "question": "Clomiphene citrate for Ovulation induction."
   },
@@ -1022,7 +1022,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Clomiphene citrate",
     "question": "Clomiphene Citrate."
   },
@@ -1035,7 +1035,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Clomiphene citrate",
     "question": "Clomiphene citrate."
   },
@@ -1048,7 +1048,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Clomiphene citrate",
     "question": "Clomiphene Citrate."
   },
@@ -1061,7 +1061,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Clomiphene citrate",
     "question": "Clomiphene Citrate."
   },
@@ -1074,7 +1074,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Clomiphene citrate",
     "question": "Clomiphene citrate."
   },
@@ -1087,7 +1087,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Clomiphene citrate",
     "question": "Clomiphene Citrate."
   },
@@ -1204,7 +1204,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Danazol",
     "question": "Danazol."
   },
@@ -1217,7 +1217,7 @@
     "exam": "Pre",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Diagnosis",
     "question": "Diagnosis of PCOD"
   },
@@ -1243,7 +1243,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Diagnosis",
     "question": "Criteria for diagnosis of PCOS."
   },
@@ -2517,7 +2517,7 @@
     "exam": "Uni",
     "marks": 10,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Hormonal Regulation",
     "question": "Hormonal changes during normal menstrual cycle"
   },
@@ -3284,7 +3284,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Letrozole",
     "question": "Letrozole in Gynecology"
   },
@@ -3882,7 +3882,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Medroxyprogesterone acetate",
     "question": "Medroxyprogesterone acetate."
   },
@@ -4038,7 +4038,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Mifepristone",
     "question": "Mifepristone."
   },
@@ -4051,7 +4051,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Mifepristone",
     "question": "Mifepristone."
   },
@@ -4545,7 +4545,7 @@
     "exam": "Pre",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Ormeloxifene",
     "question": "Tablet Ormeloxifene in Gynecology"
   },
@@ -4896,7 +4896,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Ovulation",
     "question": "Physiology of Ovulation and its importance"
   },
@@ -6027,7 +6027,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Progesterone",
     "question": "Clinical uses of Progesterone."
   },
@@ -6040,7 +6040,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Progesterone",
     "question": "Therapeutic uses of progesterone in Gynecology."
   },
@@ -6053,7 +6053,7 @@
     "exam": "Pre",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Progesterone",
     "question": "Progesterone in abnormal uterine bleeding"
   },
@@ -6066,7 +6066,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Progesterone",
     "question": "Progesterone in DUB."
   },
@@ -6079,7 +6079,7 @@
     "exam": "Uni",
     "marks": 3,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Progesterone",
     "question": "Clinical uses of Progesterone"
   },
@@ -6092,7 +6092,7 @@
     "exam": "Uni",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Progesterone",
     "question": "Progesterones in Abnormal Uterine Bleeding."
   },
@@ -6833,7 +6833,7 @@
     "exam": "Internals",
     "marks": 5,
     "type": "SAQ",
-    "topic": "Drugs Gynaecology",
+    "topic": " Drugs Gynaecology",
     "subtopic": "Tranexamic acid",
     "question": "Tranexamic acid."
   },

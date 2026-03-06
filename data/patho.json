@@ -1749,7 +1749,7 @@
     "year": 2023,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Anemia",
     "question": "28 years old pregnant female from a poor community, presented with pallor, weakness, and breathlessness in her second trimester. Her HB was 6.5 gm% and MCV was 58 fl. a) What is a possible diagnosis? (2 marks) b) Enumerate causes of this anemia (2 marks) c) Write laboratory diagnosis of this condition (4 marks) d) What is the role of reticulocyte count during the treatment of this condition (2 marks)"
@@ -1762,7 +1762,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Anemia",
     "question": "60 years old, pure vegetarian male presented with pallor, weakness, red baldy tongue and numbness in fingers. His HB was 8 gm% and MCV was 110 fl. a) What is possible diagnosis? (2 marks) b) Enumerate causes of nutritional anemia (2 marks) c) Write laboratory diagnosis of this condition (4 marks) d) What is reticulocyte? Mention conditions in which reticulocyte count increases. (2 marks)"
@@ -1804,20 +1804,7 @@
     "type": "VSQ",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Anemia",
-    "question": "Which of the following is a characteristic finding in the peripheral blood smear of a patient with megaloblastic anemia?"
-  },
-  {
-    "id": "a. Microcytic hypochromic red blood cells b. Macroovalocytes and hypersegmented neutrophils c. Sickle-shaped red blood cells d. Target cells",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which of the following is a characteristic finding in the peripheral blood smear of a patient with megaloblastic anemia? \na. Microcytic hypochromic red blood cells b. Macroovalocytes and hypersegmented neutrophils c. Sickle-shaped red blood cells d. Target cells"
   },
   {
     "id": "PATH2480",
@@ -2038,20 +2025,7 @@
     "type": "MCQ",
     "topic": "Cardiovascular System",
     "subtopic": "Aneurysm",
-    "question": "Types of aneurysms based upon pathogenetic mechanisms include all except:"
-  },
-  {
-    "id": "a) Atherosclerotic b) Fibrotic c) Luetic d) Mycotic",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Types of aneurysms based upon pathogenetic mechanisms include all except: \na) Atherosclerotic b) Fibrotic c) Luetic d) Mycotic"
   },
   {
     "id": "PATH2441",
@@ -2441,20 +2415,7 @@
     "type": "VSQ",
     "topic": "General Pathology",
     "subtopic": "Apoptosis",
-    "question": "Apoptosis has all of the following features except"
-  },
-  {
-    "id": "a. Inflammatory response b. Chromatin condensation c. Death of single cells d. Lysosomal breakdown",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Apoptosis has all of the following features except \na. Inflammatory response b. Chromatin condensation c. Death of single cells d. Lysosomal breakdown"
   },
   {
     "id": "PATH2416",
@@ -3377,20 +3338,7 @@
     "type": "VSQ",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Autoimmunity",
-    "question": "All are autoimmune disorders except"
-  },
-  {
-    "id": "a. Hashimotos's Thyroiditis b. Type I diabetes mellitus c. Type II diabetes mellitus d. Rheumatoid arthritis",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "All are autoimmune disorders except \na. Hashimotos's Thyroiditis b. Type I diabetes mellitus c. Type II diabetes mellitus d. Rheumatoid arthritis"
   },
   {
     "id": "PATH1569",
@@ -5379,20 +5327,7 @@
     "type": "VSQ",
     "topic": "General Pathology",
     "subtopic": "Calcification",
-    "question": "Dystrophic calcification is seen in all except"
-  },
-  {
-    "id": "a. Hypercalcaemia b. Atherosclerosis c. Acute pancreatitis d. Tuberculosis",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Dystrophic calcification is seen in all except \na. Hypercalcaemia b. Atherosclerosis c. Acute pancreatitis d. Tuberculosis"
   },
   {
     "id": "PATH0264",
@@ -7316,20 +7251,7 @@
     "type": "VSQ",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Coagulation",
-    "question": "Which coagulation test is prolonged in hemophilia A and B"
-  },
-  {
-    "id": "a. PT (Prothrombin Time) b. APTT (Activated Partial Thromboplastin Time) c. Bleeding Time d. Thrombin Time",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which coagulation test is prolonged in hemophilia A and B \na. PT (Prothrombin Time) b. APTT (Activated Partial Thromboplastin Time) c. Bleeding Time d. Thrombin Time"
   },
   {
     "id": "PATH0011",
@@ -7407,7 +7329,7 @@
     "type": "SAQ",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Coagulation Disorders",
-    "question": "Hemophilia"
+    "question": "Hemophilia "
   },
   {
     "id": "PATH2547",
@@ -9110,20 +9032,7 @@
     "type": "VSQ",
     "topic": "General Pathology",
     "subtopic": "Edema",
-    "question": "Which of the following is an important cause for decreased plasma oncotic pressure?"
-  },
-  {
-    "id": "a. Congestive Heart Failure b. Hypoalbuminemia c. Inflammation d. Deep vein thrombosis",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which of the following is an important cause for decreased plasma oncotic pressure? \na. Congestive Heart Failure b. Hypoalbuminemia c. Inflammation d. Deep vein thrombosis"
   },
   {
     "id": "PATH2406",
@@ -11372,20 +11281,7 @@
     "type": "MCQ",
     "topic": "Renal System",
     "subtopic": "Glomerular Diseases",
-    "question": "Tram track light microscopy appearance in glomeruli is classically seen in:"
-  },
-  {
-    "id": "a) Membranous GN b) Minimal change disease c) Rapidly progressive GN d) Membranoproliferative GN",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Tram track light microscopy appearance in glomeruli is classically seen in: \na) Membranous GN b) Minimal change disease c) Rapidly progressive GN d) Membranoproliferative GN"
   },
   {
     "id": "PATH2366",
@@ -11853,20 +11749,7 @@
     "type": "VSQ",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Granulomatous Disease",
-    "question": "Which of the following is a characteristic histopathological feature of sarcoidosis?"
-  },
-  {
-    "id": "a. Caseating granulomas b. Non-caseating granulomas c. Necrotizing vasculitis d. Amyloid deposits",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which of the following is a characteristic histopathological feature of sarcoidosis? \na. Caseating granulomas b. Non-caseating granulomas c. Necrotizing vasculitis d. Amyloid deposits"
   },
   {
     "id": "PATH0299",
@@ -12022,20 +11905,7 @@
     "type": "MCQ",
     "topic": "General Pathology",
     "subtopic": "Gynecologic Pathology",
-    "question": "Schiller-Duvall bodies are classically seen in:"
-  },
-  {
-    "id": "a) Teratoma b) Yolk sac tumor c) Choriocarcinoma d) Seminoma",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Schiller-Duvall bodies are classically seen in: \na) Teratoma b) Yolk sac tumor c) Choriocarcinoma d) Seminoma"
   },
   {
     "id": "PATH1908",
@@ -12812,7 +12682,7 @@
     "year": 2024,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Hemolytic Anemia",
     "question": "A tribal female aged 25 years came with complaint of, weakness, joints pain, severe dehydration and history of blood transfusion in the past. Hb.3.3gm%, Platelets 1.5 lac/microliter a) What is the probable diagnosis? (2 marks) b) Etiopathogenesis of disease. (4 marks) c) Write peripheral smear examination findings. (2 marks) d) Write Screening and confirmatory investigations (2 marks)"
@@ -14518,20 +14388,7 @@
     "type": "MCQ",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Hypersplenism",
-    "question": "The criteria for hypersplenism are all except:"
-  },
-  {
-    "id": "a) splenomegaly b) Pancytopenia c) Hypocellular bone marrow d) Improvement after splenectomy",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "The criteria for hypersplenism are all except: \na) splenomegaly b) Pancytopenia c) Hypocellular bone marrow d) Improvement after splenectomy"
   },
   {
     "id": "PATH0121",
@@ -15402,20 +15259,7 @@
     "type": "VSQ",
     "topic": "General Pathology",
     "subtopic": "Infarction",
-    "question": "White infarcts are encountered in all except:"
-  },
-  {
-    "id": "a. Heart. b. Spleen. c. Kidney. d. lung",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "White infarcts are encountered in all except: \na. Heart. b. Spleen. c. Kidney. d. lung"
   },
   {
     "id": "PATH2352",
@@ -16221,20 +16065,7 @@
     "type": "VSQ",
     "topic": "General Pathology",
     "subtopic": "Inheritance",
-    "question": "What is the recurrence risk for an autosomal recessive disease when both parents are carriers (Aa × Aa)?"
-  },
-  {
-    "id": "a. 0% b. 25% c. 50% d. 100%",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "What is the recurrence risk for an autosomal recessive disease when both parents are carriers (Aa × Aa)? \na. 0% b. 25% c. 50% d. 100%"
   },
   {
     "id": "PATH2421",
@@ -17612,20 +17443,7 @@
     "type": "VSQ",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Leukemia",
-    "question": "Auer rods are most characteristic of which condition?"
-  },
-  {
-    "id": "a. Acute lymphoblastic leukemia (ALL) b. Acute myeloid leukemia (AML) c. Chronic myelogenous leukemia (CML) d. Myelodysplastic syndrome (MDS)",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Auer rods are most characteristic of which condition? \na. Acute lymphoblastic leukemia (ALL) b. Acute myeloid leukemia (AML) c. Chronic myelogenous leukemia (CML) d. Myelodysplastic syndrome (MDS)"
   },
   {
     "id": "PATH2349",
@@ -18704,20 +18522,7 @@
     "type": "MCQ",
     "topic": "Hepatobiliary System",
     "subtopic": "Liver Pathology",
-    "question": "Special stain to demonstrate bridging fibrosis in cirrhosis is:"
-  },
-  {
-    "id": "a) Perls stain b) Sudan black stain c) Masson trichrome stain d) PAS stain",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Special stain to demonstrate bridging fibrosis in cirrhosis is: \na) Perls stain b) Sudan black stain c) Masson trichrome stain d) PAS stain"
   },
   {
     "id": "PATH1298",
@@ -18831,7 +18636,7 @@
     "year": 2023,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Respiratory System",
     "subtopic": "Lung Cancer",
     "question": "A 50-year-old male presents with cough, dyspnoea, and intermittent haemoptysis for two months along with loss of weight and appetite. He is a chronic smoker for the past 3 decades. CT chest revealed mass lesion in the right lobe of lung. a) What is your probable diagnosis? [1 Mark] b) Discuss in detail the classification, morphological features and the Paraneoplastic syndromes associated with it. [3+3+3 Marks]"
@@ -18847,20 +18652,7 @@
     "type": "MCQ",
     "topic": "General Pathology",
     "subtopic": "Lung Cancer",
-    "question": "Most frequent carcinoma of lung in non-smoker female is:"
-  },
-  {
-    "id": "a) Adenocarcinoma b) Squamous cell carcinoma c) Small cell carcinoma d) Large cell carcinoma",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Most frequent carcinoma of lung in non-smoker female is: \na) Adenocarcinoma b) Squamous cell carcinoma c) Small cell carcinoma d) Large cell carcinoma"
   },
   {
     "id": "PATH2584",
@@ -19146,20 +18938,7 @@
     "type": "MCQ",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Lymphoma",
-    "question": "Classical Hodgkin lymphoma includes all except:"
-  },
-  {
-    "id": "a) Nodular sclerosis HL b) Mixed cellularity HL c) Nodular Lymphocyte predominant HL d) Lymphocyte-rich HL",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Classical Hodgkin lymphoma includes all except: \na) Nodular sclerosis HL b) Mixed cellularity HL c) Nodular Lymphocyte predominant HL d) Lymphocyte-rich HL"
   },
   {
     "id": "PATH2491",
@@ -19676,7 +19455,7 @@
     "year": 2024,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Megaloblastic Anemia",
     "question": "A 59 years old female admitted with gradual weakness, fatigue, dyspnea and tingling & numbness with trouble walking. On physical examination pt. has pallor, mild icterus, beefy red tongue, stomatitis, sore throat with tachycardia. Her Hemoglobin is 6.0gm%, Total leucocyte count 3600/cumm and Platelet count is 110000/cumm. a) What is the probable diagnosis of above case? (02 marks) b) Write etiopathogenesis of it. (03 marks) c) Write Laboratory investigations to confirm the diagnosis? (05 marks)"
@@ -19689,7 +19468,7 @@
     "year": 2024,
     "exam": "Internals",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Megaloblastic Anemia",
     "question": "A 40 years old male presented to OPD with complaint of generalized weakness and tingling, numbness in fingers. His hemoglobin is 7.3gm and MCV is 110 fl. 1. What is the probable diagnosis of above case? (1 mark) 2. Define and Classify anemia (1+2 mark) 3. Write laboratory investigations of this disease. (4 marks) 4. Write in brief about RBC inclusions? (2 marks)"
@@ -19702,7 +19481,7 @@
     "year": 2024,
     "exam": "Internals",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Megaloblastic Anemia",
     "question": "A 39 years old female taking pure vegetarian food admitted with gradual weakness, fatigue, dyspnea and tingling & numbness with trouble walking. On physical examination pt. has pallor, mild icterus, beefy red tongue, stomatitis, sore throat with tachycardia. Her Hemoglobin is 6.0gm%, Total leucocyte count 3600/cumm and Platelet count is 110000/cumm. a) What is the probable diagnosis of above case? (02 marks) b) Write etiopathogenesis of it. (03 marks) c) Write Laboratory investigations for diagnosis? (03 marks) d) Write etiological classification of anaemia. (02 marks)"
@@ -20186,20 +19965,7 @@
     "type": "MCQ",
     "topic": "General Pathology",
     "subtopic": "Metabolic Disorders",
-    "question": "Which gene mutation causes cirrhosis in Wilson disease:"
-  },
-  {
-    "id": "a) HFE gene b) ATP 7B gene c) α-1 Antitrypsin d) Rb gene",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which gene mutation causes cirrhosis in Wilson disease: \na) HFE gene b) ATP 7B gene c) α-1 Antitrypsin d) Rb gene"
   },
   {
     "id": "PATH0590",
@@ -21119,7 +20885,7 @@
     "year": 2022,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Myeloproliferative Disorders",
     "question": "A 35 year old man admitted with gradual weakness. His liver is 2 cm and spleen is 15 cm enlarged below costal margins. His Hemoglobin is 9.3 gm%. Total leucocyte count 2,50,000/cumm and platelet count is 5,80,000/cumm. i. What is the probable diagnosis of above case? (1 mark) ii. Give the blood picture and molecular abnormality in this disease (5 marks) iii. How will you differentiate from Leukemoid reaction? (4 marks)"
@@ -21522,7 +21288,7 @@
     "year": 2022,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Cardiovascular System",
     "subtopic": "Myocardial Infarction",
     "question": "50 years old male rushed to hospital following sudden onset of intense substernal pain radiating to left arm. Angiography revealed complete blockage of left coronary artery. a) What is possible diagnosis? (2 marks) b) Write pathogenesis of the disease (3 marks) c) Write gross and microscopic morphologic changes in the affected organ. (4 marks) d) List useful serum markers (1 mark)"
@@ -21535,7 +21301,7 @@
     "year": 2024,
     "exam": "Internals",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Cardiovascular System",
     "subtopic": "Myocardial Infarction",
     "question": "A 50 years old male presented to emergency department sudden onset of pain on left side of chest radiating to left arm with apprehension and sweating. He had h/o epigastric discomfort since last night. On examination BP was 90/50, weak pulse-tachycardia with cold clammy limbs. ECG showed ST elevation with T wave inversion. a) What is the probable diagnosis of above case? (2 marks) b) Enumerate causes of it and serum biomarkers to confirm the diagnosis. (3 marks) c) Write sequential gross and microscopic changes in the affected organ. (3 marks) d) What important complications which may develop following it? (2 marks)"
@@ -21548,7 +21314,7 @@
     "year": 2024,
     "exam": "Uni",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Cardiovascular System",
     "subtopic": "Myocardial Infarction",
     "question": "A 50 years old male presented to emergency department, have sudden onset of pain on left side of chest radiating to left arm with apprehension and sweating. He had h/o epigastric discomfort since last night. On examination BP is 90/50, weak pulse-tachycardia with cold clammy limbs. ECG showed ST elevation with T wave inversion. a) What is the probable diagnosis of above case? (2 marks) b) Write its etiopathogenesis. (3 marks) c) Write sequential gross and microscopic changes in the affected organ. (3 marks) d) What complications which may develop following it? (2 marks)"
@@ -21561,7 +21327,7 @@
     "year": 2023,
     "exam": "Remedial",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Cardiovascular System",
     "subtopic": "Myocardial Infarction",
     "question": "A 48 years old male patient admitted to the hospital with complaints of acute left sided chest pain radiating to left arm. ECG shows 'ST elevation'. 1) What is possible diagnosis? (2marks) 2) Write pathogenesis of the disease (3marks) 3) Write gross and microscopic morphologic changes in the affected organ. (4marks) 4) List useful serum markers (1marks)"
@@ -22448,20 +22214,7 @@
     "type": "MCQ",
     "topic": "General Pathology",
     "subtopic": "Ophthalmic Pathology",
-    "question": "Flexner-Wintersteiner rosettes are seen in:"
-  },
-  {
-    "id": "a) Neuroblastoma b) Retinoblastoma c) Nephroblastoma d) Medulloblastoma",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Flexner-Wintersteiner rosettes are seen in: \na) Neuroblastoma b) Retinoblastoma c) Nephroblastoma d) Medulloblastoma"
   },
   {
     "id": "PATH1145",
@@ -22747,7 +22500,7 @@
     "type": "SAQ",
     "topic": "General Pathology",
     "subtopic": "p53",
-    "question": "Explain the sentence: \"p53 gene is the guardian of genome"
+    "question": "Explain the sentence: \"p53 gene is the guardian of genome\""
   },
   {
     "id": "PATH2455",
@@ -24320,20 +24073,7 @@
     "type": "VSQ",
     "topic": "General Pathology",
     "subtopic": "Pigments",
-    "question": "Which pigment is considered a marker of free radical injury and lipid peroxidation?"
-  },
-  {
-    "id": "a. Melanin b. Bilirubin c. Lipofuscin d. Hemosiderin",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which pigment is considered a marker of free radical injury and lipid peroxidation? \na. Melanin b. Bilirubin c. Lipofuscin d. Hemosiderin"
   },
   {
     "id": "PATH2548",
@@ -24889,7 +24629,7 @@
     "year": 2024,
     "exam": "Pre",
     "marks": 10,
-    "type": "Case",
+    "type": "case",
     "topic": "Respiratory System",
     "subtopic": "Pneumonia",
     "question": "40 years old male admitted with sudden onset of fever with shaking chills, malaise, pleuritic chest pain, dyspnea and cough with mucopurulent expectorant. On examination pt. has tachycardia, tachypnoea and hypoxia. CBC showed neutrophilic leukocytosis. Chest x-ray showed homogenous right lower lobe opacity. a) What is the probable diagnosis of the above case? (2 marks) b) Write its etiopathogenesis and types. (2 marks) c) Enumerate morphologic stages of the disease. (4 marks) d) Write its complications. (2 marks)"
@@ -26985,20 +26725,7 @@
     "type": "MCQ",
     "topic": "Cardiovascular System",
     "subtopic": "Rheumatic Fever",
-    "question": "Aschoff nodules are seen in:"
-  },
-  {
-    "id": "a) Hypertension b) Myocardial infarction c) Rheumatic fever d) Infective endocarditis",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Aschoff nodules are seen in: \na) Hypertension b) Myocardial infarction c) Rheumatic fever d) Infective endocarditis"
   },
   {
     "id": "PATH0123",
@@ -27453,7 +27180,7 @@
     "type": "MCQ",
     "topic": "Laboratory & Diagnostic Pathology",
     "subtopic": "Semen Analysis",
-    "question": "Following is the indication to perform a semen analysis test - a. Post vasectomy check to verify sterility b. Failure to conceive after 1 year of unprotected sex c. None of the option \"a\" and \"b\" d. Both option \"a\" and \"b"
+    "question": "Following is the indication to perform a semen analysis test - a. Post vasectomy check to verify sterility b. Failure to conceive after 1 year of unprotected sex c. None of the option \"a\" and \"b\" d. Both option \"a\" and \"b\""
   },
   {
     "id": "PATH2445",
@@ -27947,20 +27674,7 @@
     "type": "VSQ",
     "topic": "Dermatology",
     "subtopic": "Skin Cancer",
-    "question": "Which of the following tumor is rarely metastasised?"
-  },
-  {
-    "id": "a. Squamous cell carcinoma b. Basal cell carcinoma c. Melanoma d. Renal cell carcinoma",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which of the following tumor is rarely metastasised? \na. Squamous cell carcinoma b. Basal cell carcinoma c. Melanoma d. Renal cell carcinoma"
   },
   {
     "id": "PATH1988",
@@ -29247,20 +28961,7 @@
     "type": "VSQ",
     "topic": "Hematology & Lymphoreticular System",
     "subtopic": "Thrombosis",
-    "question": "Which of the following is NOT a component of Virchow's triad?"
-  },
-  {
-    "id": "a. Venous stasis b. Endothelial injury c. Hypercoagulability d. Hypokalemia",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which of the following is NOT a component of Virchow's triad? \na. Venous stasis b. Endothelial injury c. Hypercoagulability d. Hypokalemia"
   },
   {
     "id": "PATH2469",
@@ -29364,20 +29065,7 @@
     "type": "MCQ",
     "topic": "Endocrine System",
     "subtopic": "Thyroid Cancer",
-    "question": "Amyloid deposits in stroma is seen in:"
-  },
-  {
-    "id": "a) Papillary thyroid carcinoma b) Anaplastic thyroid carcinoma c) Follicular thyroid carcinoma d) Medullary thyroid carcinoma",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Amyloid deposits in stroma is seen in: \na) Papillary thyroid carcinoma b) Anaplastic thyroid carcinoma c) Follicular thyroid carcinoma d) Medullary thyroid carcinoma"
   },
   {
     "id": "PATH2518",
@@ -29767,20 +29455,7 @@
     "type": "MCQ",
     "topic": "Endocrine System",
     "subtopic": "Thyroiditis",
-    "question": "Types of thyroiditis are:"
-  },
-  {
-    "id": "a) Hashimoto b) Reidel c) All of above",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Types of thyroiditis are: \na) Hashimoto b) Reidel c) All of above"
   },
   {
     "id": "PATH2435",
@@ -30937,20 +30612,7 @@
     "type": "VSQ",
     "topic": "General Pathology",
     "subtopic": "Tumor Biology",
-    "question": "Which of the following is a tumor suppressor gene?"
-  },
-  {
-    "id": "a. c-MYC b. RAS c. p53 d. HER2/neu",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which of the following is a tumor suppressor gene? \na. c-MYC b. RAS c. p53 d. HER2/neu"
   },
   {
     "id": "PATH1943",
@@ -31145,20 +30807,7 @@
     "type": "MCQ",
     "topic": "General Pathology",
     "subtopic": "Tumor Markers",
-    "question": "The tumor marker for choriocarcinoma is:"
-  },
-  {
-    "id": "a) AFP b) β-hCG c) CA-125 d) PSA",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "The tumor marker for choriocarcinoma is: \na) AFP b) β-hCG c) CA-125 d) PSA"
   },
   {
     "id": "PATH2309",
@@ -32939,20 +32588,7 @@
     "type": "MCQ",
     "topic": "Infectious Disease",
     "subtopic": "Virology",
-    "question": "High risk HPV types associated with cervical cancer are:"
-  },
-  {
-    "id": "a) HPV 16 & 18 b) HPV 15 & 17 c) HPV 6 & 11 d) HPV 10 & 12",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "High risk HPV types associated with cervical cancer are: \na) HPV 16 & 18 b) HPV 15 & 17 c) HPV 6 & 11 d) HPV 10 & 12"
   },
   {
     "id": "PATH2284",
@@ -32965,20 +32601,7 @@
     "type": "MCQ",
     "topic": "Infectious Disease",
     "subtopic": "Virology",
-    "question": "All human hepatitis viruses are RNA viruses except:"
-  },
-  {
-    "id": "a) HBV b) HCV c) HAV d) HEV",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "All human hepatitis viruses are RNA viruses except: \na) HBV b) HCV c) HAV d) HEV"
   },
   {
     "id": "PATH0360",
@@ -33654,20 +33277,7 @@
     "type": "VSQ",
     "topic": "General Pathology",
     "subtopic": "Vitamin Deficiency",
-    "question": "Which enzyme systems critical for collagen synthesis require vitamin C as a cofactor?"
-  },
-  {
-    "id": "a. Prolyl hydroxylase and lysyl hydroxylase b. Carboxylase and decarboxylase c. Tyrosinase and phenylalanine hydroxylase d. DNA polymerase and ribonuclease",
-    "college": "",
-    "subject": "",
-    "part": "",
-    "year": "",
-    "exam": "",
-    "marks": "",
-    "type": "",
-    "topic": "",
-    "subtopic": "",
-    "question": ""
+    "question": "Which enzyme systems critical for collagen synthesis require vitamin C as a cofactor? \na. Prolyl hydroxylase and lysyl hydroxylase b. Carboxylase and decarboxylase c. Tyrosinase and phenylalanine hydroxylase d. DNA polymerase and ribonuclease"
   },
   {
     "id": "PATH1809",
