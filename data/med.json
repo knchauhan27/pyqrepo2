@@ -1908,7 +1908,72 @@
     "type": "case",
     "topic": "Hematology",
     "subtopic": "Anemia",
-    "question": "16-year-old male patient from tribal region came to OPD with complaint of easy fatigability, breathlessness on exertion and multiple joint pain (more of large joints) for 5 days.\nHe had past history of blood transfusion twice in last one year.\nOn examination patient was pale.\nBlood reports showed Hb of 5 gm%.\n1.\nWhich blood investigation will you carry out to confirm your diagnosis? (1)\n2.\nHow will you manage this patient? (3)"
+    "question": "\"16-year-old male patient from tribal region came to OPD with complaint of easy fatigability, breathlessness on exertion and multiple joint pain (more of large joints) for 5 days."
+  },
+  {
+    "id": "He had past history of blood transfusion twice in last one year.",
+    "college": "",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
+  },
+  {
+    "id": "On examination patient was pale.",
+    "college": "",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
+  },
+  {
+    "id": "Blood reports showed Hb of 5 gm%.",
+    "college": "",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
+  },
+  {
+    "id": "1.",
+    "college": "Which blood investigation will you carry out to confirm your diagnosis? (1)",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
+  },
+  {
+    "id": "2.",
+    "college": "How will you manage this patient? (3)\"",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
   },
   {
     "id": "MED0148",
@@ -3377,7 +3442,20 @@
     "type": "case",
     "topic": "Rheumatology",
     "subtopic": "Arthritis",
-    "question": "40-year-old female patient came with complaint of multiple joint pain with joint stiffness, which was more in morning and more in small joints of hand.\nWrite an approach to this patient."
+    "question": "\"40-year-old female patient came with complaint of multiple joint pain with joint stiffness, which was more in morning and more in small joints of hand."
+  },
+  {
+    "id": "Write an approach to this patient.\"",
+    "college": "",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
   },
   {
     "id": "MED0261",
@@ -7108,7 +7186,7 @@
     "type": "case",
     "topic": "Respiratory Medicine",
     "subtopic": "Community Acquired Pneumonia",
-    "question": "A 30 year old male presents with history of high-grade fever, cough with purulent sputum and dyspnea since 4 days. Chest X-ray shows consolidation in left lower lobe of lung. 1.\nWhat is the probable diagnosis? (1) 2.\nHow will you investigate and manage the patient? (5)"
+    "question": "A 30 year old male presents with history of high-grade fever, cough with purulent sputum and dyspnea since 4 days. Chest X-ray shows consolidation in left lower lobe of lung. 1.\tWhat is the probable diagnosis? (1) 2.\tHow will you investigate and manage the patient? (5)"
   },
   {
     "id": "MED0548",
@@ -8317,7 +8395,46 @@
     "type": "case",
     "topic": "Infectious Diseases",
     "subtopic": "Dengue",
-    "question": "46-year-old male patient came to OPD with complaint of high-grade fever, headache, severe bodyache for 3 days followed by complaint of rash over abdomen and limbs.\nBlood reports showed Hb 13 gm%, Total count 3200 /cmm and platelet count of 64,000 /cmm.\n1.\nWhich blood investigation will you carry out to confirm your diagnosis? (1)\n2.\nHow will you manage this patient? (3)"
+    "question": "\"46-year-old male patient came to OPD with complaint of high-grade fever, headache, severe bodyache for 3 days followed by complaint of rash over abdomen and limbs."
+  },
+  {
+    "id": "Blood reports showed Hb 13 gm%, Total count 3200 /cmm and platelet count of 64,000 /cmm.",
+    "college": "",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
+  },
+  {
+    "id": "1.",
+    "college": "Which blood investigation will you carry out to confirm your diagnosis? (1)",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
+  },
+  {
+    "id": "2.",
+    "college": "How will you manage this patient? (3)\"",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
   },
   {
     "id": "MED0641",
@@ -10787,7 +10904,7 @@
     "type": "case",
     "topic": "Neurology",
     "subtopic": "Generalized tonic-clonic seizure",
-    "question": "A 24 year old female patient admitted with complaints of multiple generalized tonic-clonic convulsions with loss of consciousness, intervened with tongue bite. 1.\nWhat is your probable diagnosis? (1) 2.\nWhat triggers this attack? (2) 3.\nHow will you manage this patient? (3)"
+    "question": "A 24 year old female patient admitted with complaints of multiple generalized tonic-clonic convulsions with loss of consciousness, intervened with tongue bite. 1.\tWhat is your probable diagnosis? (1) 2.\tWhat triggers this attack? (2) 3.\tHow will you manage this patient? (3)"
   },
   {
     "id": "MED0831",
@@ -16702,7 +16819,59 @@
     "type": "case",
     "topic": "Hematology",
     "subtopic": "Megaloblastic anemia",
-    "question": "32-year-old male pure vegetarian patient came to OPD with complaint of easy fatigability and breathlessness on exertion.\nOn examination patient was pale, had knuckle hyperpigmentation and mild hepatosplenomegaly.\nBlood reports showed Hb of 4 gm%, TC of 3400 /cmm, platelet count of 90,000 /cmm, with MCV of 112 fL.\n1.\nWhich blood investigation will you carry out to confirm your diagnosis? (1)\n2.\nHow will you manage this patient? (3)"
+    "question": "\"32-year-old male pure vegetarian patient came to OPD with complaint of easy fatigability and breathlessness on exertion."
+  },
+  {
+    "id": "On examination patient was pale, had knuckle hyperpigmentation and mild hepatosplenomegaly.",
+    "college": "",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
+  },
+  {
+    "id": "Blood reports showed Hb of 4 gm%, TC of 3400 /cmm, platelet count of 90,000 /cmm, with MCV of 112 fL.",
+    "college": "",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
+  },
+  {
+    "id": "1.",
+    "college": "Which blood investigation will you carry out to confirm your diagnosis? (1)",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
+  },
+  {
+    "id": "2.",
+    "college": "How will you manage this patient? (3)\"",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
   },
   {
     "id": "MED1286",
@@ -16780,7 +16949,33 @@
     "type": "case",
     "topic": "Neurology",
     "subtopic": "Meningitis",
-    "question": "25-year-old male patient presented with complaint of low-grade fever, headache, vomiting and weight loss for 25 days and had 2 episodes of convulsions in last 2 days.\nOn examination, patient had altered sensorium with neck rigidity and positive Kernig’s and Brudzinski’s sign.\nHow will you investigate this patient? (4)"
+    "question": "\"25-year-old male patient presented with complaint of low-grade fever, headache, vomiting and weight loss for 25 days and had 2 episodes of convulsions in last 2 days."
+  },
+  {
+    "id": "On examination, patient had altered sensorium with neck rigidity and positive Kernig’s and Brudzinski’s sign.",
+    "college": "",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
+  },
+  {
+    "id": "How will you investigate this patient? (4)\"",
+    "college": "",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
   },
   {
     "id": "MED1292",
@@ -16793,7 +16988,33 @@
     "type": "case",
     "topic": "Neurology",
     "subtopic": "Meningitis",
-    "question": "40-year-old male patient presented with complaint of fever, headache and vomiting since 15 days and had 2 episodes of convulsions in last 2 days.\nOn examination patient had altered sensorium with neck rigidity and positive Kernig’s and Brudzinski’s sign.\nHow will you investigate this patient?"
+    "question": "\"40-year-old male patient presented with complaint of fever, headache and vomiting since 15 days and had 2 episodes of convulsions in last 2 days."
+  },
+  {
+    "id": "On examination patient had altered sensorium with neck rigidity and positive Kernig’s and Brudzinski’s sign.",
+    "college": "",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
+  },
+  {
+    "id": "How will you investigate this patient?\"",
+    "college": "",
+    "subject": "",
+    "part": "",
+    "year": "",
+    "exam": "",
+    "marks": "",
+    "type": "",
+    "topic": "",
+    "subtopic": "",
+    "question": ""
   },
   {
     "id": "MED1293",
@@ -21914,8 +22135,8 @@
     "marks": 4,
     "type": "SAQ",
     "topic": "General Medicine",
-    "subtopic": "Pyrexia of Unknown Origin",
-    "question": "Differential Diagnosis of PUO (Pyrexia of Unknown Origin)."
+    "subtopic": "Pyrexia of null Origin",
+    "question": "Differential Diagnosis of PUO (Pyrexia of null Origin)."
   },
   {
     "id": "MED1687",
@@ -21927,8 +22148,8 @@
     "marks": 8,
     "type": "SAQ",
     "topic": "General Medicine",
-    "subtopic": "Pyrexia of unknown origin",
-    "question": "Investigations of Pyrexia of unknown origin."
+    "subtopic": "Pyrexia of null origin",
+    "question": "Investigations of Pyrexia of null origin."
   },
   {
     "id": "MED1688",
@@ -21940,8 +22161,8 @@
     "marks": 1,
     "type": "VSQ",
     "topic": "General Medicine",
-    "subtopic": "Pyrexia of unknown origin",
-    "question": "Define pyrexia of unknown origin."
+    "subtopic": "Pyrexia of null origin",
+    "question": "Define pyrexia of null origin."
   },
   {
     "id": "MED1689",
@@ -21953,8 +22174,8 @@
     "marks": 8,
     "type": "SAQ",
     "topic": "General Medicine",
-    "subtopic": "Pyrexia of unknown origin",
-    "question": "Investigations of Pyrexia of unknown origin."
+    "subtopic": "Pyrexia of null origin",
+    "question": "Investigations of Pyrexia of null origin."
   },
   {
     "id": "MED1690",
@@ -23891,7 +24112,7 @@
     "type": "case",
     "topic": "General Medicine",
     "subtopic": "Snake bite",
-    "question": "A 30 year old female comes to casualty after history of being bitten by a snake. 1.\nDescribe the pre-hospital care in snake bite patients (2) 2.\nWhat are clinical features of Hematotoxic Snake Bite (2) 3.\nTreatment of Neurotoxic Snake Bite (2)"
+    "question": "A 30 year old female comes to casualty after history of being bitten by a snake. 1.\tDescribe the pre-hospital care in snake bite patients (2) 2.\tWhat are clinical features of Hematotoxic Snake Bite (2) 3.\tTreatment of Neurotoxic Snake Bite (2)"
   },
   {
     "id": "MED1839",
