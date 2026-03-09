@@ -938,6 +938,67 @@ function applyAndRender() {
 }
 
 /* ============================================================
+   AUTH UI MANAGEMENT (for subject page)
+   ============================================================ */
+async function updateAuthUI() {
+  try {
+    const {
+      data: { session },
+    } = await supabaseClient.auth.getSession();
+
+    const signInBtn = document.getElementById("sign-in-btn");
+    const userMenu = document.getElementById("user-menu");
+    const userEmail = document.getElementById("user-email");
+    const logoutBtn = document.getElementById("logout-btn");
+
+    if (!signInBtn || !userMenu) return;
+
+    if (session && session.user) {
+      // User is logged in
+      signInBtn.style.display = "none";
+      userMenu.classList.remove("hidden");
+      userEmail.textContent = session.user.email || "Account";
+
+      // Set up logout handler
+      if (logoutBtn && !logoutBtn.dataset.listenerAdded) {
+        logoutBtn.dataset.listenerAdded = "true";
+        logoutBtn.addEventListener("click", async () => {
+          try {
+            logoutBtn.disabled = true;
+            logoutBtn.textContent = "Signing out...";
+
+            const { error } = await supabaseClient.auth.signOut();
+
+            if (error) {
+              alert("Error signing out: " + error.message);
+              return;
+            }
+
+            // Update UI
+            signInBtn.style.display = "block";
+            userMenu.classList.add("hidden");
+            signInBtn.textContent = "Sign In";
+
+            alert("Signed out successfully!");
+          } catch (error) {
+            alert("Error: " + error.message);
+          } finally {
+            logoutBtn.disabled = false;
+            logoutBtn.textContent = "Sign Out";
+          }
+        });
+      }
+    } else {
+      // User is not logged in
+      signInBtn.style.display = "block";
+      userMenu.classList.add("hidden");
+    }
+  } catch (error) {
+    console.error("Error updating auth UI:", error);
+  }
+}
+
+/* ============================================================
    BOOT
    ============================================================ */
 async function init() {
@@ -951,6 +1012,16 @@ async function init() {
   DOM.get("loading-state").hidden = false;
   DOM.get("questions-list").innerHTML = "";
   DOM.get("empty-state").hidden = true;
+
+  // Check and update authentication status UI
+  await updateAuthUI();
+
+  // Listen for auth state changes
+  if (typeof supabaseClient !== "undefined") {
+    supabaseClient.auth.onAuthStateChange((event, session) => {
+      updateAuthUI();
+    });
+  }
 
   try {
     const subjectData = await DataLoader.loadData(subject);
