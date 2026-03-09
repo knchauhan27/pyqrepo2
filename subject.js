@@ -429,7 +429,7 @@ const PDFExport = (() => {
       .trim();
   }
 
-  function addCoverPage(doc, subject, filters) {
+  function addCoverPage(doc, subject, filters, userInfo) {
     let y = 38;
 
     // ── Title block ──
@@ -455,6 +455,24 @@ const PDFExport = (() => {
       align: "center",
     });
     y += 16;
+
+    // ── User info (if available) ──
+    if (userInfo && (userInfo.displayName || userInfo.email)) {
+      doc.setFontSize(10);
+      doc.setFont("helvetica", "normal");
+      doc.setTextColor(80);
+      if (userInfo.displayName) {
+        doc.text(`Downloaded by: ${userInfo.displayName}`, 105, y, {
+          align: "center",
+        });
+        y += 6;
+      }
+      if (userInfo.email) {
+        doc.text(`Email: ${userInfo.email}`, 105, y, { align: "center" });
+        y += 6;
+      }
+      y += 4; // Extra space after user info
+    }
 
     // ── Subject badge ──
     doc.setFillColor(91, 76, 245);
@@ -566,7 +584,7 @@ const PDFExport = (() => {
     return map;
   }
 
-  function generate(filteredQuestions, subject, filterSummary) {
+  function generate(filteredQuestions, subject, filterSummary, userInfo) {
     if (!window.jspdf) {
       alert(
         "jsPDF library not loaded. Add the jsPDF <script> tag to subject.html.",
@@ -582,7 +600,7 @@ const PDFExport = (() => {
     const doc = new jsPDF({ unit: "mm", format: "a4" });
 
     // ── PAGE 1: Cover ──
-    addCoverPage(doc, subject, filterSummary);
+    addCoverPage(doc, subject, filterSummary, userInfo);
 
     // ── PAGE 2+: Content ──
     doc.addPage();
@@ -874,11 +892,35 @@ function buildFilterSummary() {
 }
 
 function triggerPDFExport() {
-  PDFExport.generate(
-    getFilteredAndSorted(),
-    State.get("subject"),
-    buildFilterSummary(),
-  );
+  // Get current user
+  supabaseClient.auth
+    .getSession()
+    .then(({ data: { session } }) => {
+      let userInfo = null;
+      if (session && session.user) {
+        const user = session.user;
+        userInfo = {
+          displayName: user.user_metadata?.full_name || user.email,
+          email: user.email,
+        };
+      }
+      PDFExport.generate(
+        getFilteredAndSorted(),
+        State.get("subject"),
+        buildFilterSummary(),
+        userInfo,
+      );
+    })
+    .catch((error) => {
+      console.error("Error fetching session:", error);
+      // Continue without user info
+      PDFExport.generate(
+        getFilteredAndSorted(),
+        State.get("subject"),
+        buildFilterSummary(),
+        null,
+      );
+    });
 }
 
 function triggerCSVExport() {
