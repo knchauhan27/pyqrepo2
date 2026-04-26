@@ -32,6 +32,7 @@ const State = (() => {
       years: new Set(), // ← now multi-select Set
       topics: new Set(), // ← now multi-select Set
       subtopics: new Set(), // ← now multi-select Set
+      exams: new Set(), // new exam filter
       marks: "", // single select (dropdown)
       types: new Set(), // multi-select (unchanged)
     },
@@ -65,6 +66,7 @@ const State = (() => {
         years: new Set(),
         topics: new Set(),
         subtopics: new Set(),
+        exams: new Set(),
         marks: "",
         types: new Set(),
       };
@@ -138,13 +140,14 @@ const FilterEngine = (() => {
    * For multi-select Sets: empty Set = match all; non-empty = must be in Set.
    */
   function getFilteredSet(questions, filters, searchQuery) {
-    const { years, topics, subtopics, marks, types } = filters;
+    const { years, topics, subtopics, exams, marks, types } = filters;
     const query = searchQuery.trim().toLowerCase();
 
     return questions.filter((q) => {
       if (years.size > 0 && !years.has(q.year)) return false;
       if (topics.size > 0 && !topics.has(q.topic)) return false;
       if (subtopics.size > 0 && !subtopics.has(q.subtopic)) return false;
+      if (exams.size > 0 && !exams.has(q.exam)) return false;
       if (marks && String(q.marks) !== marks) return false;
       if (types.size > 0 && !types.has(q.type)) return false;
       if (query && !q.question.toLowerCase().includes(query)) return false;
@@ -159,11 +162,12 @@ const FilterEngine = (() => {
    * level: 'topics' | 'subtopics' | 'marks'
    */
   function getCascadePool(questions, filters, level) {
-    const { years, topics, subtopics, types } = filters;
+    const { years, topics, subtopics, exams, types } = filters;
     const query = State.get("searchQuery").trim().toLowerCase();
 
     return questions.filter((q) => {
       if (types.size > 0 && !types.has(q.type)) return false;
+      if (exams.size > 0 && !exams.has(q.exam)) return false;
       if (query && !q.question.toLowerCase().includes(query)) return false;
 
       if (level === "topics") {
@@ -366,6 +370,11 @@ const Renderer = (() => {
       filters.subtopics,
     );
 
+    // --- EXAMS (multi-chip, non-cascading except by type/query/exam itself) ---
+    const examPool = FilterEngine.getCascadePool(all, filters, "marks");
+    const exams = FilterEngine.uniqueSorted(examPool, "exam");
+    DOM.buildChipGroup(DOM.get("filter-exam"), exams, filters.exams);
+
     // Dim subtopic group if no topic selected
     const subWrap = DOM.get("filter-subtopic");
     subWrap.style.opacity = filters.topics.size === 0 ? "0.45" : "1";
@@ -395,6 +404,7 @@ const Renderer = (() => {
       f.years.size +
       f.topics.size +
       f.subtopics.size +
+      f.exams.size +
       f.types.size +
       (f.marks ? 1 : 0) +
       (s.trim() ? 1 : 0);
@@ -499,6 +509,7 @@ const PDFExport = (() => {
       ["Years", filters.years || "All"],
       ["Topics", filters.topics || "All"],
       ["Subtopics", filters.subtopics || "All"],
+      ["Exams", filters.exams || "All"],
       ["Marks", filters.marks || "All"],
       ["Types", filters.types || "All"],
     ];
@@ -754,6 +765,14 @@ const Events = (() => {
       applyAndRender();
     });
 
+    // ── EXAM chips ──
+    DOM.get("filter-exam").addEventListener("click", (e) => {
+      const chip = e.target.closest(".type-chip");
+      if (!chip) return;
+      State.toggleSetFilter("exams", chip.dataset.value);
+      applyAndRender();
+    });
+
     // ── MARKS select ──
     DOM.get("filter-marks").addEventListener("change", (e) => {
       State.setFilter("marks", e.target.value);
@@ -886,6 +905,7 @@ function buildFilterSummary() {
     years: f.years.size ? [...f.years].sort((a, b) => b - a).join(", ") : "All",
     topics: f.topics.size ? [...f.topics].sort().join(", ") : "All",
     subtopics: f.subtopics.size ? [...f.subtopics].sort().join(", ") : "All",
+    exams: f.exams.size ? [...f.exams].sort().join(", ") : "All",
     marks: f.marks ? `${f.marks}m` : "All",
     types: f.types.size ? [...f.types].sort().join(", ") : "All",
   };
