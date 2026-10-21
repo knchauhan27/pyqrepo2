@@ -60,6 +60,18 @@ This project now includes authentication with Supabase, supporting:
    - Copy the Client ID and Client Secret
 5. Paste them into your Supabase Google provider settings
 
+### Configure the RepoMed Free callback
+
+For the deployed GitHub Pages site, add this exact URL under **Authentication → URL Configuration → Redirect URLs** in the Supabase project used by `supabase-config.js`:
+
+```text
+https://knchauhan27.github.io/pyqrepo2/
+```
+
+The deployed Free site currently uses project `qrznpipmgfwqdcomfcsu`. Verify the project in the deployed configuration before editing dashboard settings. The login code preserves `/pyqrepo2/` when requesting its callback; using only `window.location.origin` drops that path.
+
+If this Supabase project serves only RepoMed Free, also set its **Site URL** to the URL above. If it is shared with `repomed.in`, preserve that site's Site URL and add the Free callback to Redirect URLs. Deploy the updated `auth.js` and test Google login in a fresh tab. After login, the URL should remain under `/pyqrepo2/`, and a subject should open under `/pyqrepo2/subject.html`.
+
 ### Step 5: Set Up Email Confirmation (Optional)
 
 If you want email verification for new accounts:

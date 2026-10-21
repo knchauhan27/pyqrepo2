@@ -1,5 +1,11 @@
 // Authentication Handler
 
+// Return to this deployment, including the repository path on GitHub Pages.
+// Exclude query parameters and OAuth tokens from the callback URL.
+function getAuthCallbackUrl() {
+  return new URL("./", window.location.href).href;
+}
+
 // Function to initialize auth after DOM is loaded
 function initializeAuth() {
   // Get DOM elements
@@ -188,7 +194,7 @@ function initializeAuth() {
           data: {
             full_name: name,
           },
-          emailRedirectTo: `${window.location.origin}`,
+          emailRedirectTo: getAuthCallbackUrl(),
         },
       });
 
@@ -224,7 +230,7 @@ function initializeAuth() {
       const { data, error } = await supabaseClient.auth.signInWithOAuth({
         provider: "google",
         options: {
-          redirectTo: `${window.location.origin}`,
+          redirectTo: getAuthCallbackUrl(),
           scopes: "profile email",
         },
       });
@@ -243,7 +249,7 @@ function initializeAuth() {
       const { data, error } = await supabaseClient.auth.signInWithOAuth({
         provider: "google",
         options: {
-          redirectTo: `${window.location.origin}`,
+          redirectTo: getAuthCallbackUrl(),
           scopes: "profile email",
         },
       });
