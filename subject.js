@@ -370,8 +370,12 @@ const Renderer = (() => {
       filters.subtopics,
     );
 
-    // --- EXAMS (multi-chip, non-cascading except by type/query/exam itself) ---
-    const examPool = FilterEngine.getCascadePool(all, filters, "marks");
+    // Build exam choices without the exam filter so other exams remain selectable.
+    const examPool = FilterEngine.getCascadePool(
+      all,
+      { ...filters, exams: new Set() },
+      "marks",
+    );
     const exams = FilterEngine.uniqueSorted(examPool, "exam");
     DOM.buildChipGroup(DOM.get("filter-exam"), exams, filters.exams);
 
